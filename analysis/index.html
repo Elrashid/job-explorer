@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MENA Job Market Analysis Dashboard</title>
+  <link rel="stylesheet" href="./css/analysis.css">
+</head>
+<body>
+  <header class="app-header">
+    <span class="app-logo">MENA Job Analysis</span>
+    <span class="app-subtitle" id="load-status">Loading...</span>
+  </header>
+
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="overview">
+      Overview <span class="tab-num">1</span>
+    </button>
+    <button class="tab-btn" data-tab="prisma">
+      PRISMA <span class="tab-num">2</span>
+    </button>
+    <button class="tab-btn" data-tab="skills">
+      Skills Matrix <span class="tab-num">3</span>
+    </button>
+    <button class="tab-btn" data-tab="careers">
+      Career Paths <span class="tab-num">4</span>
+    </button>
+    <button class="tab-btn" data-tab="datamodel">
+      Data Model <span class="tab-num">5</span>
+    </button>
+  </nav>
+
+  <main class="tab-content">
+    <section class="tab-pane active" id="pane-overview">
+      <tab-overview></tab-overview>
+    </section>
+    <section class="tab-pane" id="pane-prisma">
+      <tab-prisma></tab-prisma>
+    </section>
+    <section class="tab-pane" id="pane-skills">
+      <tab-skills></tab-skills>
+    </section>
+    <section class="tab-pane" id="pane-careers">
+      <tab-careers></tab-careers>
+    </section>
+    <section class="tab-pane" id="pane-datamodel">
+      <tab-datamodel></tab-datamodel>
+    </section>
+  </main>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

@@ -21,9 +21,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp -r explorer _site/explorer
+          cp -r analysis _site/analysis
+          cp -r paper _site/paper
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: explorer
+          path: _site
       - id: deployment
         uses: actions/deploy-pages@v4
