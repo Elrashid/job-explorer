@@ -34,13 +34,6 @@
       "faculty": "Prof. Khaled Shaalan (Engineering & IT)"
     },
     {
-      "degree": "MBA Certificate in Information Technology",
-      "university": "UCAM, Spain",
-      "years": "2022",
-      "accreditation": "Dubai Government Accredited",
-      "focus": "IT Leadership, Executive Management"
-    },
-    {
       "degree": "Bachelor of Science in Information Systems",
       "grade": "V.Good with Honours",
       "university": "Omdurman Islamic University",
@@ -391,7 +384,7 @@
   "causes": ["Education", "Science and Technology"],
   "key_differentiators": [
     "16+ years continuous IT experience (no gaps) across education, enterprise, government, and research",
-    "MSc Informatics (BUiD) + MBA IT (UCAM Spain) + BSc Information Systems — triple-qualified",
+    "MSc Informatics (BUiD) + BSc Information Systems — dual-qualified with postgraduate research",
     "Published researcher: peer-reviewed paper in Int. Journal of Information Management (2018)",
     "SAPO Framework: achieved 94% LLM performance improvement via decentralized reinforcement learning swarms",
     "DEWA CleanTech Hackathon Winner (Integration category) — SolCharge for EV solar charging",

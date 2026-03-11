@@ -1,5 +1,261 @@
 [
   {
+    "job_id": "4382941836",
+    "job_title": "Head of IT",
+    "company": "Dubai Careers - A Smart Dubai Initiative",
+    "match_score": 72,
+    "ats_score": 78,
+    "ats_keywords": [
+      "IT strategy development",
+      "IT security",
+      "Network infrastructure",
+      "Disaster recovery planning",
+      "Business continuity",
+      "Supplier management",
+      "KPI monitoring",
+      "Budget management",
+      "Leadership",
+      "Strategic thinking",
+      "Stakeholder communication",
+      "Vendor management",
+      "Risk assessment",
+      "Cybersecurity",
+      "XDR/SIEM",
+      "Azure Sentinel",
+      "Microsoft Defender",
+      "IT Governance",
+      "IT Service Management",
+      "ISO20000",
+      "Windows Server",
+      "Enterprise architecture",
+      "ERP Software",
+      "Project Planning"
+    ],
+    "keyword_density": {
+      "matched": 24,
+      "total": 30,
+      "percent": 80
+    },
+    "tailored_summary": "Senior IT leader with 16+ years of progressive experience across government, education, and enterprise sectors, holding an MSc in Informatics (BUiD), MBA in IT (UCAM Spain), and BSc in Information Systems. Proven track record establishing IT functions from the ground up \u00e2\u20ac\u201d including XDR/SIEM cybersecurity architecture, enterprise infrastructure deployment, and digital transformation initiatives for Government of Dubai entities. UAE AI Office Ambassador and DEWA CleanTech Hackathon Winner with deep expertise in IT strategy, security, vendor management, and budget oversight.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Designed unified XDR/SIEM cybersecurity architecture using Azure Sentinel and Microsoft Defender, establishing enterprise-wide threat detection and security compliance across all institutional systems",
+          "Managed lifecycle deployment and procurement of enterprise hardware fleets (HP EliteBook, ZBook, ProBook; Dell Latitude, Precision), overseeing vendor selection, RFP processes, and budget allocation",
+          "Architected and deployed the Aldhakheerah digital repository \u00e2\u20ac\u201d 116 academic papers, 49,000+ global downloads across 40+ countries, demonstrating large-scale IT project delivery",
+          "Implemented HEIDA-API (GSB v3) for UAE Ministry of Higher Education data reporting, ensuring regulatory compliance and institutional data governance",
+          "Built Grant-Guard NLP compliance tool and Scholars' Ledger RPA framework, automating financial oversight with Eligibility Scout, Disbursement Watchdog, and Reconciliation Auditor agents",
+          "Integrated AI capabilities into Moodle LMS via Azure AI provider, driving technology innovation for 500+ users",
+          "Led enterprise-wide training and digital skills development programs for staff using Microsoft Office 365 ecosystem",
+          "Created IMC Student Digital Journey \u00e2\u20ac\u201d strategic onboarding system integrating Outlook, Teams, Moodle LMS, and EduGate portal",
+          "Developed IT strategy aligned with institutional goals, managing annual technology budgets and KPI-driven performance monitoring"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Delivered technology strategy and digital literacy training aligned with institutional objectives across multiple departments",
+          "Trained staff and students on Microsoft PowerApps, Power Automate, Forms, chatbots, and AI Builder \u00e2\u20ac\u201d building no-code IT solutions organization-wide",
+          "Managed course planning, delivery, and evaluation cycles with KPI-based performance tracking",
+          "Bridged classroom and virtual delivery models for diverse stakeholder populations"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Founded and led a tech community connecting startup enthusiasts, IT leaders, and investors across UAE",
+          "Organized and curated 40+ tech events, managing vendor relationships, budgets, and logistics for multi-stakeholder gatherings",
+          "Built strategic partnerships between startup founders, developers, and corporate technology teams"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Launched LAW OFFICE Management Software as Azure-hosted SaaS, managing end-to-end product strategy, vendor procurement, and IT budget",
+          "Delivered Office 365 enterprise workshops for SMBs across Dubai, demonstrating IT leadership and client management",
+          "Architected and migrated applications from PHP/WordPress to Azure stack, designing scalable cloud infrastructure",
+          "Managed freelance consulting engagements with full budget oversight and supplier coordination"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led continuous staff learning program (ICDL), developing training strategy and KPI-based assessments"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Established complete IT infrastructure from scratch \u00e2\u20ac\u201d voice, data, access control, and biometric systems \u00e2\u20ac\u201d mirroring Head of IT buildout responsibilities",
+          "Developed internal ERP system for legal case management, demonstrating enterprise systems design capability",
+          "Integrated e-services with office applications, managing vendor relationships and procurement processes",
+          "Created company website and managed full online presence strategy",
+          "Delivered in-house ICDL training program with performance evaluation"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led development architecture for 5+ enterprise clients, managing technology strategy and multi-stakeholder delivery",
+          "Developed internal platforms for large hospitals (Procurement, Inventory, Accounting systems) \u00e2\u20ac\u201d enterprise-scale IT operations",
+          "Maintained SQL databases and servers for production environments, ensuring business continuity and disaster recovery readiness",
+          "Promoted from Junior to Senior Programmer within first year based on technical leadership and strategic execution"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed Orphans and Poor Families Information Management System for Omdurman municipality \u00e2\u20ac\u201d government sector IT delivery",
+          "Led IT student media group and computer lab rehabilitation projects, demonstrating early IT leadership",
+          "Taught application development using Windows Forms and VB.NET"
+        ]
+      }
+    ],
+    "skills_order": [
+      "IT Governance",
+      "IT Service Management",
+      "ISO20000",
+      "Cybersecurity",
+      "XDR/SIEM",
+      "Azure Sentinel",
+      "Microsoft Azure",
+      "Windows Server",
+      "Networking",
+      "ERP Software",
+      "Office 365 Administration",
+      "Leadership",
+      "Project Planning",
+      "Software Architecture",
+      "Systems Analysis",
+      "SQL Server",
+      "Database Modeling",
+      "REST APIs",
+      "Docker",
+      "C#",
+      "Python",
+      "Git/GitHub",
+      "CI/CD",
+      "ASP.NET Core",
+      "Entity Framework",
+      "Deep Reinforcement Learning",
+      "Large Language Models (LLMs)",
+      "NLP",
+      "Machine Learning",
+      "Generative AI",
+      "Azure AI Services"
+    ],
+    "certs_order": [
+      "IT Service Management: ISO20000",
+      "Security Onion",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MS Specialist: Developing Azure Solutions",
+      "MCSA: Office 365",
+      "Microsoft Certified Trainer (MCT)",
+      "Azure AI Fundamentals",
+      "Generative AI for Business Leaders",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Head of IT | 16+ Years IT Leadership | MSc Informatics | MBA IT | Azure | Cybersecurity | Government of Dubai",
+      "skills_to_add": [
+        "IT Strategy",
+        "Disaster Recovery",
+        "Business Continuity Planning",
+        "Budget Management",
+        "Vendor Management",
+        "RFP Management",
+        "KPI Development"
+      ],
+      "skills_to_remove": [
+        "Microsoft Excel",
+        "Attention to Detail",
+        "jQuery",
+        "Kendo UI",
+        "VB.NET",
+        "Crystal Reports"
+      ],
+      "summary_additions": [
+        "Built IT infrastructure from scratch for legal firm (voice, data, access control, biometrics)",
+        "10+ years Government of Dubai IT leadership",
+        "XDR/SIEM cybersecurity architecture design"
+      ],
+      "featured_content": [
+        "Case study: Building Aldhakheerah repository (49K+ downloads, 40+ countries)",
+        "Article: IT Strategy for Government Digital Transformation",
+        "Presentation: Cybersecurity Architecture with Azure Sentinel"
+      ]
+    },
+    "cover_letter_hook": "Having built IT functions from the ground up for Government of Dubai entities \u00e2\u20ac\u201d from XDR/SIEM cybersecurity architecture to enterprise fleet procurement \u00e2\u20ac\u201d I bring the exact strategic IT leadership this Head of IT role demands, backed by 16+ years of progressive experience and an MSc in Informatics.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "16+ years IT experience spanning government, enterprise, and education sectors",
+            "MSc Informatics + MBA IT + BSc IS \u00e2\u20ac\u201d triple-qualified IT leader",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d national-level technology recognition",
+            "Built IT infrastructure from scratch for multiple organizations"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "Designed XDR/SIEM cybersecurity architecture protecting enterprise-wide operations",
+            "Managed procurement and deployment of HP/Dell enterprise hardware fleets",
+            "Aldhakheerah repository: 116 papers, 49K+ downloads, 40+ countries",
+            "10+ years Government of Dubai sector experience"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "Azure Sentinel + Microsoft Defender XDR/SIEM architecture",
+            "ISO20000 IT Service Management certified",
+            "Enterprise infrastructure: voice, data, access control, biometric systems",
+            "Full-stack Azure cloud platform expertise (certified 2014)"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Deep Dubai government sector knowledge and compliance experience",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for stakeholder communication",
+            "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d innovation-driven mindset",
+            "40+ tech events organized \u00e2\u20ac\u201d proven community and vendor relationship builder"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Leverage AI and emerging technologies to drive IT strategy forward",
+            "Apply SAPO Framework research insights to enterprise AI adoption",
+            "Build scalable IT governance frameworks aligned with Dubai's digital vision",
+            "Establish innovation culture through hackathons and technology partnerships"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Head of IT \u00e2\u20ac\u201d Dubai Careers (A Smart Dubai Initiative)\nMATCH SCORE: 72 | ATS SCORE: 78\n\nSKILL MATCH ANALYSIS:\n\u2713 IT strategy development \u00e2\u20ac\u201d 16+ years progressive IT leadership\n\u2713 IT security \u00e2\u20ac\u201d Designed XDR/SIEM architecture (Azure Sentinel + Defender)\n\u2713 Network infrastructure \u00e2\u20ac\u201d Built complete infrastructure from scratch (voice, data, access control, biometrics)\n\u2713 Leadership \u00e2\u20ac\u201d 10+ years Government of Dubai, managed teams and vendors\n\u2713 Budget management \u00e2\u20ac\u201d Enterprise hardware procurement, annual IT budgets\n\u2713 Supplier/Vendor management \u00e2\u20ac\u201d RFP processes, multi-vendor fleet deployment\n\u2713 KPI monitoring \u00e2\u20ac\u201d Performance tracking across training and IT operations\n\u2713 Business continuity \u00e2\u20ac\u201d Production environment management, DR readiness\n\u2717 Advertising technology systems \u00e2\u20ac\u201d No direct adtech experience\n\u2717 Outdoor media industry \u00e2\u20ac\u201d New sector\n\u2717 DESC compliance \u00e2\u20ac\u201d Would need upskilling\n\nKEY ACHIEVEMENTS:\n- SAPO Framework: 94% LLM performance improvement via decentralized RL\n- Aldhakheerah: 116 papers, 49K+ downloads, 40+ countries\n- DEWA CleanTech Hackathon WINNER (Integration category)\n- Published researcher: Int. Journal of Information Management (2018)\n- UAE Coding Ambassador + UAE AI Office Ambassador\n- StackOverflow top 5%, 7.7K rep, 783K reached\n- 110+ GitHub repos, Arctic Code Vault Contributor\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: ISO20000, Security Onion, Azure Infrastructure, Azure Solutions, MCSA Office 365, MCT (2021-2027), Azure AI Fundamentals\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE | Employment Visa"
+  },
+  {
     "job_id": "4315015378",
     "job_title": "Fully Funded PhD in Artificial Intelligence at UAEU",
     "company": "PhDFinder",
@@ -213,6 +469,1654 @@
       ]
     },
     "llm_ready_text": "Mohamed Elrashid \u00e2\u20ac\u201d PhD in AI at UAEU Candidate\n\nEDUCATION: MSc Informatics (British University in Dubai \u00e2\u20ac\u201d Dissertation Phase, Supervisor: Prof. Piyush Maheshwari, Faculty: Prof. Khaled Shaalan), MBA IT (UCAM Spain), BSc Information Systems (V.Good with Honours)\n\nRESEARCH ACHIEVEMENTS:\n- Published: 'The impact of knowledge management processes on information systems: A systematic review' \u00e2\u20ac\u201d International Journal of Information Management (2018) with Prof. Khaled Shaalan and Mostafa Al-Emran\n- SAPO Framework: Agent-based decentralized RL for LLM post-training \u00e2\u20ac\u201d 94% improvement via 8-node swarm (Llama, Mistral, Qwen), GRPO algorithm, Google Drive async backend\n- OmniDetect: Multi-layered AI detection \u00e2\u20ac\u201d strided sliding-window tokenization, Binoculars-inspired cross-perplexity, 98% sentence-level certainty, adversarial robustness testing\n- PRISMA-DFLLM: Novel systematic review methodology for AI-driven job market analysis in MENA region\n- Grant-Guard: NLP compliance tool using Azure AI Document Intelligence\n- Scholars' Ledger: Agent-based RPA for financial compliance\n- Moodle AI: Cloud computing AI integration for education (500+ users)\n- Aldhakheerah: 116 papers, 49K+ downloads, 40+ countries\n- DEWA CleanTech Winner \u00e2\u20ac\u201d SolCharge (smart city EV solar charging)\n- UAE AI Office Ambassador + UAE Coding Ambassador\n- MITx Probability: The Science of Uncertainty and Data (2024)\n- StackOverflow top 5% (7,741 rep, ~783K reached)\n- 110+ GitHub repos, Arctic Code Vault Contributor\n- Google Local Guides Level 6 (~3.2M views)\n- Active 2026: Apache Kafka/Flink x AI, LangChain4j, Dubai AI meetups\n- Bilingual: Arabic (Native) + English (Full Professional)\n- Research interests: Agent-based AI, Smart Cities, IoT, Edge Computing, NLP, Reinforcement Learning"
+  },
+  {
+    "job_id": "4357405404",
+    "job_title": "IT System Trainer",
+    "company": "Leonardo DRS",
+    "match_score": 65,
+    "ats_score": 82,
+    "ats_keywords": [
+      "IT Fundamentals",
+      "Server Hardware",
+      "Networking",
+      "Windows Administration",
+      "Linux Administration",
+      "Training Material Development",
+      "SOP Creation",
+      "Training Delivery",
+      "Communication",
+      "Problem Solving",
+      "Documentation",
+      "Teamwork",
+      "Windows Server",
+      "Linux",
+      "TCP/IP",
+      "Microsoft Certified Trainer",
+      "ICDL",
+      "Instructor-led Training"
+    ],
+    "keyword_density": {
+      "matched": 18,
+      "total": 25,
+      "percent": 72
+    },
+    "tailored_summary": "Microsoft Certified Trainer (2021-2027) with 16+ years of hands-on IT systems training and administration experience across government and enterprise environments. Proven expertise delivering instructor-led training on server hardware, Windows administration, networking, and system operations to diverse technical and non-technical audiences. MSc in Informatics (BUiD) and MBA in IT with deep experience in training material development, SOP creation, and scenario-based instruction for institutional and government stakeholders.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Led enterprise-wide training and workshops for staff technology skills development using Microsoft Office 365, developing training materials and SOPs for diverse user populations",
+          "Created IMC Student Digital Journey \u00e2\u20ac\u201d 10-slide strategic onboarding system training 500+ students on Outlook, Teams, Moodle LMS, and EduGate portal",
+          "Designed and maintained documentation for XDR/SIEM cybersecurity architecture, creating operational procedures and user guides for Azure Sentinel and Defender systems",
+          "Managed lifecycle deployment and administration of enterprise hardware fleets (HP EliteBook, ZBook; Dell Latitude, Precision series), developing maintenance documentation",
+          "Implemented HEIDA-API integration with UAE Ministry of Higher Education, creating technical documentation and training materials for compliance workflows",
+          "Deployed Scholars' Ledger RPA framework with documented SOPs for automated compliance agents (Eligibility Scout, Disbursement Watchdog, Reconciliation Auditor)",
+          "Integrated AI capabilities into Moodle LMS, training faculty on AI-powered text and image generation tools",
+          "Architected Aldhakheerah digital repository serving 40+ countries \u00e2\u20ac\u201d developed user guides and training for institutional research staff"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Delivered practical, scenario-based IT training on system operation and administration to students and staff over 5 years",
+          "Developed comprehensive training materials and SOPs for Microsoft PowerApps, Power Automate, Forms, chatbots, and AI Builder",
+          "Assessed trainee performance and identified skill gaps through structured evaluation aligned with institutional learning objectives",
+          "Delivered classroom sessions virtually and in-person to diverse populations, adapting training approaches to varying technical proficiency levels",
+          "Acted as liaison between student operational needs and IT engineering capabilities, gathering feedback to enhance training effectiveness"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Organized and facilitated 40+ tech events, workshops, and training sessions for startup and professional communities across UAE",
+          "Developed presentation materials and training content for diverse technical audiences",
+          "Built community engagement through hands-on workshops and knowledge sharing events"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Delivered Office 365 administration workshops and training for SMBs across Dubai",
+          "Built custom applications on Azure stack (C#), developing technical documentation and user guides",
+          "Provided Azure consulting with hands-on training components for client staff"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led continuous ICDL learning program for company staff, developing training schedules, materials, and performance assessments",
+          "Created standardized training documentation and operational procedures for IT systems"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Designed and implemented complete IT infrastructure (voice, data, networking, access control, biometric systems) with full documentation",
+          "Developed internal ERP system and created user training materials for legal case management workflows",
+          "Delivered in-house ICDL training program with scenario-based exercises reflecting real operational workflows",
+          "Integrated e-services with office applications, providing post-deployment training and user support"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led development and deployment of enterprise platforms for hospitals (Procurement, Health Info, Inventory, Medical Equipment, Accounting), creating technical documentation and SOPs",
+          "Maintained SQL databases and Windows Server environments for production systems",
+          "Translated complex business requirements into user-friendly software solutions with training documentation",
+          "Promoted from Junior to Senior based on technical expertise and knowledge transfer capabilities"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Taught students application development using Windows Forms and VB.NET \u00e2\u20ac\u201d 5 years of structured IT instruction",
+          "Developed training curriculum and hands-on lab exercises for government IT system (Orphans and Poor Families Management)",
+          "Rehabilitated computer lab infrastructure at Ammar Secondary School for Girls",
+          "Led information technology student media group, mentoring next-generation IT professionals"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Instructor-led Training",
+      "Training & Education Delivery",
+      "Windows Server",
+      "Linux",
+      "Networking",
+      "Moodle LMS",
+      "Learning Management Systems",
+      "Instructional Design",
+      "ICDL",
+      "Communication",
+      "Mentoring",
+      "Microsoft Azure",
+      "Office 365 Administration",
+      "SQL Server",
+      "Cybersecurity",
+      "XDR/SIEM",
+      "Endpoint Management",
+      "Git/GitHub",
+      "REST APIs",
+      "C#",
+      "Python",
+      "SQL",
+      "Docker",
+      "Public Speaking",
+      "Knowledge Dissemination"
+    ],
+    "certs_order": [
+      "Microsoft Certified Trainer (MCT)",
+      "IT Service Management: ISO20000",
+      "Security Onion",
+      "MCSA: Office 365",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "Azure AI Fundamentals",
+      "MCPS: Microsoft Certified Professional",
+      "MS Specialist: Developing Azure Solutions",
+      "Generative AI for Business Leaders",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "IT System Trainer | Microsoft Certified Trainer (MCT) | 16+ Years Training & Systems Administration | MSc Informatics",
+      "skills_to_add": [
+        "SOP Development",
+        "Training Material Development",
+        "Scenario-Based Training",
+        "Server Administration",
+        "Technical Documentation",
+        "VMware"
+      ],
+      "skills_to_remove": [
+        "jQuery",
+        "Kendo UI",
+        "Crystal Reports",
+        "WCF",
+        "Bootstrap"
+      ],
+      "summary_additions": [
+        "10+ years delivering IT system training in government environments",
+        "MCT certified with expertise in Windows Server, networking, and security systems",
+        "Created comprehensive training programs for 500+ users"
+      ],
+      "featured_content": [
+        "Article: Building Effective IT Training Programs for Government",
+        "Case study: IMC Student Digital Journey onboarding system",
+        "Presentation: Training & Digital Skills Development at Scale"
+      ]
+    },
+    "cover_letter_hook": "As a Microsoft Certified Trainer with over a decade of experience delivering hands-on IT systems training for Government of Dubai entities \u00e2\u20ac\u201d from server administration to cybersecurity operations \u00e2\u20ac\u201d I am uniquely positioned to bring Leonardo DRS's training mission to life with scenario-based instruction that bridges engineering and end-user operations.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "Microsoft Certified Trainer (MCT) active through 2027",
+            "10+ years dedicated IT training in government sector",
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d academic rigor meets practical delivery",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d critical for UAE defense operations"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "Trained 500+ students/staff on IT systems at Imam Malik College",
+            "Created IMC Student Digital Journey onboarding for 4 platforms",
+            "Delivered 40+ tech workshops and events across UAE",
+            "5 years university-level IT instruction at Omdurman University"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "Windows Server administration and enterprise deployment",
+            "Networking infrastructure: TCP/IP, voice, data, access control systems",
+            "XDR/SIEM cybersecurity (Azure Sentinel, Microsoft Defender)",
+            "Linux experience, Docker containerization, SQL Server administration"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Government operations background (Government of Dubai, 10+ years)",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d trusted by national institutions",
+            "Documentation-driven: SOPs, user guides, training materials for all projects",
+            "Bilingual Arabic/English with cross-cultural training delivery experience"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Develop comprehensive scenario-based training programs for defense IT systems",
+            "Build train-the-trainer frameworks for scalable knowledge transfer",
+            "Integrate AI-assisted training tools for enhanced learning outcomes",
+            "Create standardized SOP libraries for system administration procedures"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: IT System Trainer \u00e2\u20ac\u201d Leonardo DRS\nMATCH SCORE: 65 | ATS SCORE: 82\n\nSKILL MATCH ANALYSIS:\n\u2713 IT Fundamentals \u00e2\u20ac\u201d 16+ years hands-on IT experience\n\u2713 Server Hardware \u00e2\u20ac\u201d Enterprise fleet deployment (HP, Dell)\n\u2713 Networking \u00e2\u20ac\u201d Built complete infrastructure (voice, data, access control)\n\u2713 Windows Administration \u00e2\u20ac\u201d Windows Server, Office 365, enterprise systems\n\u2713 Training Material Development \u00e2\u20ac\u201d SOPs, user guides, curricula for all roles\n\u2713 Training Delivery \u00e2\u20ac\u201d MCT certified, 10+ years instructor-led training\n\u2713 Communication \u00e2\u20ac\u201d Public speaking, 40+ events, 16K+ LinkedIn article views\n\u2713 Documentation \u00e2\u20ac\u201d Technical docs, training materials, compliance reports\n\u2713 Linux \u00e2\u20ac\u201d Linux experience, Docker containerization\n\u2717 VMware Virtualization \u00e2\u20ac\u201d No direct VMware certification\n\u2717 Military/Defense systems \u00e2\u20ac\u201d New sector (AIS, GPS, Radars, Radio)\n\u2717 C4I Systems \u00e2\u20ac\u201d Would need domain onboarding\n\nKEY ACHIEVEMENTS:\n- Microsoft Certified Trainer (MCT) 2021-2027\n- 500+ students/staff trained on IT systems\n- SAPO Framework: 94% LLM performance improvement\n- Aldhakheerah: 49K+ downloads, 40+ countries\n- DEWA CleanTech Hackathon WINNER\n- Published: Int. Journal of Information Management (2018)\n- StackOverflow top 5%, 783K reached\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: MCT (2021-2027), ISO20000, Security Onion, MCSA Office 365, Azure Infrastructure, Azure AI Fundamentals\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: UAE | Employment Visa"
+  },
+  {
+    "job_id": "4379830765",
+    "job_title": "Data Architect",
+    "company": "Zayed University",
+    "match_score": 60,
+    "ats_score": 72,
+    "ats_keywords": [
+      "database design",
+      "Azure cloud platform",
+      "data modeling",
+      "SQL",
+      "system integration",
+      "security and backup procedures",
+      "cross-functional collaboration",
+      "analytical thinking",
+      "troubleshooting",
+      "communication",
+      "SQL Server",
+      "MySQL",
+      "Oracle",
+      "Database Modeling",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Data Visualization",
+      "Data Mining",
+      "higher education",
+      "data architecture"
+    ],
+    "keyword_density": {
+      "matched": 20,
+      "total": 28,
+      "percent": 71
+    },
+    "tailored_summary": "Data-driven IT professional with 16+ years of experience in database design, Azure cloud platforms, and system integration across higher education and government sectors. MSc in Informatics (BUiD) with published research in the International Journal of Information Management and hands-on expertise in SQL Server, Oracle, MySQL, data modeling, and Azure AI services. Proven track record building institutional data platforms \u00e2\u20ac\u201d including the Aldhakheerah repository (49K+ downloads, 40+ countries) and HEIDA-API integration for UAE Ministry of Higher Education compliance reporting.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Architected and deployed the Aldhakheerah digital repository with database design supporting 116 academic papers, 49,000+ downloads across 40+ countries \u00e2\u20ac\u201d institutional data platform at scale",
+          "Implemented HEIDA-API (GSB v3) data integration with UAE Ministry of Higher Education, designing data pipelines for institutional reporting and graduate outcomes tracking",
+          "Built Grant-Guard NLP compliance tool using Azure AI Document Intelligence, architecting data extraction pipelines for grant contract analysis",
+          "Deployed Scholars' Ledger RPA framework with data-driven compliance agents for financial data reconciliation and audit trails",
+          "Designed unified XDR/SIEM cybersecurity architecture with security and backup procedures using Azure Sentinel and Microsoft Defender",
+          "Integrated AI capabilities into Moodle LMS via Azure AI provider, managing data flows for text and image generation serving 500+ users",
+          "Created data-driven onboarding system integrating Outlook, Teams, Moodle LMS, and EduGate portal data sources"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Taught data management concepts and database-driven application development using Microsoft PowerApps and AI Builder",
+          "Designed courses on data analysis, information systems, and cloud-based data solutions",
+          "Collaborated cross-functionally with academic departments to identify data management needs"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Launched Azure-hosted SaaS product with SQL Azure database architecture for law office management",
+          "Designed database schemas and data models for custom C# applications migrated to Azure cloud stack",
+          "Implemented data security and backup procedures for client Azure deployments"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Built and managed data-driven community platform connecting 40+ tech events with participant analytics",
+          "Coordinated cross-functional collaboration between developers, founders, and investors"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Delivered ICDL training with focus on database fundamentals and data management concepts"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Developed internal ERP system with database design for legal case management \u00e2\u20ac\u201d data modeling, schema design, and query optimization",
+          "Designed complete IT infrastructure with integrated data systems and security/backup procedures",
+          "Integrated e-services data flows with office applications for streamlined cross-functional workflows"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Designed and maintained SQL databases for 5+ enterprise hospital systems (Procurement, Health Information, Inventory, Accounting)",
+          "Led database architecture and data modeling for large-scale production environments",
+          "Translated complex business data requirements into scalable database solutions with optimized queries",
+          "Managed SQL Server production environments with security, backup, and disaster recovery procedures"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed Orphans and Poor Families Information Management System with database design for Omdurman municipality",
+          "Taught database-driven application development using VB.NET and SQL"
+        ]
+      }
+    ],
+    "skills_order": [
+      "SQL Server",
+      "MySQL",
+      "Oracle",
+      "Database Modeling",
+      "SQL",
+      "PL/SQL",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Azure AI Document Intelligence",
+      "SQL Azure",
+      "Data Visualization",
+      "Data Mining",
+      "Systems Analysis",
+      "Software Architecture",
+      "Entity Framework",
+      "LINQ",
+      "REST APIs",
+      "Python",
+      "C#",
+      "ASP.NET Core",
+      ".NET Core",
+      "Docker",
+      "Git/GitHub",
+      "CI/CD"
+    ],
+    "certs_order": [
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "Azure AI Fundamentals",
+      "IT Service Management: ISO20000",
+      "MCSA: Office 365",
+      "Microsoft Certified Trainer (MCT)",
+      "Security Onion",
+      "Generative AI for Business Leaders",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Data Architect | Azure Cloud & SQL Expert | MSc Informatics | Higher Education Data Systems | Published Researcher",
+      "skills_to_add": [
+        "Azure Data Factory",
+        "Data Warehousing",
+        "Data Lake Architecture",
+        "ETL/ELT Pipelines",
+        "Data Governance",
+        "Azure Data Engineer"
+      ],
+      "skills_to_remove": [
+        "Kendo UI",
+        "jQuery",
+        "Bootstrap",
+        "WCF",
+        "PABX Telephony",
+        "VB.NET"
+      ],
+      "summary_additions": [
+        "Built institutional data platform with 49K+ global downloads",
+        "HEIDA-API data pipeline integration for UAE Ministry of Higher Education",
+        "SQL Server/Azure database architecture across hospital, legal, and education sectors"
+      ],
+      "featured_content": [
+        "Case study: Aldhakheerah Repository Data Architecture",
+        "Article: Azure Data Platform Design for Higher Education",
+        "Research: Knowledge Management Processes and Information Systems (2018)"
+      ]
+    },
+    "cover_letter_hook": "As someone who has architected institutional data platforms in UAE higher education \u00e2\u20ac\u201d from the Aldhakheerah repository reaching 40+ countries to HEIDA-API data pipelines for the Ministry of Higher Education \u00e2\u20ac\u201d I understand the unique data architecture challenges Zayed University faces and bring both the Azure expertise and academic sector knowledge to address them.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d academic and technical depth for higher education",
+            "16+ years database design and SQL across enterprise systems",
+            "Azure certified with hands-on cloud platform deployment",
+            "Published researcher in International Journal of Information Management"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "Aldhakheerah repository: institutional data platform, 49K+ downloads, 40+ countries",
+            "HEIDA-API: data pipeline to UAE Ministry of Higher Education (GSB v3)",
+            "Hospital enterprise databases: 5+ systems (Procurement, Health Info, Inventory, Accounting)",
+            "Grant-Guard: Azure AI data extraction pipeline for compliance"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "SQL Server, MySQL, Oracle \u00e2\u20ac\u201d multi-RDBMS expertise",
+            "Microsoft Azure: AI Services, Document Intelligence, SQL Azure",
+            "Database modeling, schema design, query optimization at scale",
+            "System integration: REST APIs, WSDL, e-services data flows"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "10+ years in UAE higher education (Imam Malik College, Government of Dubai)",
+            "Published academic researcher \u00e2\u20ac\u201d understands institutional research data needs",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for cross-functional university collaboration",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d trusted by national education institutions"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Migrate institutional data to Azure Data Lake/Lakehouse architecture",
+            "Build automated data pipelines with Azure Data Factory for reporting",
+            "Implement data governance frameworks aligned with UAE education standards",
+            "Leverage AI/ML for predictive analytics on student outcomes and institutional performance"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Data Architect \u00e2\u20ac\u201d Zayed University\nMATCH SCORE: 60 | ATS SCORE: 72\n\nSKILL MATCH ANALYSIS:\n\u2713 Database design \u00e2\u20ac\u201d 16+ years SQL Server, MySQL, Oracle across enterprise systems\n\u2713 Azure cloud platform \u00e2\u20ac\u201d Certified Azure Solutions + Infrastructure (2014), Azure AI (2023)\n\u2713 Data modeling \u00e2\u20ac\u201d ERP systems, hospital databases, institutional repositories\n\u2713 SQL \u00e2\u20ac\u201d Expert-level SQL Server, PL/SQL, SQL Azure\n\u2713 System integration \u00e2\u20ac\u201d HEIDA-API, e-services, REST APIs, WSDL\n\u2713 Security and backup \u00e2\u20ac\u201d XDR/SIEM architecture, production DB management\n\u2713 Cross-functional collaboration \u00e2\u20ac\u201d University departments, ministry coordination\n\u2713 Higher education \u00e2\u20ac\u201d 10+ years Imam Malik College\n\u2717 Azure Data Factory \u00e2\u20ac\u201d No direct ADF pipeline experience\n\u2717 Data warehousing/Data lakes \u00e2\u20ac\u201d Conceptual but no hands-on lakehouse\n\u2717 Azure Solutions Architect cert \u00e2\u20ac\u201d Has Azure Solutions Developer cert\n\u2717 Azure Data Engineer Associate cert \u00e2\u20ac\u201d Gap\n\nKEY ACHIEVEMENTS:\n- Aldhakheerah: 116 papers, 49K+ downloads, 40+ countries\n- HEIDA-API data pipeline to UAE Ministry of Higher Education\n- SAPO Framework: 94% LLM improvement (data-intensive research)\n- Published: Int. Journal of Information Management (2018)\n- Hospital enterprise databases: 5+ systems at scale\n- StackOverflow top 5%, 783K reached\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: Azure Solutions, Azure Infrastructure, Azure AI Fundamentals, ISO20000, MCSA Office 365, MCT\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE | Employment Visa"
+  },
+  {
+    "job_id": "4327180451",
+    "job_title": "Product Owner - AI Solutions",
+    "company": "Nagarro",
+    "match_score": 55,
+    "ats_score": 70,
+    "ats_keywords": [
+      "Generative AI Fundamentals",
+      "Product Backlog Management",
+      "KPI Definition",
+      "Stakeholder Communication",
+      "Leadership",
+      "Strategic Thinking",
+      "Prioritization",
+      "Cross-Functional Collaboration",
+      "AI",
+      "Generative AI",
+      "Public Sector",
+      "Digital Transformation",
+      "Large Language Models",
+      "Prompt Engineering",
+      "Azure AI",
+      "Deep Learning",
+      "Machine Learning",
+      "NLP"
+    ],
+    "keyword_density": {
+      "matched": 18,
+      "total": 26,
+      "percent": 69
+    },
+    "tailored_summary": "AI researcher and technology strategist with 16+ years of experience translating complex AI concepts into actionable products and roadmaps across public sector and education. Creator of the SAPO Framework (94% LLM performance improvement via decentralized RL) and OmniDetect AI detection pipeline, with published research in the International Journal of Information Management. MSc Informatics + MBA IT with hands-on Generative AI expertise, proven stakeholder communication, and deep understanding of AI/ML lifecycle from research through production deployment.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Defined product roadmap and led implementation of AI capabilities into Moodle LMS, translating generative AI strategy into actionable features serving 500+ users",
+          "Owned product lifecycle for Aldhakheerah digital repository \u00e2\u20ac\u201d defined KPIs (116 papers, 49K+ downloads, 40+ countries, 12.6K annual velocity) and prioritized features based on impact",
+          "Managed product backlog for Grant-Guard NLP compliance tool, prioritizing features for Azure AI Document Intelligence integration",
+          "Led cross-functional collaboration with UAE Ministry of Higher Education on HEIDA-API product requirements and delivery",
+          "Deployed Scholars' Ledger RPA platform \u00e2\u20ac\u201d defined value streams and KPIs for three automated compliance agents",
+          "Communicated technology vision and AI roadmap to senior institutional leadership and government stakeholders",
+          "Designed XDR/SIEM cybersecurity product architecture with defined security KPIs and compliance metrics"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Led stakeholder communication and training delivery for no-code AI solutions (Microsoft PowerApps, AI Builder, chatbots)",
+          "Defined learning objectives and KPIs for course planning, delivery, and evaluation cycles",
+          "Collaborated cross-functionally with academic departments to prioritize technology training needs"
+        ]
+      },
+      {
+        "title": "Founder & Product Owner",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Owned full product lifecycle for LAW OFFICE Management SaaS \u00e2\u20ac\u201d backlog management, feature prioritization, and Azure deployment",
+          "Translated client requirements into product features and roadmap for Office 365 consulting engagements",
+          "Made strategic build-vs-buy decisions migrating from PHP/WordPress to Azure stack"
+        ]
+      },
+      {
+        "title": "Founder & Product Strategist",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Defined product vision and strategic roadmap for UAE tech community platform",
+          "Prioritized 40+ events based on community impact, feasibility, and stakeholder feedback",
+          "Engaged with startup founders, developers, and investors as key stakeholders"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led training product development and delivery with KPI-based performance assessment"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Owned product development for internal ERP legal case management system \u00e2\u20ac\u201d requirements gathering through deployment",
+          "Led cross-functional integration of e-services with office applications, prioritizing features based on operational impact",
+          "Managed IT infrastructure product decisions and vendor selection"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Translated complex business requirements into scalable software products for 5+ enterprise hospital clients",
+          "Led product architecture decisions for Procurement, Health Info, Inventory, and Accounting systems",
+          "Collaborated with cross-functional DevOps team on product delivery and deployment"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed and owned government product: Orphans and Poor Families Information Management System",
+          "Led student technology education programs with defined learning outcomes and assessments"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "Deep Reinforcement Learning",
+      "GRPO",
+      "Transformers",
+      "NLP",
+      "Machine Learning",
+      "Deep Learning",
+      "Azure AI",
+      "Azure AI Services",
+      "Prompt Engineering",
+      "Computer Vision",
+      "Leadership",
+      "Strategic Initiatives",
+      "Project Planning",
+      "Communication",
+      "Client Relationship Management",
+      "Public Speaking",
+      "Python",
+      "C#",
+      "TensorFlow",
+      "REST APIs"
+    ],
+    "certs_order": [
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "Microsoft Certified Trainer (MCT)",
+      "IT Service Management: ISO20000",
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MCSA: Office 365",
+      "Security Onion",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "AI Product Owner | SAPO Framework Creator (94% LLM Improvement) | MSc Informatics | Generative AI | Public Sector Digital Transformation",
+      "skills_to_add": [
+        "Product Management",
+        "Product Ownership",
+        "Agile/Scrum",
+        "Jira",
+        "Figma",
+        "Miro",
+        "User Story Mapping",
+        "Product Roadmapping"
+      ],
+      "skills_to_remove": [
+        "Crystal Reports",
+        "VB.NET",
+        "PABX Telephony",
+        "Biometrics",
+        "WCF",
+        "Kendo UI"
+      ],
+      "summary_additions": [
+        "SAPO Framework: 94% LLM performance improvement via decentralized RL swarms",
+        "OmniDetect: AI detection pipeline with adversarial robustness",
+        "Product lifecycle ownership across multiple AI-powered platforms"
+      ],
+      "featured_content": [
+        "Case study: SAPO Framework \u00e2\u20ac\u201d 94% LLM Improvement",
+        "Article: Generative AI Strategy for Public Sector",
+        "Presentation: Building AI Products in Government"
+      ]
+    },
+    "cover_letter_hook": "Having built the SAPO Framework that achieved 94% LLM performance improvement through decentralized reinforcement learning \u00e2\u20ac\u201d and translated AI research into production products like Grant-Guard NLP and Moodle AI integration for Government of Dubai \u00e2\u20ac\u201d I bring Nagarro both the deep generative AI expertise and the public sector product ownership experience this role demands.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "SAPO Framework creator \u00e2\u20ac\u201d 94% LLM improvement via decentralized RL",
+            "16+ years translating technology into products across public sector",
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d technical depth with business strategy",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d connected to national AI ecosystem"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "Aldhakheerah repository: product scaled to 49K+ downloads, 40+ countries",
+            "Grant-Guard NLP: AI product for automated compliance analysis",
+            "Moodle AI: generative AI integration serving 500+ users",
+            "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d rapid product ideation to deployment"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "Generative AI: LLMs, GRPO, Transformers, NLP, deep RL",
+            "Azure AI: Document Intelligence, AI Services, Prompt Engineering",
+            "OmniDetect: multi-layered AI detection with adversarial robustness",
+            "Published AI/KM researcher in peer-reviewed international journal"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Public sector product delivery (Government of Dubai, 10+ years)",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for UAE/GCC stakeholder communication",
+            "2 startups founded \u00e2\u20ac\u201d entrepreneurial product mindset",
+            "Active AI community: Dubai AI Meetup, LangChain4j, Kafka/Flink events"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Define AI product roadmaps grounded in cutting-edge research (SAPO, OmniDetect)",
+            "Build responsible AI governance frameworks for public sector products",
+            "Scale generative AI solutions across government entities",
+            "Create measurable KPI frameworks linking AI features to business value"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Product Owner - AI Solutions \u00e2\u20ac\u201d Nagarro\nMATCH SCORE: 55 | ATS SCORE: 70\n\nSKILL MATCH ANALYSIS:\n\u2713 Generative AI Fundamentals \u00e2\u20ac\u201d SAPO Framework (94% LLM improvement), OmniDetect, Moodle AI integration\n\u2713 KPI Definition \u00e2\u20ac\u201d Aldhakheerah KPIs (49K downloads, 40+ countries), Scholars' Ledger compliance metrics\n\u2713 Stakeholder Communication \u00e2\u20ac\u201d Senior leadership presentations, ministry coordination, ambassador roles\n\u2713 Leadership \u00e2\u20ac\u201d 16+ years leading IT teams and projects\n\u2713 Strategic Thinking \u00e2\u20ac\u201d MBA IT, AI research strategy, product roadmapping\n\u2713 Cross-Functional Collaboration \u00e2\u20ac\u201d Ministry, academic departments, vendor coordination\n\u2713 Public Sector \u00e2\u20ac\u201d Government of Dubai, 10+ years\n\u2713 Digital Transformation \u00e2\u20ac\u201d AI integration, RPA deployment, digital repository\n\u2717 Figma \u00e2\u20ac\u201d No direct experience\n\u2717 Miro \u00e2\u20ac\u201d No direct experience\n\u2717 Jira \u00e2\u20ac\u201d Not explicitly listed (equivalent PM tool experience)\n\u2717 Formal Product Owner certification \u00e2\u20ac\u201d No CSPO/PSPO\n\nKEY ACHIEVEMENTS:\n- SAPO Framework: 94% LLM performance improvement via decentralized RL\n- OmniDetect: AI detection pipeline with adversarial robustness\n- Aldhakheerah: 49K+ downloads, 40+ countries\n- DEWA CleanTech Hackathon WINNER\n- Published: Int. Journal of Information Management (2018)\n- UAE Coding + AI Office dual Ambassador\n- StackOverflow top 5%, 783K reached\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: Generative AI for Business Leaders, Azure AI Fundamentals, MCT, ISO20000, Azure Solutions/Infrastructure\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE (Abu Dhabi commutable) | Employment Visa"
+  },
+  {
+    "job_id": "4371967359",
+    "job_title": "AI Enterprise Architect",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "match_score": 55,
+    "ats_score": 68,
+    "ats_keywords": [
+      "Enterprise architecture",
+      "AI/ML lifecycle management",
+      "Cloud-native architectures",
+      "Data engineering",
+      "Model development and deployment",
+      "Solution Architecture Design",
+      "Data privacy and security",
+      "Stakeholder management",
+      "Communication",
+      "Strategic planning",
+      "Cross-team collaboration",
+      "Azure",
+      "AI/ML platforms",
+      "Machine Learning",
+      "Deep Learning",
+      "NLP",
+      "Generative AI",
+      "Transformers",
+      "Software Architecture"
+    ],
+    "keyword_density": {
+      "matched": 19,
+      "total": 30,
+      "percent": 63
+    },
+    "tailored_summary": "AI architect and researcher with 16+ years of enterprise systems experience, specializing in LLM optimization, deep reinforcement learning, and cloud-native AI solution design on Microsoft Azure. Creator of the SAPO Framework (94% LLM performance improvement via 8-node decentralized RL swarm) and OmniDetect adversarial AI detection pipeline. MSc Informatics (BUiD) with published research, Azure certifications, and proven ability to design end-to-end AI architectures from research through production deployment across government and enterprise environments.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Designed unified XDR/SIEM enterprise security architecture using Azure Sentinel and Microsoft Defender \u00e2\u20ac\u201d end-to-end solution architecture for institutional threat detection",
+          "Architected AI integration into Moodle LMS via Azure AI provider \u00e2\u20ac\u201d designed scalable, provider-agnostic AI subsystem enabling text and image generation for 500+ users",
+          "Built Grant-Guard NLP solution architecture using Azure AI Document Intelligence for autonomous grant contract analysis and cost rule extraction",
+          "Engineered Scholars' Ledger enterprise architecture with RPA agents on Microsoft Power Automate for continuous financial compliance assurance",
+          "Led HEIDA-API enterprise integration (GSB v3) designing data submission schemas for UAE Ministry of Higher Education reporting",
+          "Deployed Aldhakheerah institutional repository architecture \u00e2\u20ac\u201d scalable platform serving 116 papers to 49K+ downloads across 40+ countries",
+          "Managed enterprise endpoint architecture including hardware fleet lifecycle and cloud services integration"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Architected no-code AI solutions using Microsoft PowerApps, Power Automate, AI Builder \u00e2\u20ac\u201d enterprise low-code/no-code platform design",
+          "Designed training architectures integrating virtual and in-person delivery models for cross-functional stakeholder groups"
+        ]
+      },
+      {
+        "title": "Founder & Solution Architect",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Designed cloud-native SaaS architecture for LAW OFFICE Management on Azure \u00e2\u20ac\u201d microservices, SQL Azure, scalable deployment",
+          "Architected application migration from PHP/WordPress to Azure cloud-native stack (C#, ASP.NET, Entity Framework)",
+          "Designed OAuth2/IdentityServer4 authentication architecture for secure multi-tenant applications"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Built technology community ecosystem architecture connecting startups, developers, and investors across UAE",
+          "Managed stakeholder relationships across 40+ tech events and cross-functional community engagements"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Delivered technology training programs for enterprise staff"
+        ]
+      },
+      {
+        "title": "Information Technology Officer & Solution Architect",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Designed complete enterprise IT architecture from scratch \u00e2\u20ac\u201d voice, data, networking, access control, biometric systems",
+          "Architected internal ERP solution for legal case management with database design and system integration",
+          "Designed e-services integration architecture connecting office applications with external service providers"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led solution architecture for 5+ enterprise hospital systems \u00e2\u20ac\u201d Procurement, Health Info, Inventory, Medical Equipment, Accounting",
+          "Designed scalable database architectures and production deployment strategies for enterprise clients",
+          "Translated complex business requirements into enterprise-grade software architecture solutions"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed government information management system architecture for Omdurman municipality",
+          "Taught application architecture and development patterns using Windows Forms and VB.NET"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Software Architecture",
+      "Systems Analysis",
+      "Deep Reinforcement Learning",
+      "Large Language Models (LLMs)",
+      "GRPO",
+      "Transformers",
+      "NLP",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "Computer Vision",
+      "TensorFlow",
+      "Azure AI Services",
+      "Azure AI Document Intelligence",
+      "Microsoft Azure",
+      "Azure Sentinel",
+      "Docker",
+      "REST APIs",
+      "CI/CD",
+      "Git/GitHub",
+      "Python",
+      "C#",
+      "SQL Server",
+      "Entity Framework",
+      "OOP",
+      "IT Governance"
+    ],
+    "certs_order": [
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "Azure AI Fundamentals",
+      "Generative AI for Business Leaders",
+      "Security Onion",
+      "IT Service Management: ISO20000",
+      "Microsoft Certified Trainer (MCT)",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "AI Enterprise Architect | SAPO Framework (94% LLM Optimization) | Azure Certified | MSc Informatics | Published Researcher",
+      "skills_to_add": [
+        "Enterprise Architecture",
+        "TOGAF",
+        "MLOps",
+        "AI/ML Lifecycle Management",
+        "Solution Architecture",
+        "Cloud-Native Design",
+        "Architecture Decision Records"
+      ],
+      "skills_to_remove": [
+        "ICDL",
+        "Crystal Reports",
+        "jQuery",
+        "Kendo UI",
+        "Bootstrap",
+        "PABX Telephony"
+      ],
+      "summary_additions": [
+        "SAPO Framework: 94% LLM improvement via 8-node decentralized RL swarm across Llama/Mistral/Qwen models",
+        "OmniDetect: enterprise-grade AI detection architecture with adversarial robustness",
+        "End-to-end AI solution architecture from research to production"
+      ],
+      "featured_content": [
+        "Technical deep-dive: SAPO Framework Architecture",
+        "Article: Designing Enterprise AI Architectures on Azure",
+        "Case study: XDR/SIEM Enterprise Security Architecture"
+      ]
+    },
+    "cover_letter_hook": "Having designed the SAPO Framework \u00e2\u20ac\u201d a decentralized reinforcement learning architecture that achieved 94% LLM performance improvement across heterogeneous hardware \u00e2\u20ac\u201d and built enterprise AI solutions on Azure for Government of Dubai, I bring First Abu Dhabi Bank the rare combination of cutting-edge AI research depth and production-grade enterprise architecture experience.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "SAPO Framework architect: 94% LLM improvement via decentralized RL swarms",
+            "16+ years enterprise architecture across government, healthcare, and legal sectors",
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d technical and strategic architecture thinking",
+            "Azure certified with end-to-end cloud-native solution design experience"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "SAPO: 8-node swarm across 0.5B-3B parameter models (Llama, Mistral, Qwen)",
+            "OmniDetect: multi-layered AI detection with 98% sentence-level certainty",
+            "Enterprise security architecture: Azure Sentinel + Defender XDR/SIEM",
+            "Aldhakheerah: institutional platform architecture serving 40+ countries"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "Deep RL, GRPO, Transformers, NLP \u00e2\u20ac\u201d full AI/ML stack",
+            "Azure: AI Services, Document Intelligence, Sentinel, SQL Azure",
+            "Enterprise systems: ERP, hospital platforms, SaaS architecture",
+            "OAuth2/IdentityServer4, REST APIs, microservices design patterns"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Government sector governance and compliance experience (10+ years)",
+            "Published researcher \u00e2\u20ac\u201d academic rigor in architectural decisions",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d embedded in regional AI ecosystem",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d cross-functional stakeholder communication"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Design scalable MLOps pipelines for enterprise AI model lifecycle",
+            "Build AI governance frameworks ensuring regulatory compliance in banking",
+            "Architect responsible AI systems with built-in adversarial robustness (OmniDetect experience)",
+            "Drive AI platform standardization across enterprise with architecture decision records"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: AI Enterprise Architect \u00e2\u20ac\u201d First Abu Dhabi Bank (FAB)\nMATCH SCORE: 55 | ATS SCORE: 68\n\nSKILL MATCH ANALYSIS:\n\u2713 Enterprise architecture \u00e2\u20ac\u201d 16+ years designing IT/software architectures\n\u2713 AI/ML lifecycle \u00e2\u20ac\u201d SAPO Framework (research to production), OmniDetect, Grant-Guard\n\u2713 Cloud-native \u00e2\u20ac\u201d Azure certified, SaaS architecture, Docker\n\u2713 Data engineering \u00e2\u20ac\u201d SQL Server, database architecture, data pipelines\n\u2713 Model development \u00e2\u20ac\u201d LLMs, GRPO, Transformers, deep RL, PyTorch\n\u2713 Solution Architecture \u00e2\u20ac\u201d ERP, hospital systems, cybersecurity, AI platforms\n\u2713 Data privacy/security \u00e2\u20ac\u201d XDR/SIEM, Azure Sentinel, compliance frameworks\n\u2713 Stakeholder management \u00e2\u20ac\u201d Government, ministry, institutional leadership\n\u2717 MLOps \u00e2\u20ac\u201d Conceptual but no formal MLOps pipeline experience\n\u2717 TOGAF \u00e2\u20ac\u201d No certification (conceptual knowledge)\n\u2717 Banking/regulated industry \u00e2\u20ac\u201d New sector\n\u2717 AWS \u00e2\u20ac\u201d Azure-focused, no AWS certification\n\nKEY ACHIEVEMENTS:\n- SAPO Framework: 94% LLM improvement, 8-node swarm, 2000+ rounds\n- OmniDetect: 98% sentence-level AI detection certainty\n- Published: Int. Journal of Information Management (2018)\n- DEWA CleanTech Hackathon WINNER\n- UAE Coding + AI Office dual Ambassador\n- 110+ GitHub repos, StackOverflow top 5%\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: Azure Solutions, Azure Infrastructure, Azure AI Fundamentals, GenAI for Business Leaders, ISO20000, MCT\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE | Employment Visa"
+  },
+  {
+    "job_id": "4372899733",
+    "job_title": "Director of Technology & Innovation",
+    "company": "Renard International Hospitality Search Consultants",
+    "match_score": 55,
+    "ats_score": 66,
+    "ats_keywords": [
+      "Digitisation and transformation programs",
+      "Cybersecurity",
+      "Enterprise architecture",
+      "Vendor negotiations",
+      "Risk management",
+      "Business case development",
+      "Strategic leadership",
+      "Governance",
+      "Stakeholder engagement",
+      "Senior leadership communication",
+      "Digital transformation",
+      "IT Governance",
+      "IT Service Management",
+      "ISO20000",
+      "XDR/SIEM",
+      "Azure Sentinel",
+      "Microsoft Defender"
+    ],
+    "keyword_density": {
+      "matched": 17,
+      "total": 26,
+      "percent": 65
+    },
+    "tailored_summary": "Technology leader with 16+ years of experience driving digitisation, cybersecurity architecture, and enterprise IT transformation across government and multi-site operations. MSc Informatics (BUiD) and MBA in IT (UCAM Spain) with proven strategic leadership in vendor negotiations, governance frameworks, and business case development. DEWA CleanTech Hackathon Winner and UAE AI Office Ambassador with hands-on experience establishing IT functions from scratch, managing enterprise cybersecurity (XDR/SIEM), and delivering measurable digital transformation outcomes for Government of Dubai entities.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Led institution-wide digital transformation \u00e2\u20ac\u201d AI integration, RPA deployment, digital repository, and cybersecurity architecture modernization",
+          "Designed unified XDR/SIEM cybersecurity architecture using Azure Sentinel and Microsoft Defender with governance frameworks and risk management protocols",
+          "Managed vendor negotiations and procurement for enterprise hardware fleets (HP, Dell), overseeing RFP processes and multi-year technology budgets",
+          "Built Grant-Guard NLP and Scholars' Ledger RPA to automate compliance \u00e2\u20ac\u201d demonstrating business case development for AI-driven operational efficiency",
+          "Deployed Aldhakheerah digital repository delivering measurable outcomes: 116 papers, 49K+ downloads, 40+ countries, 12.6K annual velocity",
+          "Engaged with senior leadership and UAE Ministry of Higher Education on governance, compliance, and institutional data reporting (HEIDA-API)",
+          "Drove innovation culture by integrating AI capabilities into Moodle LMS for 500+ users"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Delivered digital skills transformation programs across the institution, building technology adoption culture",
+          "Led strategic training initiatives on Microsoft Power Platform, driving no-code digital transformation",
+          "Communicated technology vision to diverse stakeholder groups through virtual and in-person delivery"
+        ]
+      },
+      {
+        "title": "Founder & CEO",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Founded and led UAE tech community, demonstrating strategic leadership and entrepreneurial vision",
+          "Negotiated vendor partnerships and managed budgets for 40+ tech events across multiple venues",
+          "Built stakeholder ecosystem connecting startup founders, developers, corporate leaders, and investors"
+        ]
+      },
+      {
+        "title": "Founder & CEO",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Developed business cases and launched Azure-hosted SaaS product for legal sector \u00e2\u20ac\u201d end-to-end digital transformation",
+          "Managed client relationships, vendor negotiations, and technology strategy for SMB consulting engagements",
+          "Led cloud migration from legacy PHP/WordPress to modern Azure architecture \u00e2\u20ac\u201d measurable transformation outcomes"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led staff digital skills development through continuous ICDL learning program"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Established complete IT function from scratch \u00e2\u20ac\u201d enterprise architecture for voice, data, networking, access control, and biometric systems",
+          "Developed ERP system for legal case management, demonstrating business case development and delivery",
+          "Managed vendor relationships and technology procurement for full infrastructure buildout",
+          "Led digitisation of office workflows through e-services integration"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led technology delivery for 5+ enterprise hospital clients \u00e2\u20ac\u201d multi-site operations experience",
+          "Developed enterprise platforms (Procurement, Health Info, Inventory, Accounting) with governance and audit requirements",
+          "Managed production environments ensuring business continuity and risk mitigation"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed government information management system for Omdurman municipality \u00e2\u20ac\u201d public sector digital delivery",
+          "Led technology education initiatives and infrastructure rehabilitation projects"
+        ]
+      }
+    ],
+    "skills_order": [
+      "IT Governance",
+      "IT Service Management",
+      "ISO20000",
+      "Cybersecurity",
+      "XDR/SIEM",
+      "Azure Sentinel",
+      "Leadership",
+      "Strategic Initiatives",
+      "Project Planning",
+      "Software Architecture",
+      "Microsoft Azure",
+      "Office 365 Administration",
+      "ERP Software",
+      "Windows Server",
+      "Networking",
+      "Endpoint Management",
+      "Systems Analysis",
+      "SQL Server",
+      "Docker",
+      "REST APIs",
+      "Python",
+      "C#",
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "NLP"
+    ],
+    "certs_order": [
+      "IT Service Management: ISO20000",
+      "Security Onion",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MS Specialist: Developing Azure Solutions",
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "Microsoft Certified Trainer (MCT)",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Director of Technology & Innovation | 16+ Years IT Leadership | MSc + MBA | Cybersecurity | Digital Transformation | GCC",
+      "skills_to_add": [
+        "Digital Transformation Strategy",
+        "Business Case Development",
+        "Risk Management",
+        "Governance Frameworks",
+        "Vendor Negotiations",
+        "C-Suite Communication",
+        "Multi-Site IT Operations"
+      ],
+      "skills_to_remove": [
+        "jQuery",
+        "Kendo UI",
+        "Crystal Reports",
+        "VB.NET",
+        "WCF",
+        "Bootstrap"
+      ],
+      "summary_additions": [
+        "Led digital transformation for Government of Dubai institution",
+        "Built IT infrastructure from scratch with full cybersecurity architecture",
+        "MBA IT with strategic leadership and business case development expertise"
+      ],
+      "featured_content": [
+        "Case study: Digital Transformation at Imam Malik College",
+        "Article: Cybersecurity Architecture for Government Entities",
+        "Presentation: Innovation Through AI Integration in Education"
+      ]
+    },
+    "cover_letter_hook": "With an MBA in IT, MSc in Informatics, and 16+ years leading digital transformation for Government of Dubai \u00e2\u20ac\u201d from building cybersecurity architecture with Azure Sentinel to automating compliance with AI-powered tools \u00e2\u20ac\u201d I bring the strategic technology leadership and GCC experience that this Director of Technology & Innovation role in Doha requires.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "MBA IT + MSc Informatics \u00e2\u20ac\u201d strategic and technical leadership depth",
+            "16+ years IT experience including 10+ in Government of Dubai",
+            "Built IT functions from scratch \u00e2\u20ac\u201d enterprise architecture, cybersecurity, vendor management",
+            "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d proven innovation leadership"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "XDR/SIEM cybersecurity architecture protecting institutional operations",
+            "Aldhakheerah: digital platform delivering 49K+ downloads to 40+ countries",
+            "Grant-Guard + Scholars' Ledger: AI/RPA automation with measurable ROI",
+            "2 startups founded, 40+ events \u00e2\u20ac\u201d entrepreneurial leadership track record"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "Cybersecurity: Azure Sentinel, Defender, XDR/SIEM, Security Onion certified",
+            "Enterprise architecture: ERP, cloud infrastructure, system integration",
+            "AI/Innovation: SAPO Framework (94% LLM improvement), Generative AI",
+            "Cloud: Azure certified infrastructure and solutions deployment"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "GCC experience: 14+ years in Dubai, familiar with regional business culture",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for GCC stakeholder engagement",
+            "Government sector governance and compliance expertise",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d national-level recognition and network"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Drive measurable digitisation programs with clear business case development",
+            "Build enterprise cybersecurity frameworks aligned with industry standards",
+            "Leverage AI and emerging technologies for competitive innovation advantage",
+            "Establish governance frameworks ensuring audit readiness and risk mitigation"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Director of Technology & Innovation \u00e2\u20ac\u201d Renard International (Doha, Qatar)\nMATCH SCORE: 55 | ATS SCORE: 66\n\nSKILL MATCH ANALYSIS:\n\u2713 Digitisation/transformation \u00e2\u20ac\u201d Led digital transformation for Government of Dubai institution\n\u2713 Cybersecurity \u00e2\u20ac\u201d Designed XDR/SIEM architecture (Azure Sentinel + Defender), Security Onion certified\n\u2713 Enterprise architecture \u00e2\u20ac\u201d Built IT functions from scratch, ERP systems, cloud infrastructure\n\u2713 Vendor negotiations \u00e2\u20ac\u201d RFP processes, multi-vendor procurement, supplier management\n\u2713 Strategic leadership \u00e2\u20ac\u201d MBA IT, 16+ years progressive leadership, 2 startups founded\n\u2713 Governance \u00e2\u20ac\u201d ISO20000, ministry compliance, institutional data governance\n\u2713 Stakeholder engagement \u00e2\u20ac\u201d Ministry, senior leadership, government entities\n\u2717 Hospitality/F&B/catering industry \u00e2\u20ac\u201d New sector\n\u2717 Multi-site operations \u00e2\u20ac\u201d Enterprise-wide but single-site focus\n\u2717 Relocation to Qatar \u00e2\u20ac\u201d Currently Dubai-based\n\nKEY ACHIEVEMENTS:\n- SAPO Framework: 94% LLM performance improvement\n- Aldhakheerah: 49K+ downloads, 40+ countries\n- DEWA CleanTech Hackathon WINNER\n- Published: Int. Journal of Information Management (2018)\n- UAE dual Ambassador (Coding + AI Office)\n- 2 startups, 40+ events organized\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: ISO20000, Security Onion, Azure Infrastructure/Solutions, MCT, Azure AI Fundamentals\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE (open to Doha relocation) | Employment Visa\nSALARY: Role offers US$90,000 + family expat benefits"
+  },
+  {
+    "job_id": "4374381220",
+    "job_title": "Specialist Innovation Project",
+    "company": "PureHealth",
+    "match_score": 55,
+    "ats_score": 71,
+    "ats_keywords": [
+      "project management",
+      "digital health technologies",
+      "IT governance",
+      "cybersecurity awareness",
+      "data analysis",
+      "KPI development",
+      "stakeholder management",
+      "communication",
+      "cross-functional collaboration",
+      "presentation skills",
+      "change management",
+      "proof of concept",
+      "pilot programs",
+      "process optimization",
+      "innovation",
+      "AI",
+      "Digital Transformation"
+    ],
+    "keyword_density": {
+      "matched": 17,
+      "total": 24,
+      "percent": 71
+    },
+    "tailored_summary": "Innovation-driven IT professional with 16+ years of experience leading proof-of-concept projects, digital technology evaluations, and cross-functional pilot programs across government and education sectors. MSc Informatics (BUiD) and MBA IT with hands-on expertise deploying AI-powered solutions (Grant-Guard NLP, Moodle AI, Scholars' Ledger RPA) and managing innovation projects from ideation through KPI-tracked outcomes. DEWA CleanTech Hackathon Winner with proven ability to evaluate emerging technologies, coordinate with diverse stakeholders, and deliver innovation initiatives with measurable impact.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Led execution of multiple concurrent innovation projects: AI-powered Moodle LMS, Grant-Guard NLP, Scholars' Ledger RPA \u00e2\u20ac\u201d managing end-to-end lifecycle from proof-of-concept through deployment",
+          "Evaluated and integrated emerging AI technologies (Azure AI Document Intelligence, Azure AI provider) for feasibility, impact, and institutional alignment",
+          "Developed and tracked KPIs for innovation initiatives \u00e2\u20ac\u201d Aldhakheerah repository: 116 papers, 49K+ downloads, 40+ countries, 12.6K annual download velocity",
+          "Coordinated with cross-functional teams including IT, administration, academic departments, and UAE Ministry of Higher Education on HEIDA-API compliance project",
+          "Designed XDR/SIEM cybersecurity architecture ensuring IT governance and security awareness across institutional operations",
+          "Prepared status updates and outcome summaries for senior leadership on digital transformation initiatives",
+          "Oversaw operational aspects of innovation pilots including Moodle AI integration for 500+ students and automated compliance agents"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Drove change management by introducing no-code AI solutions (PowerApps, AI Builder, chatbots) to non-technical staff",
+          "Led digital innovation training programs, building technology adoption culture across the institution",
+          "Evaluated emerging Microsoft technologies for educational application and piloted new learning tools"
+        ]
+      },
+      {
+        "title": "Founder & Innovation Lead",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Founded UAE tech innovation community \u00e2\u20ac\u201d managed innovation funnel from idea sourcing to event execution across 40+ events",
+          "Facilitated cross-pollination between startup innovators, developers, and enterprise decision-makers",
+          "Evaluated emerging technologies and startup solutions for community engagement and partnership potential"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Led proof-of-concept development and pilot deployment of Azure-hosted SaaS for legal sector",
+          "Evaluated build-vs-buy technology decisions and managed innovation project lifecycle",
+          "Delivered digital transformation consulting with measurable process optimization outcomes for SMBs"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led digital skills innovation program driving staff technology adoption"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Managed end-to-end innovation project: complete IT infrastructure buildout from scratch \u00e2\u20ac\u201d proof-of-concept through deployment",
+          "Developed ERP innovation for legal case management, optimizing operational processes",
+          "Led digital workflow innovation through e-services integration with office applications"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led innovation in hospital enterprise systems \u00e2\u20ac\u201d new platforms for Procurement, Health Info, Inventory, Accounting",
+          "Managed concurrent development projects across 5+ enterprise clients with KPI-tracked delivery",
+          "Translated complex operational workflows into digital process optimization solutions"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Innovated government information management system for Omdurman municipality \u00e2\u20ac\u201d digital solution for social services",
+          "Led computer lab rehabilitation project \u00e2\u20ac\u201d infrastructure innovation for educational institution"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Project Planning",
+      "IT Governance",
+      "Cybersecurity",
+      "Data Visualization",
+      "Data Mining",
+      "Leadership",
+      "Communication",
+      "Public Speaking",
+      "Strategic Initiatives",
+      "Client Relationship Management",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Azure AI Document Intelligence",
+      "Microsoft PowerApps",
+      "Microsoft Power Automate",
+      "Generative AI",
+      "NLP",
+      "Machine Learning",
+      "Large Language Models (LLMs)",
+      "Python",
+      "SQL Server",
+      "REST APIs"
+    ],
+    "certs_order": [
+      "IT Service Management: ISO20000",
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "Security Onion",
+      "Microsoft Certified Trainer (MCT)",
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Innovation Project Specialist | AI & Digital Transformation | MSc Informatics | CleanTech Hackathon Winner | UAE AI Ambassador",
+      "skills_to_add": [
+        "Innovation Management",
+        "Proof of Concept Development",
+        "Pilot Program Management",
+        "Digital Health",
+        "Change Management",
+        "Technology Evaluation",
+        "KPI Dashboard Development"
+      ],
+      "skills_to_remove": [
+        "WCF",
+        "Kendo UI",
+        "Crystal Reports",
+        "VB.NET",
+        "PABX Telephony"
+      ],
+      "summary_additions": [
+        "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d innovation from ideation to winning solution",
+        "Led multiple concurrent innovation pilots (AI, NLP, RPA) in government sector",
+        "Track record of evaluating and deploying emerging technologies with measurable KPIs"
+      ],
+      "featured_content": [
+        "Case study: DEWA CleanTech Hackathon \u00e2\u20ac\u201d SolCharge (Winner)",
+        "Article: Innovation Project Management in Government",
+        "Presentation: Evaluating AI Technologies for Institutional Adoption"
+      ]
+    },
+    "cover_letter_hook": "As a DEWA CleanTech Hackathon Winner who has led multiple concurrent innovation pilots \u00e2\u20ac\u201d from AI-powered NLP compliance tools to RPA automation frameworks \u00e2\u20ac\u201d for Government of Dubai, I bring PureHealth the proven ability to evaluate emerging technologies, manage innovation projects end-to-end, and deliver measurable outcomes that transform operations.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d proven innovation from ideation to delivery",
+            "16+ years managing technology innovation projects across sectors",
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d research rigor meets business execution",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d connected to national innovation ecosystem"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "Led 3+ concurrent innovation pilots: Moodle AI, Grant-Guard NLP, Scholars' Ledger RPA",
+            "Aldhakheerah repository: innovation delivering 49K+ downloads to 40+ countries",
+            "SolCharge: winning hackathon innovation for solar EV charging integration",
+            "40+ tech events organized \u00e2\u20ac\u201d innovation community builder"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "AI/ML: SAPO Framework (94% LLM improvement), OmniDetect, NLP, deep RL",
+            "Azure AI: Document Intelligence, AI Services for technology evaluation",
+            "IT Governance: ISO20000, XDR/SIEM cybersecurity, compliance frameworks",
+            "Data analysis and KPI development for innovation outcome tracking"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Government sector cross-functional collaboration (10+ years)",
+            "Change management experience introducing AI to non-technical stakeholders",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for diverse stakeholder engagement",
+            "Published researcher \u00e2\u20ac\u201d evidence-based approach to innovation"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Evaluate and pilot emerging digital health technologies with structured POC frameworks",
+            "Build innovation KPI dashboards for executive visibility and decision-making",
+            "Scale successful pilots across PureHealth entities with standardized playbooks",
+            "Leverage AI research background to identify next-generation healthcare innovation opportunities"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Specialist Innovation Project \u00e2\u20ac\u201d PureHealth\nMATCH SCORE: 55 | ATS SCORE: 71\n\nSKILL MATCH ANALYSIS:\n\u2713 Project management \u00e2\u20ac\u201d 16+ years managing IT projects end-to-end\n\u2713 IT governance \u00e2\u20ac\u201d ISO20000, institutional compliance, ministry reporting\n\u2713 Cybersecurity awareness \u00e2\u20ac\u201d XDR/SIEM architecture, Security Onion certified\n\u2713 Data analysis \u00e2\u20ac\u201d Data Mining, Visualization, statistical modeling (MITx Probability)\n\u2713 KPI development \u00e2\u20ac\u201d Aldhakheerah metrics, compliance agent KPIs, training assessments\n\u2713 Stakeholder management \u00e2\u20ac\u201d Ministry, senior leadership, cross-departmental\n\u2713 Communication/Presentation \u00e2\u20ac\u201d 40+ events, MCT, public speaking, 16K+ article views\n\u2713 Cross-functional collaboration \u00e2\u20ac\u201d IT, admin, academic, government entities\n\u2713 Innovation/POC \u00e2\u20ac\u201d Multiple concurrent innovation pilots deployed\n\u2717 Healthcare domain \u00e2\u20ac\u201d New sector (but strong adjacent government experience)\n\u2717 Clinical workflow understanding \u00e2\u20ac\u201d Would need domain onboarding\n\u2717 MedTech implementation \u00e2\u20ac\u201d No direct MedTech experience\n\nKEY ACHIEVEMENTS:\n- DEWA CleanTech Hackathon WINNER (SolCharge, Integration category)\n- SAPO Framework: 94% LLM performance improvement\n- Aldhakheerah: 49K+ downloads, 40+ countries\n- 3+ concurrent innovation pilots (AI, NLP, RPA)\n- Published: Int. Journal of Information Management (2018)\n- UAE Coding + AI Office dual Ambassador\n- 2 startups founded\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: ISO20000, GenAI for Business Leaders, Azure AI Fundamentals, Security Onion, MCT, Azure Solutions/Infrastructure\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE | Employment Visa"
+  },
+  {
+    "job_id": "4382031935",
+    "job_title": "Innovation Specialist - Startups & Ventures",
+    "company": "Emirates",
+    "match_score": 55,
+    "ats_score": 75,
+    "ats_keywords": [
+      "Innovation management",
+      "Design thinking",
+      "Technology research",
+      "Innovation metrics/KPIs",
+      "Hackathon platform management",
+      "Project management",
+      "Collaboration",
+      "Proactivity",
+      "Adaptability",
+      "Stakeholder engagement",
+      "Communication",
+      "Workshop facilitation",
+      "innovation",
+      "startups",
+      "emerging technologies",
+      "hackathons"
+    ],
+    "keyword_density": {
+      "matched": 16,
+      "total": 22,
+      "percent": 73
+    },
+    "tailored_summary": "Innovation specialist and startup ecosystem builder with 16+ years of experience driving technology innovation, hackathon organization, and emerging technology research across UAE. Founder of KONSTARTUP (40+ tech events) and DEWA CleanTech Hackathon Winner with proven expertise in innovation funnel management, workshop facilitation, and startup ecosystem engagement. MSc Informatics (BUiD) researcher with cutting-edge AI work (SAPO Framework, OmniDetect) and dual UAE Ambassador roles (Coding + AI Office), bringing deep connections to the UAE innovation and startup landscape.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Drove innovation culture by evaluating and integrating emerging AI technologies \u00e2\u20ac\u201d Azure AI, NLP, RPA \u00e2\u20ac\u201d into institutional operations for 500+ users",
+          "Managed innovation funnel for multiple technology initiatives: Moodle AI integration, Grant-Guard NLP, Scholars' Ledger RPA \u00e2\u20ac\u201d from ideation through deployment",
+          "Developed and tracked innovation KPIs for Aldhakheerah repository: 116 papers, 49K+ downloads, 40+ countries, 12.6K annual velocity",
+          "Conducted technology research and assessment for emerging solutions (Azure AI Document Intelligence, generative AI capabilities)",
+          "Led innovation workshops and training events for staff technology skills development",
+          "Authored CleanTech Hackathon Programmer's Guide (2026) \u00e2\u20ac\u201d strategic technical dossier covering CNNs/RNNs, deep RL, blockchain, and open data",
+          "Communicated innovation vision and progress to senior institutional leadership"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Facilitated innovation workshops introducing no-code AI solutions (PowerApps, AI Builder, chatbots) to drive employee innovation culture",
+          "Conducted emerging technology research and piloted new learning tools for institutional adoption",
+          "Developed innovation training brand and communication strategy for technology adoption"
+        ]
+      },
+      {
+        "title": "Founder & Innovation Lead",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Founded and managed UAE tech startup community \u00e2\u20ac\u201d developed innovation funnel connecting startup ideas to execution across 40+ events",
+          "Organized design thinking workshops, hackathons, and networking sessions for startup and professional communities",
+          "Built innovation brand and communication strategy driving community engagement and startup ecosystem growth",
+          "Drove innovation culture and crowdsourcing through community events connecting founders, developers, and investors",
+          "Assessed and tracked progression of startup ideas through innovation pipeline stages"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Led startup venture from concept to product \u00e2\u20ac\u201d Azure SaaS for legal sector, demonstrating innovation lifecycle management",
+          "Researched emerging cloud technologies and made strategic technology adoption decisions",
+          "Managed innovation project delivery for consulting clients across Dubai"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Facilitated technology learning workshops for staff innovation and digital skills development"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Led innovative IT infrastructure buildout from scratch \u00e2\u20ac\u201d emerging technology assessment and deployment",
+          "Developed innovative ERP solution for legal case management \u00e2\u20ac\u201d new digital approach to operational workflows",
+          "Integrated emerging e-services technologies with office applications"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led innovative development of enterprise hospital platforms \u00e2\u20ac\u201d new digital solutions for healthcare operations",
+          "Researched and adopted emerging technologies for scalable enterprise software solutions"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed innovative government information management system \u00e2\u20ac\u201d digital first for Omdurman municipality",
+          "Led technology student media group, fostering innovation culture among next-generation developers"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Leadership",
+      "Community Building",
+      "Public Speaking",
+      "Communication",
+      "Project Planning",
+      "Strategic Initiatives",
+      "Mentoring",
+      "Knowledge Dissemination",
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "Deep Reinforcement Learning",
+      "NLP",
+      "Machine Learning",
+      "TensorFlow",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Microsoft PowerApps",
+      "Microsoft Power Automate",
+      "Python",
+      "C#",
+      "JavaScript",
+      "Dart"
+    ],
+    "certs_order": [
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "Microsoft Certified Trainer (MCT)",
+      "IT Service Management: ISO20000",
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "Security Onion",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Innovation Specialist | Startup Ecosystem Builder | CleanTech Hackathon Winner | UAE Coding + AI Ambassador | 40+ Tech Events",
+      "skills_to_add": [
+        "Innovation Management",
+        "Design Thinking",
+        "Hackathon Organization",
+        "Startup Ecosystem",
+        "Workshop Facilitation",
+        "Innovation Metrics",
+        "Employee Crowdsourcing",
+        "Technology Scouting"
+      ],
+      "skills_to_remove": [
+        "Crystal Reports",
+        "WCF",
+        "PABX Telephony",
+        "Biometrics",
+        "VB.NET",
+        "Kendo UI"
+      ],
+      "summary_additions": [
+        "Founded KONSTARTUP: 40+ tech events connecting startups and professionals across UAE",
+        "DEWA CleanTech Hackathon Winner + 2026 Programmer's Guide Author",
+        "Dual UAE Ambassador (Coding + AI Office) \u00e2\u20ac\u201d embedded in national innovation ecosystem"
+      ],
+      "featured_content": [
+        "Case study: Building KONSTARTUP \u00e2\u20ac\u201d 40+ Events, 3 Years",
+        "Article: DEWA CleanTech Hackathon \u00e2\u20ac\u201d From Idea to Winning Solution",
+        "Presentation: Emerging AI Technologies for Innovation Leaders"
+      ]
+    },
+    "cover_letter_hook": "Having founded KONSTARTUP and organized 40+ tech events connecting startups and innovators across UAE \u00e2\u20ac\u201d while winning the DEWA CleanTech Hackathon and serving as dual UAE Ambassador for Coding and AI \u00e2\u20ac\u201d I bring Emirates the exact startup ecosystem expertise, innovation management experience, and technology research depth this role demands.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "Founded KONSTARTUP: 40+ tech events connecting UAE startup ecosystem",
+            "DEWA CleanTech Hackathon Winner \u00e2\u20ac\u201d innovation from ideation to winning",
+            "Dual UAE Ambassador (Coding + AI Office) \u00e2\u20ac\u201d national innovation network",
+            "MSc Informatics researcher \u00e2\u20ac\u201d cutting-edge technology insight"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "40+ tech events: hackathons, workshops, networking across UAE",
+            "SolCharge: winning hackathon innovation for solar EV charging",
+            "Aldhakheerah: innovation delivering 49K+ downloads to 40+ countries",
+            "2 startups founded and managed \u00e2\u20ac\u201d end-to-end venture experience"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "SAPO Framework: 94% LLM improvement \u00e2\u20ac\u201d frontier AI research",
+            "OmniDetect: AI detection with adversarial robustness testing",
+            "CleanTech Programmer's Guide: CNNs, deep RL, blockchain, open data",
+            "Azure AI, Generative AI, NLP \u00e2\u20ac\u201d emerging technology evaluation"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "14+ years in UAE \u00e2\u20ac\u201d deep understanding of local innovation ecosystem",
+            "Community builder: 40+ events, StackOverflow top 5%, 16K+ article views",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for diverse stakeholder engagement",
+            "Active 2026 meetup circuit: Dubai AI, Kafka, LangChain4j, VR, HCD"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Build Emirates innovation funnel connecting internal ideas to startup solutions",
+            "Organize design thinking sprints and hackathons driving employee innovation culture",
+            "Develop innovation metrics framework for tracking idea-to-value pipeline",
+            "Leverage AI research network to identify breakthrough technology partnerships"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Innovation Specialist - Startups & Ventures \u00e2\u20ac\u201d Emirates\nMATCH SCORE: 55 | ATS SCORE: 75\n\nSKILL MATCH ANALYSIS:\n\u2713 Innovation management \u00e2\u20ac\u201d Founded KONSTARTUP, managed innovation funnel, 40+ events\n\u2713 Technology research \u00e2\u20ac\u201d SAPO Framework, OmniDetect, AI technology evaluation\n\u2713 Innovation metrics/KPIs \u00e2\u20ac\u201d Aldhakheerah KPIs, compliance metrics, event analytics\n\u2713 Hackathon platform management \u00e2\u20ac\u201d DEWA CleanTech Winner, NYU Abu Dhabi, AngelHack\n\u2713 Project management \u00e2\u20ac\u201d 16+ years managing IT/innovation projects\n\u2713 Collaboration \u00e2\u20ac\u201d Cross-functional, multi-stakeholder across sectors\n\u2713 Stakeholder engagement \u00e2\u20ac\u201d Ministry, government leadership, startup ecosystem\n\u2713 Workshop facilitation \u00e2\u20ac\u201d MCT, 40+ events, training delivery\n\u2713 Communication \u00e2\u20ac\u201d Public speaking, 16K+ article views, ambassador roles\n\u2713 Startups \u00e2\u20ac\u201d 2 founded (KONSTARTUP, MOECS)\n\u2717 Design thinking sprint facilitation \u00e2\u20ac\u201d No formal certification\n\u2717 Venture capital/startup assessment \u00e2\u20ac\u201d Informal experience\n\u2717 Aviation industry \u00e2\u20ac\u201d New sector\n\nKEY ACHIEVEMENTS:\n- KONSTARTUP: 40+ tech events across UAE (2016-2019)\n- DEWA CleanTech Hackathon WINNER (SolCharge)\n- SAPO Framework: 94% LLM performance improvement\n- Aldhakheerah: 49K+ downloads, 40+ countries\n- UAE Coding + AI Office dual Ambassador\n- Published: Int. Journal of Information Management (2018)\n- 110+ GitHub repos, StackOverflow top 5%\n- Active 2026 meetups: Kafka, LangChain4j, Dubai AI, VR, HCD\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: GenAI for Business Leaders, Azure AI Fundamentals, MCT, ISO20000, Azure Solutions/Infrastructure\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE | Employment Visa"
   },
   {
     "job_id": "4374702371",
@@ -613,6 +2517,476 @@
       ]
     },
     "llm_ready_text": "Mohamed Elrashid | Research Engineer Candidate | Khalifa University\n\nEDUCATION: MSc Informatics (British University in Dubai, Dissertation Phase, Supervisor: Prof. Piyush Maheshwari, Faculty: Prof. Khaled Shaalan) | MBA IT (UCAM Spain, Dubai Government Accredited) | BSc Information Systems (V.Good with Honours)\n\nPUBLICATIONS: 'The impact of knowledge management processes on information systems: A systematic review' \u00e2\u20ac\u201d International Journal of Information Management, 2018, co-authored with Prof. Khaled Shaalan and Mostafa Al-Emran | Active manuscript: 'Comprehensive Analysis of Literature on AI-Driven Job Market Demands in MENA' using PRISMA-DFLLM methodology\n\nRESEARCH PROJECTS: SAPO Framework \u00e2\u20ac\u201d 94% RL improvement via 8-node decentralized swarm (Llama, Mistral, Qwen models, GRPO algorithm, 50% VRAM reduction) | OmniDetect \u00e2\u20ac\u201d multi-layered AI detection pipeline with 98% sentence-level certainty | Grant-Guard \u00e2\u20ac\u201d NLP compliance tool using Azure AI Document Intelligence | Scholars' Ledger \u00e2\u20ac\u201d RPA continuous assurance platform\n\nREPOSITORY MANAGEMENT: Aldhakheerah: 116 papers, 49,000+ downloads, 12,600 annual velocity, 40+ countries\n\nEVENT MANAGEMENT: 40+ tech events organized (KONSTARTUP) | 2026 meetups: Kafka/Flink, LangChain4j, Dubai AI, HCD\n\nAMBASSADORSHIPS: UAE AI Office Ambassador | UAE Coding Ambassador | MITx Probability (2024) | StackOverflow top 5%"
+  },
+  {
+    "job_id": "4301252291",
+    "job_title": "AI Mentor Talent Pool - Contractor Roles",
+    "company": "Udacity",
+    "match_score": 52,
+    "ats_score": 80,
+    "ats_keywords": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Data Science",
+      "AI Industry Trends",
+      "Mentoring",
+      "Interpersonal Skills",
+      "Communication",
+      "Relationship Building",
+      "Coaching",
+      "E-learning",
+      "AI Education",
+      "Career Coaching",
+      "Tutoring",
+      "Upskilling",
+      "Deep Learning",
+      "NLP",
+      "Transformers",
+      "Generative AI",
+      "LLMs",
+      "TensorFlow",
+      "Prompt Engineering"
+    ],
+    "keyword_density": {
+      "matched": 21,
+      "total": 24,
+      "percent": 88
+    },
+    "tailored_summary": "AI researcher, educator, and mentor with 16+ years of experience in technology training, AI/ML implementation, and knowledge dissemination. Creator of the SAPO Framework (94% LLM performance improvement via decentralized RL) and OmniDetect adversarial AI detection pipeline, with published research in the International Journal of Information Management. Microsoft Certified Trainer (2021-2027) with hands-on AI expertise across deep learning, NLP, transformers, and generative AI \u00e2\u20ac\u201d combined with proven mentoring through StackOverflow (top 5%, 783K reached), 16K+ LinkedIn article views, and dual UAE Ambassador roles for Coding and AI.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Integrated AI capabilities into Moodle LMS, mentoring faculty on generative AI adoption for text and image generation serving 500+ students",
+          "Built Grant-Guard NLP tool using Azure AI Document Intelligence \u00e2\u20ac\u201d hands-on AI/ML implementation in real-world compliance context",
+          "Deployed Scholars' Ledger RPA framework \u00e2\u20ac\u201d AI-driven automation mentoring for institutional compliance workflows",
+          "Led training workshops on AI, Microsoft Power Platform, and emerging technologies for diverse staff audiences",
+          "Authored CleanTech Hackathon Programmer's Guide covering CNNs, RNNs, deep RL, and AI architecture \u00e2\u20ac\u201d educational content creation",
+          "Mentored institutional staff on technology adoption through IMC Student Digital Journey onboarding program",
+          "Architected Aldhakheerah repository \u00e2\u20ac\u201d knowledge dissemination platform reaching 49K+ downloads across 40+ countries"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Delivered 5 years of instructor-led AI and technology training to students and staff with performance assessment",
+          "Mentored students on no-code AI solutions: Microsoft PowerApps, AI Builder, chatbots \u00e2\u20ac\u201d building AI literacy from the ground up",
+          "Assessed learner performance, identified skill gaps, and provided personalized coaching to accelerate upskilling",
+          "Built meaningful engagement with diverse learner populations through virtual and in-person mentoring sessions"
+        ]
+      },
+      {
+        "title": "Founder & Community Mentor",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Founded UAE tech mentoring community \u00e2\u20ac\u201d facilitated knowledge sharing across 40+ events for aspiring developers and startup founders",
+          "Mentored early-stage technologists on career development, technical skills, and startup ecosystem navigation",
+          "Created community learning platforms connecting mentors, mentees, and industry professionals"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Delivered Office 365 training and Azure consulting \u00e2\u20ac\u201d hands-on technical mentoring for SMB staff",
+          "Coached clients on cloud technology adoption and digital transformation strategies"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Mentored company staff through ICDL learning program with personalized skill development plans"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Delivered in-house ICDL training and technical mentoring for staff technology upskilling",
+          "Coached users on ERP system adoption and digital workflow optimization"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Mentored junior developers \u00e2\u20ac\u201d promoted to Senior based on knowledge transfer and team development capabilities",
+          "Led technical knowledge sharing across DevOps team for 5+ enterprise client projects"
+        ]
+      },
+      {
+        "title": "Information Technology Instructor",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "5 years university-level AI and technology mentoring \u00e2\u20ac\u201d taught application development, VB.NET, Windows Forms",
+          "Mentored next-generation IT professionals through student media group and hands-on lab instruction",
+          "Provided career guidance and technical coaching to computer science students"
+        ]
+      }
+    ],
+    "skills_order": [
+      "Deep Reinforcement Learning",
+      "Large Language Models (LLMs)",
+      "GRPO",
+      "Transformers",
+      "NLP",
+      "Machine Learning",
+      "Deep Learning",
+      "Generative AI",
+      "Computer Vision",
+      "TensorFlow",
+      "Azure AI",
+      "Prompt Engineering",
+      "Mentoring",
+      "Training & Education Delivery",
+      "Instructor-led Training",
+      "Communication",
+      "Public Speaking",
+      "Knowledge Dissemination",
+      "Python",
+      "Statistical Modeling",
+      "Data Mining",
+      "Data Visualization"
+    ],
+    "certs_order": [
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "Microsoft Certified Trainer (MCT)",
+      "Security Onion",
+      "IT Service Management: ISO20000",
+      "MS Specialist: Developing Azure Solutions",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "AI Mentor & Researcher | SAPO Framework (94% LLM Improvement) | MCT | StackOverflow Top 5% | UAE AI Ambassador",
+      "skills_to_add": [
+        "AI Mentoring",
+        "Career Coaching",
+        "Online Education",
+        "E-Learning",
+        "Learner Assessment",
+        "Curriculum Design",
+        "AI Career Guidance"
+      ],
+      "skills_to_remove": [
+        "PABX Telephony",
+        "Crystal Reports",
+        "WCF",
+        "Biometrics",
+        "Kendo UI"
+      ],
+      "summary_additions": [
+        "StackOverflow: top 5%, 7.7K reputation, 783K people reached \u00e2\u20ac\u201d proven online mentoring impact",
+        "SAPO Framework + OmniDetect: hands-on cutting-edge AI research to share with learners",
+        "MCT + 16+ years training delivery \u00e2\u20ac\u201d structured mentoring methodology"
+      ],
+      "featured_content": [
+        "Article: SAPO Framework \u00e2\u20ac\u201d Making LLM Optimization Accessible",
+        "StackOverflow profile: 92 answers, 783K reached",
+        "Presentation: TensorFlow and Deep Reinforcement Learning"
+      ]
+    },
+    "cover_letter_hook": "With hands-on AI research (SAPO Framework achieving 94% LLM improvement, OmniDetect adversarial AI detection), 16+ years of technology mentoring as a Microsoft Certified Trainer, and a StackOverflow presence reaching 783K people, I bring Udacity the rare combination of cutting-edge AI practitioner expertise and proven passion for mentoring learners at every level.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "SAPO Framework creator \u00e2\u20ac\u201d hands-on cutting-edge AI research to share",
+            "Microsoft Certified Trainer with 16+ years of mentoring experience",
+            "StackOverflow top 5%: 7.7K rep, 783K reached \u00e2\u20ac\u201d proven online mentoring",
+            "UAE Coding + AI Office Ambassador \u00e2\u20ac\u201d national AI education advocate"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "500+ students/staff trained on AI and technology over 10+ years",
+            "StackOverflow: 92 answers reaching 783K people worldwide",
+            "16,265+ LinkedIn article views on AI and technology topics",
+            "40+ tech events facilitating knowledge sharing and mentoring"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "SAPO: 94% LLM improvement via decentralized RL (Llama, Mistral, Qwen)",
+            "OmniDetect: multi-layered AI detection with adversarial robustness",
+            "Full AI/ML stack: deep RL, GRPO, Transformers, NLP, TensorFlow",
+            "MITx Probability (2024) + AI Professional Program \u00e2\u20ac\u201d current curriculum"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Passionate knowledge disseminator \u00e2\u20ac\u201d StackOverflow, articles, events, mentoring",
+            "Published researcher \u00e2\u20ac\u201d academic rigor in AI education delivery",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d diverse learner accessibility",
+            "Active 2026 AI community: LangChain4j, Dubai AI, Kafka events"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Share real-world AI research insights (SAPO, OmniDetect) with Udacity learners",
+            "Develop AI career guidance frameworks based on MENA job market research",
+            "Create practical, project-based mentoring curricula grounded in production AI experience",
+            "Foster global AI learning community through multilingual mentoring accessibility"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: AI Mentor Talent Pool \u00e2\u20ac\u201d Udacity (Contractor)\nMATCH SCORE: 52 | ATS SCORE: 80\n\nSKILL MATCH ANALYSIS:\n\u2713 Artificial Intelligence \u00e2\u20ac\u201d SAPO Framework, OmniDetect, Moodle AI, Grant-Guard NLP\n\u2713 Machine Learning \u00e2\u20ac\u201d Deep RL, GRPO, Transformers, TensorFlow, NLP\n\u2713 Data Science \u00e2\u20ac\u201d MITx Probability, Data Mining, Statistical Modeling, Data Visualization\n\u2713 AI Industry Trends \u00e2\u20ac\u201d Active 2026 meetup circuit, PRISMA-DFLLM research, LLM optimization\n\u2713 Mentoring \u00e2\u20ac\u201d MCT, 16+ years training, StackOverflow 783K reached\n\u2713 Communication \u00e2\u20ac\u201d Public speaking, 16K+ article views, ambassador roles\n\u2713 Relationship Building \u00e2\u20ac\u201d Community founder, 40+ events, startup ecosystem\n\u2713 Coaching \u00e2\u20ac\u201d Performance assessment, skill gap identification, personalized guidance\n\u2713 E-learning \u00e2\u20ac\u201d Moodle LMS integration, virtual training delivery\n\u2713 Career Coaching \u00e2\u20ac\u201d MENA AI job market research (PRISMA systematic review)\n\u2717 Formal AI/ML engineering role \u00e2\u20ac\u201d Research-focused rather than production ML engineer\n\nKEY ACHIEVEMENTS:\n- SAPO Framework: 94% LLM performance improvement\n- OmniDetect: 98% sentence-level AI detection certainty\n- StackOverflow: top 5%, 7.7K rep, 783K reached\n- MCT (2021-2027), 500+ students trained\n- Published: Int. Journal of Information Management (2018)\n- DEWA CleanTech Hackathon WINNER\n- UAE Coding + AI Office dual Ambassador\n- 16,265+ LinkedIn article views\n- MITx Probability + AI Professional Program (2024)\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain) | BSc Information Systems (Honours)\nCERTIFICATIONS: GenAI for Business Leaders, Azure AI Fundamentals, MCT, ISO20000, Azure Solutions/Infrastructure\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: UAE | Employment Visa | Flexible schedule available"
+  },
+  {
+    "job_id": "4380906331",
+    "job_title": "D&C - Digital Strategy and Realization - Digital Government Strategy - Senior Manager",
+    "company": "PwC Middle East",
+    "match_score": 52,
+    "ats_score": 67,
+    "ats_keywords": [
+      "Digital government strategy",
+      "Enterprise architecture",
+      "AI",
+      "Cloud Computing",
+      "Digital platform design",
+      "Systems integration",
+      "Data management",
+      "Strategic thinking",
+      "Leadership",
+      "Stakeholder management",
+      "Communication",
+      "digital government",
+      "transformation",
+      "e-government",
+      "public sector",
+      "IT Governance",
+      "ISO20000"
+    ],
+    "keyword_density": {
+      "matched": 17,
+      "total": 28,
+      "percent": 61
+    },
+    "tailored_summary": "Digital government strategist with 16+ years of experience designing and implementing technology solutions for government entities, holding an MSc in Informatics (BUiD) and MBA in IT (UCAM Spain). Proven track record delivering digital platform innovation for Government of Dubai \u00e2\u20ac\u201d including AI integration, institutional data systems, and e-government compliance reporting (HEIDA-API). UAE AI Office Ambassador and published researcher with deep expertise in enterprise architecture, AI/cloud technologies, and public sector digital transformation aligned with national vision objectives.",
+    "tailored_experience": [
+      {
+        "title": "Information Technology Officer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "December 2020 - Present",
+        "bullets": [
+          "Developed and implemented digital government strategy for institutional operations \u00e2\u20ac\u201d AI integration, RPA automation, cybersecurity architecture, and digital repository deployment",
+          "Designed digital platform architecture for Aldhakheerah repository \u00e2\u20ac\u201d scalable government digital service delivering 116 papers to 49K+ users across 40+ countries",
+          "Led HEIDA-API (GSB v3) e-government integration with UAE Ministry of Higher Education, designing data submission schemas and institutional reporting standards",
+          "Assessed and deployed emerging AI technologies (Azure AI, NLP, generative AI) to enhance government digital services for 500+ users",
+          "Developed IT governance policies and digital government standards including XDR/SIEM cybersecurity architecture and compliance frameworks",
+          "Built Grant-Guard NLP and Scholars' Ledger RPA \u00e2\u20ac\u201d digital government automation tools reducing manual compliance processes",
+          "Defined strategic goals for digital transformation aligned with institutional and government vision objectives"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Imam Malik College (Government of Dubai)",
+        "dates": "2015 - 2020",
+        "bullets": [
+          "Drove government digital skills strategy through Microsoft Power Platform training (PowerApps, Power Automate, AI Builder)",
+          "Designed digital government capability building programs for institutional staff",
+          "Led e-government service adoption through structured training and change management"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "KONSTARTUP",
+        "dates": "2016 - 2019",
+        "bullets": [
+          "Built technology ecosystem connecting government, startup, and enterprise stakeholders across UAE",
+          "Managed strategic stakeholder engagement across 40+ events with diverse community segments"
+        ]
+      },
+      {
+        "title": "Founder",
+        "company": "MOECS",
+        "dates": "2015 - 2019",
+        "bullets": [
+          "Delivered cloud computing and digital transformation consulting for SMBs on Azure platform",
+          "Designed and deployed cloud-native SaaS solutions demonstrating digital platform architecture capability"
+        ]
+      },
+      {
+        "title": "Information Technology Trainer",
+        "company": "Al Gharib Associates",
+        "dates": "2014 - 2015",
+        "bullets": [
+          "Led digital literacy and capability building program for enterprise staff"
+        ]
+      },
+      {
+        "title": "Information Technology Officer",
+        "company": "Al Gharib Associates Advocates & Legal Consultants",
+        "dates": "2012 - 2015",
+        "bullets": [
+          "Designed enterprise architecture and digital platform for legal services \u00e2\u20ac\u201d voice, data, networking, access control systems",
+          "Led systems integration connecting e-government services with office applications",
+          "Developed ERP data management system for legal case workflows"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer",
+        "company": "Oasis Computer Systems Co. Ltd.",
+        "dates": "2010 - 2012",
+        "bullets": [
+          "Led enterprise architecture and systems integration for 5+ hospital clients \u00e2\u20ac\u201d public sector adjacent digital platforms",
+          "Designed data management systems for Procurement, Health Info, Inventory, and Accounting",
+          "Managed production database systems ensuring data integrity and security"
+        ]
+      },
+      {
+        "title": "Information Technology",
+        "company": "Omdurman University",
+        "dates": "2005 - 2010",
+        "bullets": [
+          "Developed digital government information management system for Omdurman municipality \u00e2\u20ac\u201d early e-government delivery",
+          "Led technology education programs building digital government workforce capacity"
+        ]
+      }
+    ],
+    "skills_order": [
+      "IT Governance",
+      "IT Service Management",
+      "ISO20000",
+      "Software Architecture",
+      "Systems Analysis",
+      "Microsoft Azure",
+      "Azure AI Services",
+      "Azure Sentinel",
+      "Office 365 Administration",
+      "Cybersecurity",
+      "XDR/SIEM",
+      "Leadership",
+      "Strategic Initiatives",
+      "Project Planning",
+      "Communication",
+      "Public Speaking",
+      "SQL Server",
+      "Database Modeling",
+      "REST APIs",
+      "Docker",
+      "Generative AI",
+      "Large Language Models (LLMs)",
+      "NLP",
+      "Machine Learning",
+      "Python",
+      "C#"
+    ],
+    "certs_order": [
+      "IT Service Management: ISO20000",
+      "Generative AI for Business Leaders",
+      "Azure AI Fundamentals",
+      "MS Specialist: Implementing Azure Infrastructure",
+      "MS Specialist: Developing Azure Solutions",
+      "Security Onion",
+      "Microsoft Certified Trainer (MCT)",
+      "MCSA: Office 365",
+      "MCPS: Microsoft Certified Professional",
+      "Xamarin Certified Mobile Developer"
+    ],
+    "linkedin_tips": {
+      "headline": "Digital Government Strategist | MSc + MBA | AI & Cloud | Government of Dubai | UAE AI Ambassador | Published Researcher",
+      "skills_to_add": [
+        "Digital Government Strategy",
+        "E-Government",
+        "TOGAF",
+        "ITIL",
+        "PMP",
+        "COBIT",
+        "UN EGDI",
+        "Digital Platform Design",
+        "Government Consulting"
+      ],
+      "skills_to_remove": [
+        "jQuery",
+        "Kendo UI",
+        "Crystal Reports",
+        "VB.NET",
+        "WCF",
+        "PABX Telephony"
+      ],
+      "summary_additions": [
+        "10+ years delivering digital strategy for Government of Dubai",
+        "HEIDA-API e-government integration with UAE Ministry of Higher Education",
+        "MBA IT (UCAM Spain) \u00e2\u20ac\u201d postgraduate degree preferred for this role"
+      ],
+      "featured_content": [
+        "Case study: Digital Transformation at Government of Dubai Institution",
+        "Article: E-Government Strategy and AI Integration",
+        "Research: Knowledge Management Processes in Information Systems (2018)"
+      ]
+    },
+    "cover_letter_hook": "Having spent 10+ years designing and implementing digital strategies for Government of Dubai \u00e2\u20ac\u201d from AI-powered digital services and e-government HEIDA-API integration to cybersecurity architecture \u00e2\u20ac\u201d and holding both an MSc in Informatics and MBA in IT, I bring PwC Middle East the government sector depth and digital transformation expertise to elevate client digital government rankings and service delivery.",
+    "pitch_deck": {
+      "slides": [
+        {
+          "title": "Why Mohamed",
+          "bullets": [
+            "10+ years digital strategy for Government of Dubai entities",
+            "MSc Informatics + MBA IT \u00e2\u20ac\u201d postgraduate-qualified as preferred",
+            "UAE AI Office Ambassador \u00e2\u20ac\u201d national-level digital government advocacy",
+            "Published researcher with systematic review methodology expertise"
+          ]
+        },
+        {
+          "title": "Track Record",
+          "bullets": [
+            "HEIDA-API: e-government data integration with UAE Ministry of Higher Education",
+            "Aldhakheerah: digital government platform reaching 49K+ users across 40+ countries",
+            "XDR/SIEM: government cybersecurity architecture (Azure Sentinel + Defender)",
+            "Grant-Guard + Scholars' Ledger: AI/RPA automation for government compliance"
+          ]
+        },
+        {
+          "title": "Technical Depth",
+          "bullets": [
+            "AI: SAPO Framework (94% LLM improvement), generative AI, NLP",
+            "Cloud: Azure certified infrastructure and solutions architecture",
+            "Enterprise architecture: ERP, digital platforms, systems integration",
+            "IT Governance: ISO20000, cybersecurity, compliance frameworks"
+          ]
+        },
+        {
+          "title": "Cultural Fit",
+          "bullets": [
+            "Deep government sector understanding \u00e2\u20ac\u201d policy, compliance, governance",
+            "Bilingual Arabic/English \u00e2\u20ac\u201d essential for GCC government consulting",
+            "Published researcher \u00e2\u20ac\u201d evidence-based strategic recommendations",
+            "Active in regional AI/tech community \u00e2\u20ac\u201d current on emerging technologies"
+          ]
+        },
+        {
+          "title": "Growth Vision",
+          "bullets": [
+            "Leverage AI and emerging technologies to enhance government digital rankings",
+            "Design interoperable digital government platforms aligned with global indices",
+            "Build digital government capability frameworks for GCC public sector clients",
+            "Apply PRISMA-DFLLM research methodology to evidence-based strategy development"
+          ]
+        }
+      ]
+    },
+    "llm_ready_text": "CANDIDATE: Mohamed Elrashid\nTARGET ROLE: Digital Government Strategy Senior Manager \u00e2\u20ac\u201d PwC Middle East\nMATCH SCORE: 52 | ATS SCORE: 67\n\nSKILL MATCH ANALYSIS:\n\u2713 Digital government strategy \u00e2\u20ac\u201d 10+ years Government of Dubai digital transformation\n\u2713 Enterprise architecture \u00e2\u20ac\u201d IT infrastructure, ERP, digital platforms, systems integration\n\u2713 AI \u00e2\u20ac\u201d SAPO Framework, OmniDetect, Moodle AI, Grant-Guard NLP, Azure AI\n\u2713 Cloud Computing \u00e2\u20ac\u201d Azure certified, SaaS architecture, Docker\n\u2713 Digital platform design \u00e2\u20ac\u201d Aldhakheerah (49K+ users, 40+ countries), Moodle AI\n\u2713 Systems integration \u00e2\u20ac\u201d HEIDA-API, e-services, REST APIs, WSDL\n\u2713 Data management \u00e2\u20ac\u201d SQL Server, database architecture, institutional data systems\n\u2713 Strategic thinking \u00e2\u20ac\u201d MBA IT, AI research strategy, institutional digital vision\n\u2713 Leadership \u00e2\u20ac\u201d 16+ years progressive IT leadership\n\u2713 Public sector \u00e2\u20ac\u201d Government of Dubai, 10+ years\n\u2717 UN EGDI assessment \u00e2\u20ac\u201d No direct experience\n\u2717 TOGAF/ITIL/PMP/COBIT \u00e2\u20ac\u201d No formal certifications (ISO20000 held)\n\u2717 Consulting background \u00e2\u20ac\u201d Government practitioner, not consulting firm\n\u2717 IoT/Mixed Reality \u00e2\u20ac\u201d Limited hands-on experience\n\nKEY ACHIEVEMENTS:\n- HEIDA-API: e-government integration with UAE Ministry of Higher Education\n- Aldhakheerah: government digital platform, 49K+ downloads, 40+ countries\n- SAPO Framework: 94% LLM performance improvement\n- DEWA CleanTech Hackathon WINNER\n- Published: Int. Journal of Information Management (2018)\n- UAE Coding + AI Office dual Ambassador\n- MBA IT (UCAM Spain) \u00e2\u20ac\u201d postgraduate as preferred\n\nEDUCATION: MSc Informatics (BUiD) | MBA IT (UCAM Spain, Dubai Gov Accredited) | BSc Information Systems (Honours)\nCERTIFICATIONS: ISO20000, GenAI for Business Leaders, Azure AI Fundamentals, Security Onion, MCT, Azure Solutions/Infrastructure\nLANGUAGES: Arabic (Native), English (Full Professional)\nLOCATION: Dubai, UAE (open to Doha) | Employment Visa"
   },
   {
     "job_id": "4382080005",
