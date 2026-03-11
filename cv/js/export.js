@@ -508,7 +508,8 @@ ${certs.map(c => `<div class="cert">${this.escapeHtml(c)}</div>`).join('')}
         const slide = pptx.addSlide();
         slide.background = { color: '0a0e1a' };
         slide.addText(slideData.title, { x: 0.5, y: 0.4, w: 9, h: 1, fontSize: 28, bold: true, color: '22c55e', fontFace: 'Segoe UI' });
-        const bulletText = (slideData.bullets || []).map(b => ({ text: b, options: { fontSize: 16, color: 'e2e8f0', bullet: true, paraSpaceAfter: 8 } }));
+        const bullets = slideData.bullets || (slideData.content ? slideData.content.split(' | ') : []);
+        const bulletText = bullets.map(b => ({ text: b, options: { fontSize: 16, color: 'e2e8f0', bullet: true, paraSpaceAfter: 8 } }));
         slide.addText(bulletText, { x: 0.8, y: 1.8, w: 8.4, h: 3.5, fontFace: 'Segoe UI' });
         slide.addText(`${this.profile.name} | ${this.cv.job_title} at ${this.cv.company}`, { x: 0.5, y: 5, w: 9, h: 0.4, fontSize: 10, color: '64748b', fontFace: 'Segoe UI' });
       }

@@ -5,8 +5,9 @@ import { TabPreview } from './preview.js';
 import { TabExport } from './export.js';
 import { TabLinkedin } from './linkedin.js';
 import { TabLlm } from './llm-ready.js';
+import { TabQA } from './qa.js';
 
-const TAB_IDS = ['browse', 'preview', 'export', 'linkedin', 'llm'];
+const TAB_IDS = ['browse', 'preview', 'export', 'linkedin', 'llm', 'qa'];
 
 // Shared state
 let selectedJobId = null;
@@ -48,6 +49,9 @@ function selectJob(jobId) {
 
   const llmEl = document.querySelector('tab-llm');
   if (llmEl) llmEl.showJob(cv, job);
+
+  const qaEl = document.querySelector('tab-qa');
+  if (qaEl) qaEl.showJob(cv, job);
 }
 
 async function init() {
@@ -73,7 +77,7 @@ async function init() {
     document.addEventListener('keydown', (e) => {
       if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
       const num = parseInt(e.key, 10);
-      if (num >= 1 && num <= 5) {
+      if (num >= 1 && num <= 6) {
         e.preventDefault();
         activateTab(TAB_IDS[num - 1]);
       }

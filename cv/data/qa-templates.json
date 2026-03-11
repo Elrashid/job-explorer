@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "top_choice",
+      "text": "Mark this job as a top choice?",
+      "type": "boolean",
+      "context": "Applicants who let hirers know when a job is their top choice are 43% more likely to hear back.",
+      "required": false
+    },
+    {
+      "id": "comfortable_commuting",
+      "text": "Are you comfortable commuting to this job's location?",
+      "type": "boolean_with_reasoning",
+      "required": true
+    },
+    {
+      "id": "min_salary_aed",
+      "text": "What is your minimum expected monthly salary in AED?",
+      "type": "salary",
+      "currency": "AED",
+      "required": true
+    }
+  ]
+}

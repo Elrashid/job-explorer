@@ -1,0 +1,1139 @@
+{
+  "generated_at": "2026-03-11",
+  "answers": {
+    "4382941836": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 72 indicates strong alignment. Head of IT role directly leverages 16+ years IT experience and MSc Informatics, with Dubai government sector matching current employer profile."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai where the candidate currently lives and works."
+      },
+      "min_salary_aed": {
+        "value": 40000,
+        "reasoning": "Executive-level Head of IT role in Dubai government sector. With 16+ years experience and MSc, targeting lower-mid range of executive band (35,000-50,000 AED)."
+      }
+    },
+    "4315015378": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 72 shows strong alignment. Fully funded PhD in AI at UAEU is a valuable opportunity to formalize AI expertise, building on existing MSc and IT background."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAEU is in Al Ain, UAE. PhD programs typically offer flexible schedules and the candidate is already UAE-based."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Fully funded PhD position with stipend. UAEU PhD stipends for research assistants typically range 10,000-20,000 AED. Setting at lower-mid of PhD/Research band."
+      }
+    },
+    "4357405404": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 65 indicates good fit. IT System Trainer role aligns with extensive IT experience and the candidate's background in informatics and systems management."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Location listed as UAE. Candidate is UAE-based in Dubai, so commuting is feasible depending on exact office location."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level IT trainer role at a major defense contractor. With 16+ years experience and MSc, targeting lower-mid range of senior band (22,000-30,000 AED)."
+      }
+    },
+    "4379830765": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 60 indicates good fit. Data Architect at Zayed University leverages IT infrastructure knowledge and informatics background, though may require deeper specialization in data modeling."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai where the candidate currently resides."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level Data Architect role at a university. Academic sector typically offers moderate compensation. Targeting lower-mid of mid-level band (15,000-22,000 AED)."
+      }
+    },
+    "4327180451": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 55 indicates reasonable fit. Product Owner for AI Solutions aligns with IT experience, though the role requires specific product ownership and AI solution delivery expertise."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is approximately 1 hour commute from Dubai, which is common for UAE professionals."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level Product Owner role at a global technology company. With 16+ years IT experience, targeting lower-mid of senior band (22,000-30,000 AED)."
+      }
+    },
+    "4371967359": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 55 indicates reasonable fit. AI Enterprise Architect at FAB is a prestigious lead role that leverages IT architecture experience, though requires deep AI and enterprise architecture specialization."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is approximately 1 hour commute from Dubai, which is a common arrangement for UAE-based professionals."
+      },
+      "min_salary_aed": {
+        "value": 32000,
+        "reasoning": "Lead-level Enterprise Architect role at a top-tier UAE bank. Banking sector offers competitive packages. Targeting lower-mid of lead band (28,000-38,000 AED)."
+      }
+    },
+    "4372899733": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 55 indicates reasonable fit. Director of Technology & Innovation is an executive role leveraging 16+ years IT experience, though it requires relocation to Qatar."
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Position is in Doha, Qatar, which would require relocation from Dubai. This is not a commutable distance."
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level Director role in Qatar. Qatar salaries are comparable to UAE. Targeting lower-mid of executive band (35,000-50,000 AED) converted to AED equivalent."
+      }
+    },
+    "4374381220": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 55 indicates reasonable fit. Innovation Project Specialist at PureHealth aligns with IT project experience, though healthcare innovation is a different domain."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai where the candidate currently lives and works."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level specialist role in healthcare innovation. With relevant IT experience, targeting lower-mid of mid-level band (15,000-22,000 AED)."
+      }
+    },
+    "4382031935": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Match score 55 indicates reasonable fit. Innovation Specialist at Emirates leverages IT and technology experience, though startups and ventures focus requires entrepreneurial mindset beyond traditional IT."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai where the candidate currently resides."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level Innovation Specialist at Emirates, a major UAE employer with competitive packages. Targeting lower-mid of senior band (22,000-30,000 AED)."
+      }
+    },
+    "4374702371": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "55% match as AI Lead aligns with 16+ years IT experience and growing AI expertise, though not a direct specialization match"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Doha, Qatar requires relocation from Dubai, not a simple commute"
+      },
+      "min_salary_aed": {
+        "value": 30000,
+        "reasoning": "Lead-level role in Qatar, lower-mid of 28-38K range"
+      }
+    },
+    "4374498058": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "55% match, research engineer role at Khalifa University aligns with MSc Informatics background and technical skills"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is approximately 1 hour commute from Dubai, manageable"
+      },
+      "min_salary_aed": {
+        "value": 20000,
+        "reasoning": "Research engineer mid-level, using research range 18-28K, lower-mid at 20K"
+      }
+    },
+    "4301252291": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "52% match, AI Mentor contractor role leverages 16+ years experience and ability to teach/guide, though contractor status is less stable"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, likely remote or Dubai-accessible"
+      },
+      "min_salary_aed": {
+        "value": 30000,
+        "reasoning": "Lead-level mentoring role, lower-mid of 28-38K range"
+      }
+    },
+    "4380906331": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "52% match, Digital Government Strategy Senior Manager aligns well with current IT Officer role at Government of Dubai, strong domain relevance"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Doha, Qatar requires relocation from Dubai, not a simple commute"
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior manager level, lower-mid of 22-30K range"
+      }
+    },
+    "4382080005": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "52% match, Generative AI Engineer role aligns with growing AI skills though mid-level may underutilize 16+ years experience"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, accessible from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level AI engineer, lower-mid of 15-22K range"
+      }
+    },
+    "4379823664": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "52% match, Director of Training Center leverages extensive experience and MSc qualification, though training center management is a pivot from IT"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is approximately 1 hour commute from Dubai, manageable"
+      },
+      "min_salary_aed": {
+        "value": 38000,
+        "reasoning": "Executive/Director level, lower-mid of 35-50K range"
+      }
+    },
+    "4383793870": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "50% match, AI Agent Engineer is an emerging field that partially aligns with IT background, borderline match at 50%"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, accessible from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level engineer role, lower-mid of 15-22K range"
+      }
+    },
+    "4376900082": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "48% match, below 50% threshold; Senior AI Solution Architect at Red Hat requires deep vendor-specific and architectural specialization that may not fully align"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, accessible from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior level solution architect, lower-mid of 22-30K range"
+      }
+    },
+    "4314732242": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "45% match, below 50% threshold; Digital Transformation Ambassador is more of an advocacy/communications role than core IT"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai-based role, no commute concerns"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level role, lower-mid of 15-22K range"
+      }
+    },
+    "4366224144": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 45 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 32000,
+        "reasoning": "Lead-level AI strategy role at a top AI company in MENA"
+      }
+    },
+    "4371188947": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 45 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level solution engineering specialist role"
+      }
+    },
+    "4374706797": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 45 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 20000,
+        "reasoning": "Mid-level manager role in scientific computing at a university"
+      }
+    },
+    "4375701853": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 45 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 19000,
+        "reasoning": "Mid-level applied research QA manager at a higher education institution"
+      }
+    },
+    "4381293186": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 45 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai-based role, no commute issues"
+      },
+      "min_salary_aed": {
+        "value": 30000,
+        "reasoning": "Lead-level AI integrator role in Dubai"
+      }
+    },
+    "4346236242": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 42 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, accessible from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level senior officer role in research grants administration"
+      }
+    },
+    "4383729062": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 42 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level cloud data architect on a 24-month contract"
+      }
+    },
+    "4340226543": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 40 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 33000,
+        "reasoning": "Lead-level GenAI and Agentic AI architect role"
+      }
+    },
+    "4359187991": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 40 is below 50 threshold"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, accessible from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level Genius role at Apple retail"
+      }
+    },
+    "4371764419": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "40% match - School Compliance Officer role is outside IT/technology domain, focused on education compliance rather than leveraging 16+ years of IT experience"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in Dubai, UAE - same city as current residence"
+      },
+      "min_salary_aed": {
+        "value": 28000,
+        "reasoning": "Lead level position, minimum salary range 28-38K AED"
+      }
+    },
+    "4373109759": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "65% match is at the threshold - Head of AI Transformation aligns well with IT expertise and MSc Informatics, though it requires media industry experience"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in Abu Dhabi, UAE - within commutable distance or short relocation within UAE"
+      },
+      "min_salary_aed": {
+        "value": 22000,
+        "reasoning": "Senior level position, minimum salary range 22-30K AED"
+      }
+    },
+    "4311391585": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "40% match - Part-time administrative role significantly underutilizes 16+ years of IT experience and MSc qualification"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in Sharjah, UAE - within commutable distance from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 5000,
+        "reasoning": "Entry level part-time position, minimum salary range 5-10K AED"
+      }
+    },
+    "4335163284": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "40% match - Lead Researcher role requires deep academic research focus which differs from IT operations and management experience"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in UAE - current country of residence"
+      },
+      "min_salary_aed": {
+        "value": 28000,
+        "reasoning": "Lead level position, minimum salary range 28-38K AED"
+      }
+    },
+    "4359284782": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "38% match - Entry-level Technical Specialist at Apple undervalues 16+ years of IT experience despite being a prestigious company"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in UAE - current country of residence"
+      },
+      "min_salary_aed": {
+        "value": 8000,
+        "reasoning": "Entry level position, minimum salary range 8-12K AED"
+      }
+    },
+    "4380358567": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "35% match - Technical Product Manager role requires specific product management experience that differs from IT officer background"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Remote position - can work from current location in Dubai"
+      },
+      "min_salary_aed": {
+        "value": 22000,
+        "reasoning": "Senior level position, minimum salary range 22-30K AED"
+      }
+    },
+    "4381704898": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "35% match - Enterprise Solutions Owner in Riyadh requires relocation and consulting focus differs from government IT operations experience"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Located in Riyadh, Saudi Arabia - would require international relocation from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 35000,
+        "reasoning": "Executive level position, minimum salary range 35-50K AED"
+      }
+    },
+    "4306614295": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "30% match - Manager of Alumni Affairs is in higher education administration, completely outside IT/technology domain"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in UAE - current country of residence"
+      },
+      "min_salary_aed": {
+        "value": 22000,
+        "reasoning": "Senior level position, minimum salary range 22-30K AED"
+      }
+    },
+    "4312704411": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "30% match - Entry-level AI Engineer role significantly undervalues seniority despite some alignment with MSc Informatics background"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Located in UAE - current country of residence"
+      },
+      "min_salary_aed": {
+        "value": 8000,
+        "reasoning": "Entry level position, minimum salary range 8-12K AED"
+      }
+    },
+    "4372695757": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 30 is below 50, indicating low alignment with my IT management and informatics background versus a pure AI research role"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai, UAE where I currently reside"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level role, setting salary expectation at 18K AED within the 15-22K mid-level range"
+      }
+    },
+    "4373121600": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 30 is below 50; CTO role at a startup may not align well with my government IT background despite executive-level experience"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai, UAE where I currently reside"
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level CTO role, setting salary expectation at 42K AED within the 35-50K executive range"
+      }
+    },
+    "4379650290": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 30 is below 50; role is in Cairo requiring relocation and focuses on deep tech program management rather than core IT"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Position is in Cairo, Egypt which would require relocation from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level manager role, setting salary expectation at 25K AED within the 22-30K senior range"
+      }
+    },
+    "4381288646": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 30 is below 50; alumni and innovation role in higher education diverges from my IT management expertise"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai, UAE where I currently reside"
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role, setting salary expectation at 25K AED within the 22-30K senior range"
+      }
+    },
+    "4363014017": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 28 is below 50; graduate employment specialist role does not align with my IT and informatics background"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Abu Dhabi, UAE which is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 24000,
+        "reasoning": "Senior-level specialist role, setting salary expectation at 24K AED within the 22-30K senior range"
+      }
+    },
+    "4382069501": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 28 is below 50; talent development role at RTA is HR-focused rather than IT-focused despite being a Dubai government entity"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai, UAE where I currently reside"
+      },
+      "min_salary_aed": {
+        "value": 26000,
+        "reasoning": "Senior-level chief specialist role at a major government entity, setting salary expectation at 26K AED within the 22-30K senior range"
+      }
+    },
+    "4306608864": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50; advancement officer role in a university is fundraising/development focused, far from IT management"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in UAE, likely commutable depending on exact location"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level role, setting salary expectation at 17K AED within the 15-22K mid-level range"
+      }
+    },
+    "4363062471": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50; industry liaison specialist role does not match my IT expertise and is located in Ras al-Khaimah"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Position is in Ras al-Khaimah, UAE which is a significant commute from Dubai at approximately 1.5 hours each way"
+      },
+      "min_salary_aed": {
+        "value": 17000,
+        "reasoning": "Mid-level specialist role, setting salary expectation at 17K AED within the 15-22K mid-level range"
+      }
+    },
+    "4368050238": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50; career and employer relations management is HR/student services focused rather than IT"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Position is in Dubai, UAE where I currently reside"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level manager role, setting salary expectation at 18K AED within the 15-22K mid-level range"
+      }
+    },
+    "4368199945": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50. University Development Specialist role does not align well with Mohamed's 16+ years of IT experience and informatics background."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE — within the UAE, commutable from Dubai."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level role; mid-range of 15-22K AED bracket."
+      }
+    },
+    "4373685396": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50. Research Commercialization Manager is not aligned with IT/informatics specialization."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Doha, Qatar — would require relocation, but relocation is acceptable for Qatar."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level role; mid-range of 15-22K AED bracket."
+      }
+    },
+    "4380492331": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 25 is below 50. Career Coaching role is unrelated to IT expertise and informatics background."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE — within the UAE, commutable from Dubai."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role; mid-range of 22-30K AED bracket."
+      }
+    },
+    "4361768533": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 22 is below 50. Innovation Lead at a capital firm in Riyadh does not closely match IT Officer/informatics profile."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Riyadh, Saudi Arabia — would require relocation, but relocation is acceptable for Saudi Arabia."
+      },
+      "min_salary_aed": {
+        "value": 32000,
+        "reasoning": "Lead-level role; mid-range of 28-38K AED bracket."
+      }
+    },
+    "4381650959": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 22 is below 50. Alumni & Career Services role is unrelated to IT and informatics background."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Ras Al Khaimah, UAE — within the UAE, commutable."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role; mid-range of 22-30K AED bracket."
+      }
+    },
+    "4378311557": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 22 is below 50. Head of XR & BCI Lab requires specialized XR/BCI expertise beyond general IT experience."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE — same city as current residence."
+      },
+      "min_salary_aed": {
+        "value": 32000,
+        "reasoning": "Lead-level role; mid-range of 28-38K AED bracket."
+      }
+    },
+    "4361345145": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 20 is below 50. Role is restricted to UAE Nationals only, and Community Officer is unrelated to IT."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE — within the UAE, commutable from Dubai."
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level role; mid-range of 8-12K AED bracket."
+      }
+    },
+    "4364768442": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 20 is below 50. Interdisciplinary Research Manager role does not align with IT operations and informatics specialization."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Doha, Qatar — would require relocation, but relocation is acceptable for Qatar."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role; mid-range of 22-30K AED bracket."
+      }
+    },
+    "4372318971": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Match score 20 is below 50. IT Teacher role is entry-level and a significant step down from 16+ years of IT experience and current IT Officer position."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Doha, Qatar — would require relocation, but relocation is acceptable for Qatar."
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level role; mid-range of 8-12K AED bracket."
+      }
+    },
+    "4372387712": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Head of Careers & Alumni at ADNOC Schools is education/career services focused, not IT. Match score 20 is well below 50, indicating poor alignment with 16+ years IT experience."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE falls within the acceptable commuting/work locations."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role at a major institution in Abu Dhabi. Senior range: 22-30K AED."
+      }
+    },
+    "4377121174": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Foresight Research role restricted to UAE Nationals. Mohamed is a Sudanese expat, making him ineligible. Match score 20 is below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is the current city of residence."
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level associate manager role in Dubai. Mid range: 15-22K AED."
+      }
+    },
+    "4381970989": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Product Growth role at Canva is marketing/growth focused, not core IT. Match score 20 is well below 50 despite being a tech company."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is the current city of residence."
+      },
+      "min_salary_aed": {
+        "value": 25000,
+        "reasoning": "Senior-level role at a major tech company in Dubai. Senior range: 22-30K AED."
+      }
+    },
+    "4354820362": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Leadership/Public Speaking Specialist & Alumni Coordinator is an education/soft-skills role, not IT. Match score 18 is well below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE falls within the acceptable commuting/work locations."
+      },
+      "min_salary_aed": {
+        "value": 24000,
+        "reasoning": "Senior-level role at NYU Abu Dhabi, a prestigious institution. Senior range: 22-30K AED."
+      }
+    },
+    "4383709933": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Entrepreneur in Residence is a business/startup leadership role, not aligned with IT technical expertise. Match score 18 is well below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is the current city of residence."
+      },
+      "min_salary_aed": {
+        "value": 40000,
+        "reasoning": "Executive-level role at noon, a major tech company. Executive range: 35-50K AED."
+      }
+    },
+    "4382830824": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Remote IT Technician is an entry-level IT support role, significantly below Mohamed's 16+ years of experience and current IT Officer position. Match score 18 is well below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, within acceptable locations."
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level remote IT technician role. Entry range: 8-12K AED."
+      }
+    },
+    "4326164864": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Community Lead is an entry-level community management role, not IT. Match score 15 is well below 50, and the role is far below Mohamed's seniority level."
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Riyadh, Saudi Arabia would require relocation from Dubai."
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level community role. Entry range: 8-12K AED."
+      }
+    },
+    "4365807926": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Faculty in Family Medicine is a medical/academic role with no relevance to IT. Match score 15 is well below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE falls within the acceptable commuting/work locations."
+      },
+      "min_salary_aed": {
+        "value": 28000,
+        "reasoning": "Senior-level faculty position at a major UAE university. Senior range: 22-30K AED."
+      }
+    },
+    "4367836503": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Computing DT Teacher is an entry-level teaching role. While computing-related, it is a K-12 teaching position far below Mohamed's IT experience level. Match score 15 is well below 50."
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is the current city of residence."
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level teaching role at GEMS Education. Entry range: 8-12K AED."
+      }
+    },
+    "4371736358": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Alumni Engagement Manager role is not aligned with 16+ years of IT experience and MSc Informatics background; match is well below 50"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Tiwi, Oman requires relocation from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level role, setting at midpoint of 15-22K range"
+      }
+    },
+    "4372389648": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Assistant Vice Principal for a school campus is an education administration role, not aligned with IT career path; match well below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE is within acceptable commuting/relocation area"
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level role in education administration, setting at midpoint of 35-50K range"
+      }
+    },
+    "4374070390": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Social Media & Content Lead is a marketing/content role, not aligned with IT infrastructure and informatics background; match below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "RAK, UAE is within acceptable area"
+      },
+      "min_salary_aed": {
+        "value": 33000,
+        "reasoning": "Lead-level role, setting at midpoint of 28-38K range"
+      }
+    },
+    "4375137933": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Director at AUS Enterprises is likely an academic/university enterprise role, not directly aligned with IT officer background; match below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Sharjah, UAE is within acceptable commuting area"
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level director role, setting at midpoint of 35-50K range"
+      }
+    },
+    "4383338519": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "UA (User Acquisition) Manager is a mobile marketing/growth role, not aligned with IT infrastructure and informatics expertise; match below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, within acceptable area"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level role, setting at midpoint of 15-22K range"
+      }
+    },
+    "4378843031": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "Arabic SEO Lead at Canva combines technical skills with Arabic language ability relevant to a Sudanese IT professional; tech company role with MENA focus leverages both IT and regional expertise; match around 55"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is current location"
+      },
+      "min_salary_aed": {
+        "value": 33000,
+        "reasoning": "Lead-level role at a major tech company, setting at midpoint of 28-38K range"
+      }
+    },
+    "4366021248": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "IBDP Coordinator is an education/curriculum coordination role at a school, not aligned with IT career path; match well below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE is within acceptable area"
+      },
+      "min_salary_aed": {
+        "value": 33000,
+        "reasoning": "Lead-level role in education sector, setting at midpoint of 28-38K range"
+      }
+    },
+    "4372794877": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "CEO of a blockchain/AI venture combines technology leadership with IT expertise; while CEO level is ambitious, the tech domain aligns with informatics background; match around 50-55"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, within acceptable area"
+      },
+      "min_salary_aed": {
+        "value": 45000,
+        "reasoning": "Executive CEO-level role in blockchain/AI tech, setting toward upper end of 35-50K range"
+      }
+    },
+    "4375919854": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "CEO at a tech disruption company in Dubai aligns with senior IT leadership trajectory and is in current city; tech-oriented executive role leverages 16+ years IT experience; match around 50-55"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai, UAE is current location"
+      },
+      "min_salary_aed": {
+        "value": 45000,
+        "reasoning": "Executive CEO-level role at a tech company, setting toward upper end of 35-50K range"
+      }
+    },
+    "4377134217": {
+      "top_choice": {
+        "value": true,
+        "reasoning": "AI Graduate Programme at e& UAE is a strong match for an IT professional with 16+ years experience and MSc Informatics, aligning with emerging tech focus"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, already residing in Dubai"
+      },
+      "min_salary_aed": {
+        "value": 10000,
+        "reasoning": "Entry-level programme, mid-range of 8-12K band"
+      }
+    },
+    "4379875654": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Qatarized role explicitly requires Qatari nationality; as a Sudanese expat this is not eligible"
+      },
+      "comfortable_commuting": {
+        "value": false,
+        "reasoning": "Doha, Qatar requires relocation from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level specialist role, mid-range of 15-22K band"
+      }
+    },
+    "4380442385": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Investment/VC professional role does not align with IT/informatics background; low skill match below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 18000,
+        "reasoning": "Mid-level investment role, mid-range of 15-22K band"
+      }
+    },
+    "4382690211": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Director of Investor Relations is a finance/communications executive role, not aligned with IT background; below 50 match"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai-based role, same city of residence"
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level director role, mid-range of 35-50K band"
+      }
+    },
+    "4309462841": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Professor in Entrepreneurship requires academic/entrepreneurship credentials, not IT operations background; below 50 match"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 26000,
+        "reasoning": "Senior academic role, mid-range of 22-30K band"
+      }
+    },
+    "4312712098": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Senior Robotics RL Engineer requires specialized robotics and reinforcement learning expertise beyond general IT background; below 50 match"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "UAE-based role, already residing in UAE"
+      },
+      "min_salary_aed": {
+        "value": 26000,
+        "reasoning": "Senior engineering role, mid-range of 22-30K band"
+      }
+    },
+    "4335066043": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "ML Faculty requires PhD-level machine learning research and teaching credentials; does not match IT officer profile; below 50 match"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Abu Dhabi, UAE is commutable from Dubai"
+      },
+      "min_salary_aed": {
+        "value": 26000,
+        "reasoning": "Senior academic faculty role, mid-range of 22-30K band"
+      }
+    },
+    "4381745188": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Seed Investor role requires venture capital and investment expertise, not IT background; below 50 match"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai-based role, same city of residence"
+      },
+      "min_salary_aed": {
+        "value": 42000,
+        "reasoning": "Executive-level investor role, mid-range of 35-50K band"
+      }
+    },
+    "4240421724": {
+      "top_choice": {
+        "value": false,
+        "reasoning": "Accelerated Command at Emirates is an aviation operations/management programme, not IT-related; match score 3 is well below 50"
+      },
+      "comfortable_commuting": {
+        "value": true,
+        "reasoning": "Dubai-based role, same city of residence"
+      },
+      "min_salary_aed": {
+        "value": 26000,
+        "reasoning": "Senior-level aviation role, mid-range of 22-30K band"
+      }
+    }
+  }
+}
