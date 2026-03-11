@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jobs Explorer</title>
+<link rel="stylesheet" href="css/cyber.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="app-header">
+  <div class="app-logo">JOBS EXPLORER</div>
+  <div class="app-stats" id="stats">Loading...</div>
+  <div class="header-actions">
+    <div style="position:relative">
+      <button class="header-btn" id="btn-export">Export</button>
+      <div class="export-dropdown hidden" id="export-dropdown">
+        <button class="export-option" id="export-csv">Download CSV</button>
+        <button class="export-option" id="export-clipboard">Copy to Clipboard</button>
+      </div>
+    </div>
+    <button class="header-btn" id="btn-settings">Settings</button>
+    <button class="header-btn" id="btn-help">? Keys</button>
+  </div>
+</div>
+
+<!-- TABS -->
+<div class="tab-bar">
+  <button class="tab-btn active" id="btn-dashboard"><span class="tab-num">1</span> Dashboard</button>
+  <button class="tab-btn" id="btn-jobs"><span class="tab-num">2</span> Jobs</button>
+  <button class="tab-btn" id="btn-compare"><span class="tab-num">3</span> Compare</button>
+  <button class="tab-btn" id="btn-board"><span class="tab-num">4</span> Board</button>
+  <button class="tab-btn" id="btn-map"><span class="tab-num">5</span> Map</button>
+</div>
+
+<!-- TAB PANES -->
+<div class="tab-content">
+  <div class="tab-pane active" id="pane-dashboard">
+    <tab-dashboard id="tab-dashboard"></tab-dashboard>
+  </div>
+  <div class="tab-pane" id="pane-jobs">
+    <tab-jobs id="tab-jobs"></tab-jobs>
+  </div>
+  <div class="tab-pane" id="pane-compare">
+    <tab-compare id="tab-compare"></tab-compare>
+  </div>
+  <div class="tab-pane" id="pane-board">
+    <tab-board id="tab-board"></tab-board>
+  </div>
+  <div class="tab-pane" id="pane-map">
+    <tab-map id="tab-map"></tab-map>
+  </div>
+</div>
+
+<!-- SETTINGS OVERLAY -->
+<div class="overlay hidden" id="settings-overlay">
+  <div class="overlay-panel">
+    <h2>Match Score Settings</h2>
+
+    <label>Preferred Locations (click to toggle)</label>
+    <div class="checkbox-group" id="pref-locations"></div>
+
+    <label>Work Mode Preference</label>
+    <select id="pref-mode" style="width:100%;background:var(--bg-deep);border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:var(--radius-sm);font-size:13px">
+      <option value="">No preference</option>
+      <option value="On-site">On-site</option>
+      <option value="Hybrid">Hybrid</option>
+      <option value="Remote">Remote</option>
+    </select>
+
+    <label>Max Competition (candidates) — <span id="pref-competition-val">5000</span></label>
+    <input type="range" id="pref-competition" min="100" max="10000" step="100" value="5000">
+
+    <label>Company Size Preference</label>
+    <select id="pref-size" style="width:100%;background:var(--bg-deep);border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:var(--radius-sm);font-size:13px">
+      <option value="">No preference</option>
+      <option value="small">Small (under 500)</option>
+      <option value="medium">Medium (500-5000)</option>
+      <option value="large">Large (5000+)</option>
+    </select>
+
+    <div class="btn-row">
+      <button class="btn-secondary" id="pref-cancel">Cancel</button>
+      <button class="btn-primary" id="pref-save">Save & Apply</button>
+    </div>
+  </div>
+</div>
+
+<!-- KEYBOARD HELP OVERLAY -->
+<div class="overlay hidden help-overlay" id="help-overlay">
+  <div class="overlay-panel">
+    <h2>Keyboard Shortcuts</h2>
+    <div class="shortcut-row"><span>Switch tabs</span><span class="shortcut-key">1</span> <span class="shortcut-key">2</span> <span class="shortcut-key">3</span> <span class="shortcut-key">4</span> <span class="shortcut-key">5</span></div>
+    <div class="shortcut-row"><span>Navigate jobs</span><span class="shortcut-key">&uarr;</span> <span class="shortcut-key">&darr;</span></div>
+    <div class="shortcut-row"><span>Toggle compare</span><span class="shortcut-key">c</span></div>
+    <div class="shortcut-row"><span>Export CSV</span><span class="shortcut-key">e</span></div>
+    <div class="shortcut-row"><span>This help</span><span class="shortcut-key">?</span></div>
+    <div class="shortcut-row"><span>Close overlay</span><span class="shortcut-key">Esc</span></div>
+    <div class="btn-row">
+      <button class="btn-primary" onclick="document.getElementById('help-overlay').classList.add('hidden')">Got it</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+# Raw LinkedIn HTML files (contain session tokens, CSRF data)
+linkedin-jobs/
+
+# Dev artifacts
+.claude/
+.superpowers/
