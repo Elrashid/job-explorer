@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-Driven Analysis of Job Market Demands in the MENA Region</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.6/purify.min.js"></script>
+<style>
+:root {
+  --bg-deep: #0a0e1a;
+  --bg-card: #111827;
+  --bg-surface: #1a1f35;
+  --border: rgba(139, 92, 246, 0.25);
+  --border-bright: rgba(139, 92, 246, 0.5);
+  --glow: rgba(139, 92, 246, 0.2);
+  --text: #e2e8f0;
+  --text-dim: #64748b;
+  --text-bright: #f8fafc;
+  --accent-blue: #0ea5e9;
+  --accent-purple: #8b5cf6;
+  --accent-pink: #ec4899;
+  --grad-2: linear-gradient(135deg, #8b5cf6, #ec4899);
+  --radius: 8px;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  background: var(--bg-deep);
+  color: var(--text);
+  line-height: 1.8;
+}
+
+/* Top bar */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 24px;
+  height: 48px;
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  font-family: 'Segoe UI', -apple-system, sans-serif;
+  font-size: 13px;
+}
+
+.topbar a {
+  color: var(--accent-purple);
+  text-decoration: none;
+  font-weight: 600;
+}
+.topbar a:hover { text-decoration: underline; }
+
+.topbar-right {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.topbar-right button {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  padding: 4px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-family: inherit;
+  transition: 0.2s;
+}
+.topbar-right button:hover {
+  border-color: var(--border-bright);
+  color: var(--text);
+}
+
+/* TOC sidebar */
+.layout {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.toc {
+  position: sticky;
+  top: 48px;
+  width: 240px;
+  min-width: 240px;
+  height: calc(100vh - 48px);
+  overflow-y: auto;
+  padding: 24px 16px;
+  border-right: 1px solid var(--border);
+  font-family: 'Segoe UI', -apple-system, sans-serif;
+  font-size: 13px;
+}
+
+.toc-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-dim);
+  margin-bottom: 12px;
+  font-weight: 700;
+}
+
+.toc a {
+  display: block;
+  color: var(--text-dim);
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  transition: 0.15s;
+  line-height: 1.4;
+}
+.toc a:hover { color: var(--text); background: var(--bg-surface); }
+.toc a.active { color: var(--accent-purple); background: rgba(139, 92, 246, 0.1); }
+.toc a.depth-2 { padding-left: 20px; font-size: 12px; }
+.toc a.depth-3 { padding-left: 32px; font-size: 11px; }
+
+/* Article body */
+.article-wrap {
+  flex: 1;
+  min-width: 0;
+  padding: 40px 48px 80px;
+  max-width: 800px;
+}
+
+/* Markdown rendered styles */
+.article h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  background: var(--grad-2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1.3;
+  margin-bottom: 8px;
+}
+
+.article h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--text-bright);
+  margin-top: 48px;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border);
+}
+
+.article h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent-blue);
+  margin-top: 32px;
+  margin-bottom: 12px;
+}
+
+.article h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent-purple);
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+.article p {
+  margin-bottom: 16px;
+  text-align: justify;
+  hyphens: auto;
+}
+
+.article strong { color: var(--text-bright); }
+
+.article em { color: var(--accent-blue); font-style: italic; }
+
+.article a {
+  color: var(--accent-purple);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+.article a:hover { border-bottom-color: var(--accent-purple); }
+
+.article hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 32px 0;
+}
+
+.article ul, .article ol {
+  margin-bottom: 16px;
+  padding-left: 24px;
+}
+
+.article li {
+  margin-bottom: 6px;
+}
+
+.article blockquote {
+  border-left: 3px solid var(--accent-purple);
+  padding: 12px 16px;
+  margin: 16px 0;
+  background: var(--bg-surface);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  color: var(--text-dim);
+  font-style: italic;
+}
+
+.article code {
+  font-family: 'Cascadia Code', 'Fira Code', monospace;
+  background: var(--bg-surface);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.85em;
+  color: var(--accent-pink);
+}
+
+.article pre {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  overflow-x: auto;
+  margin-bottom: 16px;
+}
+
+.article pre code {
+  background: none;
+  padding: 0;
+  color: var(--text);
+}
+
+/* Tables */
+.article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0 24px;
+  font-size: 0.9rem;
+  font-family: 'Segoe UI', -apple-system, sans-serif;
+}
+
+.article thead th {
+  background: var(--bg-surface);
+  color: var(--text-bright);
+  font-weight: 700;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 2px solid var(--accent-purple);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.article tbody td {
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.article tbody tr:hover {
+  background: rgba(139, 92, 246, 0.05);
+}
+
+/* Print / PDF mode */
+@media print {
+  .topbar, .toc { display: none; }
+  .article-wrap { padding: 0; max-width: 100%; }
+  body { background: #fff; color: #111; }
+  .article h1 { background: none; -webkit-text-fill-color: #111; color: #111; }
+  .article h2 { color: #111; border-bottom-color: #ccc; }
+  .article h3 { color: #333; }
+  .article table { font-size: 0.8rem; }
+  .article thead th { background: #f0f0f0; color: #111; border-bottom-color: #333; }
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  .toc { display: none; }
+  .article-wrap { padding: 24px 20px 60px; }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-deep); }
+::-webkit-scrollbar-thumb { background: var(--border-bright); border-radius: 3px; }
+
+/* Progress bar */
+.progress-bar {
+  position: fixed;
+  top: 48px;
+  left: 0;
+  height: 2px;
+  background: var(--grad-2);
+  z-index: 101;
+  transition: width 0.1s;
+}
+</style>
+</head>
+<body>
+
+<div class="progress-bar" id="progress" style="width:0%"></div>
+
+<nav class="topbar">
+  <a href="../">Home</a>
+  <div class="topbar-right">
+    <span id="reading-time" style="color:var(--text-dim)"></span>
+    <button id="btn-print" title="Print / Save as PDF">Print</button>
+    <button id="btn-raw" title="View raw markdown">Raw .md</button>
+  </div>
+</nav>
+
+<div class="layout">
+  <aside class="toc" id="toc">
+    <div class="toc-title">Contents</div>
+  </aside>
+  <div class="article-wrap">
+    <article class="article" id="article">
+      <p style="color:var(--text-dim)">Loading paper...</p>
+    </article>
+  </div>
+</div>
+
+<script>
+// Minimal markdown-to-HTML renderer (no dependencies beyond DOMPurify)
+function md2html(md) {
+  let html = md;
+
+  // Normalize line endings
+  html = html.replace(/\r\n/g, '\n');
+
+  // Code blocks
+  html = html.replace(/```(\w*)\n([\s\S]*?)```/g, function(_, lang, code) {
+    var escaped = code.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    return '<pre><code class="lang-' + lang + '">' + escaped + '</code></pre>';
+  });
+
+  // Inline code
+  html = html.replace(/`([^`\n]+)`/g, '<code>$1</code>');
+
+  // Tables
+  html = html.replace(/^(\|.+\|)\n(\|[\s:|-]+\|)\n((?:\|.+\|\n?)+)/gm, function(_, header, sep, body) {
+    var thCells = header.split('|').filter(function(c) { return c.trim(); }).map(function(c) { return '<th>' + c.trim() + '</th>'; }).join('');
+    var rows = body.trim().split('\n').map(function(row) {
+      var cells = row.split('|').filter(function(c) { return c.trim(); }).map(function(c) { return '<td>' + c.trim() + '</td>'; }).join('');
+      return '<tr>' + cells + '</tr>';
+    }).join('\n');
+    return '<table><thead><tr>' + thCells + '</tr></thead><tbody>' + rows + '</tbody></table>';
+  });
+
+  // Headers
+  html = html.replace(/^#### (.+)$/gm, '<h4>$1</h4>');
+  html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+  html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+  html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+
+  // Horizontal rules
+  html = html.replace(/^---$/gm, '<hr>');
+
+  // Bold + italic
+  html = html.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>');
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  html = html.replace(/(?<!\*)\*([^*\n]+)\*(?!\*)/g, '<em>$1</em>');
+
+  // Links
+  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+
+  // Unordered lists
+  html = html.replace(/(?:^|\n)((?:- .+\n?)+)/g, function(_, block) {
+    var items = block.trim().split('\n').map(function(l) { return '<li>' + l.replace(/^- /, '') + '</li>'; }).join('\n');
+    return '\n<ul>' + items + '</ul>\n';
+  });
+
+  // Paragraphs
+  html = html.replace(/^(?!<[a-z/])((?:.(?!<[a-z/]))+.*)$/gm, function(line) {
+    var trimmed = line.trim();
+    if (!trimmed) return '';
+    return '<p>' + trimmed + '</p>';
+  });
+
+  // Clean up empty paragraphs
+  html = html.replace(/<p>\s*<\/p>/g, '');
+
+  return html;
+}
+
+function slugify(text) {
+  return text.toLowerCase()
+    .replace(/[^a-z0-9\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
+function assignIds(container) {
+  var headings = container.querySelectorAll('h1, h2, h3, h4');
+  headings.forEach(function(h) {
+    if (!h.id || h.id === '') {
+      h.id = slugify(h.textContent);
+    }
+  });
+}
+
+function buildTOC(container) {
+  var toc = document.getElementById('toc');
+  var headings = container.querySelectorAll('h2, h3');
+  headings.forEach(function(h) {
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent;
+    var depth = parseInt(h.tagName[1]);
+    a.className = 'depth-' + depth;
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      h.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    toc.appendChild(a);
+  });
+}
+
+function highlightTOC() {
+  var headings = document.querySelectorAll('.article h2, .article h3');
+  var links = document.querySelectorAll('.toc a');
+  var current = '';
+
+  headings.forEach(function(h) {
+    if (h.getBoundingClientRect().top < 120) {
+      current = h.id;
+    }
+  });
+
+  links.forEach(function(a) {
+    if (a.getAttribute('href') === '#' + current) {
+      a.classList.add('active');
+    } else {
+      a.classList.remove('active');
+    }
+  });
+}
+
+function updateProgress() {
+  var scrollTop = window.scrollY;
+  var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+  var pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+  document.getElementById('progress').style.width = pct + '%';
+}
+
+function estimateReadingTime(text) {
+  var words = text.trim().split(/\s+/).length;
+  var minutes = Math.ceil(words / 220);
+  return words.toLocaleString() + ' words / ~' + minutes + ' min read';
+}
+
+async function init() {
+  var article = document.getElementById('article');
+
+  try {
+    var resp = await fetch('./paper.md');
+    if (!resp.ok) throw new Error('Failed to load paper.md');
+    var md = await resp.text();
+
+    // Reading time
+    document.getElementById('reading-time').textContent = estimateReadingTime(md);
+
+    // Render markdown and sanitize with DOMPurify
+    var rawHtml = md2html(md);
+    var cleanHtml = DOMPurify.sanitize(rawHtml, {
+      ADD_TAGS: ['table', 'thead', 'tbody', 'tr', 'th', 'td'],
+      ADD_ATTR: ['target', 'rel']
+    });
+
+    // Use safe DOM insertion via DOMPurify-sanitized content
+    var template = document.createElement('template');
+    template.innerHTML = cleanHtml;
+    article.replaceChildren(template.content);
+
+    assignIds(article);
+    buildTOC(article);
+
+    // Scroll listeners
+    window.addEventListener('scroll', function() {
+      highlightTOC();
+      updateProgress();
+    }, { passive: true });
+
+    highlightTOC();
+    updateProgress();
+
+    // Handle hash on load
+    if (location.hash) {
+      var target = document.querySelector(location.hash);
+      if (target) setTimeout(function() { target.scrollIntoView({ block: 'start' }); }, 100);
+    }
+
+  } catch (err) {
+    var errorP = document.createElement('p');
+    errorP.style.color = 'var(--accent-pink)';
+    errorP.textContent = 'Error loading paper: ' + err.message;
+    article.replaceChildren(errorP);
+  }
+}
+
+// Buttons
+document.getElementById('btn-print').addEventListener('click', function() { window.print(); });
+document.getElementById('btn-raw').addEventListener('click', function() { window.open('./paper.md', '_blank'); });
+
+document.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>
