@@ -264,6 +264,36 @@ export class TabJobs extends HTMLElement {
     addBadge('Score: ' + score, 'var(--grad-1)', 'white');
     d.appendChild(badges);
 
+    // Action buttons row
+    const actions = document.createElement('div');
+    actions.style.cssText = 'display:flex;gap:10px;margin-bottom:16px;flex-wrap:wrap';
+
+    const applyLink = document.createElement('a');
+    applyLink.href = j.url;
+    applyLink.target = '_blank';
+    applyLink.rel = 'noopener noreferrer';
+    applyLink.textContent = 'Open on LinkedIn';
+    applyLink.style.cssText = 'display:inline-block;padding:8px 16px;background:var(--grad-1);color:white;text-decoration:none;border-radius:var(--radius);font-size:13px;font-weight:600';
+    applyLink.addEventListener('click', () => {
+      try {
+        const board = JSON.parse(localStorage.getItem('job-explorer-board') || '{}');
+        board[j.job_id] = 'Applied';
+        localStorage.setItem('job-explorer-board', JSON.stringify(board));
+        this._showToast('Moved to Applied');
+        this.dispatchEvent(new CustomEvent('board-updated', { bubbles: true }));
+      } catch (_) {}
+    });
+
+    const cvLink = document.createElement('a');
+    cvLink.href = '../cv/#' + j.job_id;
+    cvLink.target = '_blank';
+    cvLink.rel = 'noopener noreferrer';
+    cvLink.textContent = 'View Tailored CV';
+    cvLink.style.cssText = 'display:inline-block;padding:8px 16px;background:linear-gradient(135deg,#22c55e,#16a34a);color:white;text-decoration:none;border-radius:var(--radius);font-size:13px;font-weight:600';
+
+    actions.append(applyLink, cvLink);
+    d.appendChild(actions);
+
     // Info grid
     const grid = document.createElement('div');
     grid.style.cssText = 'display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:20px';
@@ -348,14 +378,21 @@ export class TabJobs extends HTMLElement {
       d.appendChild(sec);
     }
 
-    // Link
-    const link = document.createElement('a');
-    link.href = j.url;
-    link.target = '_blank';
-    link.rel = 'noopener noreferrer';
-    link.textContent = 'Open on LinkedIn';
-    link.style.cssText = 'display:inline-block;padding:8px 16px;background:var(--grad-1);color:white;text-decoration:none;border-radius:var(--radius);font-size:13px;font-weight:600';
-    d.appendChild(link);
+  }
+
+  _showToast(message) {
+    const existing = document.querySelector('.explorer-toast');
+    if (existing) existing.remove();
+    const toast = document.createElement('div');
+    toast.className = 'explorer-toast';
+    toast.textContent = message;
+    toast.style.cssText = 'position:fixed;bottom:24px;left:50%;transform:translateX(-50%);background:#22c55e;color:#fff;padding:10px 24px;border-radius:8px;font-size:13px;font-weight:600;z-index:9999;opacity:0;transition:opacity 0.3s ease';
+    document.body.appendChild(toast);
+    requestAnimationFrame(() => { toast.style.opacity = '1'; });
+    setTimeout(() => {
+      toast.style.opacity = '0';
+      setTimeout(() => toast.remove(), 300);
+    }, 2000);
   }
 
   _makeSection(title, entries, colorMap) {
