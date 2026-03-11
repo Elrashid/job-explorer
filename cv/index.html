@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV Generator — Job Market Intelligence</title>
+  <link rel="stylesheet" href="./css/cv.css">
+</head>
+<body>
+  <header class="app-header">
+    <a class="home-link" href="../" title="Back to platform">&larr;</a>
+    <span class="app-logo">CV Generator</span>
+    <span class="app-subtitle" id="load-status">Loading...</span>
+  </header>
+
+  <nav class="tab-bar">
+    <button class="tab-btn active" data-tab="browse">
+      Browse <span class="tab-num">1</span>
+    </button>
+    <button class="tab-btn" data-tab="preview">
+      CV Preview <span class="tab-num">2</span>
+    </button>
+    <button class="tab-btn" data-tab="export">
+      Export <span class="tab-num">3</span>
+    </button>
+    <button class="tab-btn" data-tab="linkedin">
+      LinkedIn <span class="tab-num">4</span>
+    </button>
+    <button class="tab-btn" data-tab="llm">
+      LLM-Ready <span class="tab-num">5</span>
+    </button>
+  </nav>
+
+  <main class="tab-content">
+    <section class="tab-pane active" id="pane-browse">
+      <tab-browse></tab-browse>
+    </section>
+    <section class="tab-pane" id="pane-preview">
+      <tab-preview></tab-preview>
+    </section>
+    <section class="tab-pane" id="pane-export">
+      <tab-export></tab-export>
+    </section>
+    <section class="tab-pane" id="pane-linkedin">
+      <tab-linkedin></tab-linkedin>
+    </section>
+    <section class="tab-pane" id="pane-llm">
+      <tab-llm></tab-llm>
+    </section>
+  </main>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

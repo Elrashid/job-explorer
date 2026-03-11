@@ -1,0 +1,214 @@
+{
+  "name": "Mohamed Elrashid",
+  "full_name": "Mohamed Osman Ali Ahmed El-Rashid",
+  "title": "Information Technology Officer",
+  "headline": "IT Officer @ Imam Malik College | AI & GPT Architecture Researcher | UAE Coding Ambassador | Microsoft Certified Trainer | Educator",
+  "contact": {
+    "phone": "+971 50 325 1920",
+    "email": "Osman.Elrashid@outlook.com",
+    "work_email": "m.othman@imc.gov.ae",
+    "linkedin": "linkedin.com/in/elrashidco",
+    "github": "github.com/Elrashid",
+    "blog": "blog.elrashid.co",
+    "website": "elrashid.co",
+    "stackoverflow": "stackoverflow.com/users/4879683",
+    "twitter": "@ElrashidCo"
+  },
+  "location": "Dubai, United Arab Emirates",
+  "nationality": "Sudanese",
+  "languages": [
+    {"language": "Arabic", "proficiency": "Native or Bilingual"},
+    {"language": "English", "proficiency": "Full Professional"}
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Information Systems",
+    "grade": "V.Good with Honours",
+    "university": "Omdurman Islamic University",
+    "faculty": "Science & Technology",
+    "years": "2006 - 2010",
+    "graduation": "August 30, 2010"
+  },
+  "experience": [
+    {
+      "title": "Information Technology Officer",
+      "company": "Imam Malik College",
+      "sector": "Government of Dubai",
+      "location": "Dubai",
+      "dates": "December 2020 - Present",
+      "years": "5+",
+      "bullets": [
+        "Leading training and workshops for staff tech skills development using Microsoft Office 365",
+        "Implementing solutions using Microsoft .NET Core and Azure",
+        "Working with academic staff virtually and in-person, providing technical training",
+        "Forward-thinking and shaping the business future by analyzing current and predicted business trends",
+        "Engaging customers virtually and in-person, providing technical support"
+      ]
+    },
+    {
+      "title": "Information Technology Trainer",
+      "company": "Imam Malik College",
+      "sector": "Government of Dubai",
+      "location": "Dubai",
+      "dates": "2015 - 2020",
+      "years": "5",
+      "bullets": [
+        "Teaching students concepts and terminology of information technology",
+        "Teaching students to create intelligent, no-code solutions using Microsoft PowerApps, Microsoft Flow, Microsoft Forms, Microsoft chatbots, and Microsoft AI Builder",
+        "Delivering classroom sessions virtually and in-person",
+        "Courses planning, delivery, and evaluation"
+      ]
+    },
+    {
+      "title": "Founder",
+      "company": "KONSTARTUP",
+      "location": "Dubai",
+      "dates": "2016 - 2019",
+      "years": "3",
+      "bullets": [
+        "Mission: Connect startup/tech communities in UAE to share ideas",
+        "Enabling startup/tech enthusiasts and professionals to stay updated on local startups, tech events, hackathons",
+        "Connect with like-minded peers, or start their own startup"
+      ]
+    },
+    {
+      "title": "Founder",
+      "company": "MOECS",
+      "location": "Dubai",
+      "dates": "2015 - 2019",
+      "years": "4",
+      "bullets": [
+        "Delivering workshops on Office 365 for SMBs",
+        "Helping businesses succeed online as freelance web-developer and consultant (Azure-focused)",
+        "Launched LAW OFFICE Management Software on Azure using Azure technology",
+        "Custom C# applications (migrated from PHP and WordPress)",
+        "Expanded and gained technical knowledge in programming languages, front-end development, and system management"
+      ]
+    },
+    {
+      "title": "Information Technology Trainer",
+      "company": "Al Gharib Associates",
+      "location": "Dubai",
+      "dates": "2014 - 2015",
+      "years": "1",
+      "bullets": [
+        "Leading continuous learning program for company staff (ICDL Courses)"
+      ]
+    },
+    {
+      "title": "Information Technology Officer",
+      "company": "Al Gharib Associates Advocates & Legal Consultants",
+      "location": "Dubai",
+      "dates": "2012 - 2015",
+      "years": "3",
+      "bullets": [
+        "Installing and maintaining internal network, creating company website",
+        "Internal ERP Development",
+        "E-services integration with office applications",
+        "Designed and Implemented IT Infrastructure (voice-data-Access control-biometric)",
+        "ICDL Course Training In-House"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Oasis Computer Systems Co. Ltd.",
+      "location": "Khartoum, Sudan",
+      "dates": "2010 - 2012",
+      "years": "1.5",
+      "bullets": [
+        "Promoted from Junior to Senior Programmer based on dedication and expertise",
+        "Prototyping and researching new Microsoft technologies",
+        "Delivering internal workshops about new Microsoft technologies",
+        "Responsible for development process and architecture for 5+ clients as part of DevOps Team",
+        "Translating business requirements into software solutions",
+        "Investigated and resolved issues relating to application functionality",
+        "Developing internal platforms for large hospitals",
+        "Maintained SQL databases and servers",
+        "Worked with Team Leader to design, develop and maintain core system modules"
+      ],
+      "recommendation": "His talents in the software development area are sterling. Mohamed worked well with our staff and got along well with everyone. He was first appointed as junior programmer, but considering his dedication and expertise at work, he was promoted to the post of senior programmer. He has thorough knowledge about advanced .NET and experience in enterprise application development. He is an excellent team member and works in coordination with rest of the team. He encourages other team members to achieve their targets. Mohamed has excellent communication skills and has the expertise to manage client calls. — Mohammed A. Elhussein, CEO (MSc Software Eng, UK)"
+    },
+    {
+      "title": "Information Technology",
+      "company": "Omdurman University",
+      "location": "Sudan",
+      "dates": "2005 - 2010",
+      "years": "5",
+      "bullets": [
+        "Teaching students application development using Windows Forms and VB.NET",
+        "Developed Orphans and Poor Families Information Management System (Omdurman municipality) using VB.NET",
+        "Rehabilitating the computer lab of Ammar Secondary School for Girls in the village of Musho",
+        "Leading information technology student's media group newspaper"
+      ]
+    }
+  ],
+  "certifications": [
+    {"name": "Security Onion", "issuer": "LinkedIn Learning", "year": 2025, "category": "cybersecurity"},
+    {"name": "Generative AI for Business Leaders", "issuer": "LinkedIn Learning", "year": 2025, "category": "ai"},
+    {"name": "IT Service Management: ISO20000", "issuer": "LinkedIn Learning", "year": 2024, "category": "itsm"},
+    {"name": "Microsoft Certified Trainer (MCT)", "issuer": "Microsoft", "year": "2021-2027", "credential_id": "E5O8CD-751D0E", "category": "training"},
+    {"name": "Azure AI Fundamentals", "issuer": "Microsoft", "year": 2023, "category": "ai"},
+    {"name": "Xamarin Certified Mobile Developer", "issuer": "Xamarin", "year": 2017, "category": "mobile"},
+    {"name": "MS Specialist: Developing Azure Solutions", "issuer": "Microsoft", "year": 2014, "credential_id": "F140-3948", "category": "cloud"},
+    {"name": "MS Specialist: Implementing Azure Infrastructure", "issuer": "Microsoft", "year": 2014, "credential_id": "F131-9405", "category": "cloud"},
+    {"name": "MCSA: Office 365", "issuer": "Microsoft", "year": 2014, "credential_id": "F118-8170", "category": "productivity"},
+    {"name": "MCPS: Microsoft Certified Professional", "issuer": "Microsoft", "year": 2013, "credential_id": "E313-9965", "category": "general"}
+  ],
+  "training": [
+    {"name": "Deep Learning", "year": 2019},
+    {"name": "Intro to Machine Learning", "year": 2018},
+    {"name": "Intro to Data Science", "year": 2018},
+    {"name": "Introduction to ASP.NET Core", "year": 2016},
+    {"name": "Hacking Countermeasures — Charles Sturt University", "year": 2014}
+  ],
+  "skills": {
+    "programming": ["C#", "VB.NET", "Python", "JavaScript", "Dart", "HTML", "CSS", "SQL"],
+    "frameworks": ["ASP.NET MVC", "ASP.NET Core", "Flutter/Dart", "Xamarin", "jQuery", "Kendo UI", "LINQ"],
+    "cloud": ["Microsoft Azure", "Azure AI Services", "Office 365 Administration", "Docker"],
+    "data": ["SQL Server 2008/2012", "Oracle", "TensorFlow"],
+    "ai_ml": ["Machine Learning", "Deep Learning", "Data Science", "Generative AI", "Azure AI"],
+    "no_code": ["Microsoft PowerApps", "Microsoft Power Automate", "Microsoft Forms", "Microsoft AI Builder", "Microsoft Chatbots"],
+    "infrastructure": ["Networking", "Biometrics", "Access Control", "PABX Telephony", "Windows Server 2012"],
+    "devops": ["Git/GitHub", "CI/CD", "IdentityServer4", "OAuth2"],
+    "other": ["Website Development", "CMS", "Linux", "Cybersecurity", "ITSM/ISO20000"],
+    "soft": ["Leadership", "Training & Education Delivery", "Communication", "Client Relationship Management", "Project Planning", "Mentoring", "Community Building", "Public Speaking"]
+  },
+  "github": {
+    "username": "Elrashid",
+    "public_repos": 61,
+    "org_name": "elrashid-flutter-examples",
+    "org_repos": 49,
+    "total_repos": 110,
+    "achievements": ["Arctic Code Vault Contributor", "Pull Shark (x2)", "Quickdraw"],
+    "stackoverflow_rep": "6.3k",
+    "key_projects": [
+      {"name": "Xamarin.Tensorflow.Inception.Android", "lang": "C#", "stars": 2, "desc": "TensorFlow on Xamarin Android"},
+      {"name": "identityserver4-Sample-One-App-For-API-And-Web", "lang": "C#", "stars": 2, "desc": "IdentityServer4 sample"},
+      {"name": "e003-flutter-listview-crud-app-using-oauth2", "lang": "Dart", "stars": 3, "desc": "Flutter CRUD + OAuth2"},
+      {"name": "nativescript-client-and-identity-server-sample", "lang": "C#", "stars": 1, "desc": "NativeScript + IdentityServer"}
+    ],
+    "org_topics": ["CRUD apps", "Animations", "State management", "PayPal integration", "OAuth2 secure APIs", "Sliver widgets", "Reorderable lists", "Dart collections"]
+  },
+  "startups": [
+    {"name": "KONSTARTUP", "years": "2016-2019", "desc": "Connect startup/tech communities in UAE to share ideas"},
+    {"name": "MOECS", "years": "2015-2019", "desc": "Azure consulting, law office SaaS, freelance web development"}
+  ],
+  "volunteer": {
+    "description": "Supporting UAE local tech/startup events (digital media)",
+    "events_count": "40+",
+    "period": "2015-2020"
+  },
+  "key_differentiators": [
+    "16+ years continuous IT experience (no gaps)",
+    "UAE-based since secondary school — deep local market knowledge",
+    "Government sector experience (Imam Malik College — Government of Dubai)",
+    "Education + Technology dual track — can train AND build",
+    "2 startups founded — entrepreneurial mindset",
+    "110+ GitHub repos — proven hands-on coder",
+    "Arctic Code Vault Contributor — open source commitment",
+    "Bilingual Arabic/English — essential for MENA roles",
+    "Azure certified stack — cloud-ready",
+    "AI/ML progression from training (2018) to Azure AI (2023) to GenAI (2025) to GPT Architecture Research (2026)",
+    "Microsoft Certified Trainer — can formally train others on Microsoft tech",
+    "Community builder — 40+ events, 2 startup communities"
+  ]
+}
