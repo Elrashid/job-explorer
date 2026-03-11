@@ -69,7 +69,7 @@ export class TabExport extends HTMLElement {
     const formats = [
       { icon: '\uD83C\uDF10', label: 'HTML', desc: 'Styled, print-ready web page', fn: () => this.exportHTML() },
       { icon: '\uD83D\uDCDD', label: 'Markdown', desc: 'Standard .md format', fn: () => this.exportMarkdown() },
-      { icon: '\uD83D\uDCC4', label: 'PDF', desc: 'Print dialog (Ctrl+P)', fn: () => this.exportPDF() },
+      { icon: '\uD83D\uDCC4', label: 'PDF', desc: 'Download as PDF document', fn: () => this.exportPDF() },
       { icon: '\uD83D\uDCCB', label: 'Word (.docx)', desc: 'Microsoft Word document', fn: () => this.exportDocx() },
       { icon: '\uD83D\uDCCA', label: 'PowerPoint', desc: '5-slide pitch deck', fn: () => this.exportPptx() },
       { icon: '\uD83D\uDCC2', label: 'Plain Text', desc: 'ATS-safe + LLM-ready', fn: () => this.exportText() }
@@ -242,8 +242,170 @@ ${certs.map(c => `<div class="cert">${this.escapeHtml(c)}</div>`).join('')}
     download(this.getFilename('md'), this.buildMarkdownContent(), 'text/markdown');
   }
 
-  exportPDF() {
-    window.print();
+  async exportPDF() {
+    try {
+      if (!window.jspdf) {
+        const script = document.createElement('script');
+        script.src = 'https://cdn.jsdelivr.net/npm/jspdf@2.5.2/dist/jspdf.umd.min.js';
+        document.head.appendChild(script);
+        await new Promise((resolve, reject) => {
+          script.onload = resolve;
+          script.onerror = reject;
+        });
+      }
+      const { jsPDF } = window.jspdf;
+      const doc = new jsPDF({ unit: 'mm', format: 'a4' });
+      const p = this.profile;
+      const cv = this.cv;
+      const pw = 170; // printable width
+      let y = 18;
+
+      const addPage = () => { doc.addPage(); y = 18; };
+      const checkPage = (need) => { if (y + need > 275) addPage(); };
+
+      // Name
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(18);
+      doc.setTextColor(30, 30, 30);
+      doc.text(p.name, 20, y);
+      y += 7;
+
+      // Headline
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(9);
+      doc.setTextColor(100, 100, 100);
+      const headline = cv.tailored_summary ? cv.tailored_summary.slice(0, 120) + '...' : p.headline;
+      doc.text(headline, 20, y, { maxWidth: pw });
+      y += 6;
+
+      // Contact line
+      doc.setFontSize(8);
+      doc.setTextColor(80, 80, 80);
+      const contact = [p.contact.email, p.contact.phone, p.contact.linkedin, p.contact.github].filter(Boolean).join('  |  ');
+      doc.text(contact, 20, y, { maxWidth: pw });
+      y += 8;
+
+      // Divider
+      doc.setDrawColor(140, 140, 140);
+      doc.line(20, y, 190, y);
+      y += 6;
+
+      // Summary
+      if (cv.tailored_summary) {
+        doc.setFont('helvetica', 'bold');
+        doc.setFontSize(11);
+        doc.setTextColor(30, 30, 30);
+        doc.text('PROFESSIONAL SUMMARY', 20, y);
+        y += 6;
+        doc.setFont('helvetica', 'normal');
+        doc.setFontSize(9);
+        doc.setTextColor(50, 50, 50);
+        const sumLines = doc.splitTextToSize(cv.tailored_summary, pw);
+        doc.text(sumLines, 20, y);
+        y += sumLines.length * 4.2 + 5;
+      }
+
+      // Experience
+      const expList = cv.tailored_experience || p.experience;
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(11);
+      doc.setTextColor(30, 30, 30);
+      checkPage(10);
+      doc.text('EXPERIENCE', 20, y);
+      y += 6;
+
+      for (const exp of expList) {
+        checkPage(20);
+        doc.setFont('helvetica', 'bold');
+        doc.setFontSize(9.5);
+        doc.setTextColor(30, 30, 30);
+        doc.text(exp.title, 20, y);
+        doc.setFont('helvetica', 'normal');
+        doc.setFontSize(8);
+        doc.setTextColor(100, 100, 100);
+        doc.text(exp.dates || '', 190, y, { align: 'right' });
+        y += 4.5;
+        doc.setFontSize(8.5);
+        doc.setTextColor(70, 70, 70);
+        const companyText = exp.company + (exp.sector ? ` (${exp.sector})` : '') + (exp.location ? ` — ${exp.location}` : '');
+        doc.text(companyText, 20, y);
+        y += 4.5;
+
+        if (exp.bullets) {
+          doc.setFont('helvetica', 'normal');
+          doc.setFontSize(8.5);
+          doc.setTextColor(50, 50, 50);
+          for (const b of exp.bullets) {
+            checkPage(8);
+            const bLines = doc.splitTextToSize(b, pw - 6);
+            doc.text('\u2022', 22, y);
+            doc.text(bLines, 26, y);
+            y += bLines.length * 3.8 + 1.5;
+          }
+        }
+        y += 3;
+      }
+
+      // Skills
+      checkPage(15);
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(11);
+      doc.setTextColor(30, 30, 30);
+      doc.text('TECHNICAL SKILLS', 20, y);
+      y += 6;
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(8.5);
+      doc.setTextColor(50, 50, 50);
+      const skills = cv.skills_order || Object.values(p.skills).flat().filter(s => typeof s === 'string');
+      const skillText = doc.splitTextToSize(skills.join(', '), pw);
+      doc.text(skillText, 20, y);
+      y += skillText.length * 3.8 + 5;
+
+      // Certifications
+      checkPage(15);
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(11);
+      doc.setTextColor(30, 30, 30);
+      doc.text('CERTIFICATIONS', 20, y);
+      y += 6;
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(8.5);
+      doc.setTextColor(50, 50, 50);
+      const certs = cv.certs_order || p.certifications.map(c => c.name);
+      for (const cert of certs) {
+        checkPage(6);
+        doc.text('\u2022  ' + cert, 22, y);
+        y += 4;
+      }
+      y += 4;
+
+      // Education
+      checkPage(15);
+      doc.setFont('helvetica', 'bold');
+      doc.setFontSize(11);
+      doc.setTextColor(30, 30, 30);
+      doc.text('EDUCATION', 20, y);
+      y += 6;
+      doc.setFont('helvetica', 'normal');
+      doc.setFontSize(8.5);
+      doc.setTextColor(50, 50, 50);
+      const edu = Array.isArray(p.education) ? p.education : [p.education];
+      for (const e of edu) {
+        checkPage(8);
+        doc.setFont('helvetica', 'bold');
+        doc.setFontSize(8.5);
+        doc.text(e.degree, 20, y);
+        y += 4;
+        doc.setFont('helvetica', 'normal');
+        doc.text(`${e.university}${e.grade ? ' — ' + e.grade : ''} (${e.years})`, 20, y);
+        y += 5;
+      }
+
+      doc.save(this.getFilename('pdf'));
+    } catch (err) {
+      console.error('PDF export error:', err);
+      alert('PDF export failed. Try another format.');
+    }
   }
 
   exportText() {
