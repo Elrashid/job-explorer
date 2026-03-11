@@ -1,8 +1,8 @@
 {
   "name": "Mohamed Elrashid",
   "full_name": "Mohamed Osman Ali Ahmed El-Rashid",
-  "title": "Information Technology Officer",
-  "headline": "IT Officer @ Imam Malik College | AI & GPT Architecture Researcher | UAE Coding Ambassador | Microsoft Certified Trainer | Educator",
+  "title": "Information Technology Officer | AI & GPT Architecture Researcher",
+  "headline": "IT Officer @ Imam Malik College | AI & GPT Architecture Researcher | UAE Coding Ambassador | UAE AI Office Ambassador | Microsoft Certified Trainer | Educator",
   "contact": {
     "phone": "+971 50 325 1920",
     "email": "Osman.Elrashid@outlook.com",
@@ -16,18 +16,141 @@
   },
   "location": "Dubai, United Arab Emirates",
   "nationality": "Sudanese",
+  "visa_status": "Employment Visa",
   "languages": [
     {"language": "Arabic", "proficiency": "Native or Bilingual"},
     {"language": "English", "proficiency": "Full Professional"}
   ],
-  "education": {
-    "degree": "Bachelor of Science in Information Systems",
-    "grade": "V.Good with Honours",
-    "university": "Omdurman Islamic University",
-    "faculty": "Science & Technology",
-    "years": "2006 - 2010",
-    "graduation": "August 30, 2010"
-  },
+  "education": [
+    {
+      "degree": "MSc in Informatics",
+      "university": "British University in Dubai (BUiD)",
+      "student_id": "22002576",
+      "years": "2023 - 2024",
+      "status": "Dissertation Phase",
+      "dissertation_module": "RES506_JAN2024",
+      "supervisor": "Prof. Piyush Maheshwari",
+      "key_modules": ["Knowledge Management", "Recent Informatics Trends & Issues", "Knowledge Representation and Reasoning"],
+      "faculty": "Prof. Khaled Shaalan (Engineering & IT)"
+    },
+    {
+      "degree": "MBA Certificate in Information Technology",
+      "university": "UCAM, Spain",
+      "years": "2022",
+      "accreditation": "Dubai Government Accredited",
+      "focus": "IT Leadership, Executive Management"
+    },
+    {
+      "degree": "Bachelor of Science in Information Systems",
+      "grade": "V.Good with Honours",
+      "university": "Omdurman Islamic University",
+      "faculty": "Science & Technology",
+      "years": "2006 - 2010",
+      "graduation": "August 30, 2010"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The impact of knowledge management processes on information systems: A systematic review",
+      "journal": "International Journal of Information Management",
+      "year": 2018,
+      "co_authors": ["Prof. Khaled Shaalan", "Mostafa Al-Emran"],
+      "type": "peer-reviewed"
+    },
+    {
+      "title": "Comprehensive Analysis of Literature on AI-Driven Job Market Demands in the MENA Region: A Systematic Review Framework",
+      "year": "2024-2026",
+      "methodology": "PRISMA 2020 / PRISMA-DFLLM",
+      "type": "research manuscript",
+      "topics": ["LLM-based skill extraction", "JobBERT", "Skill-LLM", "LSTM-ATT career mobility", "SQC-SCORE evaluation"]
+    }
+  ],
+  "research_projects": [
+    {
+      "name": "SAPO Framework (Swarm sAmpling Policy Optimization)",
+      "period": "2024-2026",
+      "description": "Decentralized reinforcement learning framework for LLM post-training optimization using asynchronous, text-based experience sharing across heterogeneous hardware",
+      "achievements": [
+        "94% performance improvement via 8-node swarm (validated over 2,000 rounds)",
+        "Enabled collaboration across 0.5B-3B parameter models (Llama, Mistral, Qwen)",
+        "Implemented GRPO algorithm eliminating critic network, slashing VRAM ~50%",
+        "Engineered Google Drive-based backend for async rollout sharing (no NCCL clusters needed)",
+        "Built heuristic filtering for advantage score quality control"
+      ],
+      "technologies": ["Deep Reinforcement Learning", "GRPO", "PyTorch", "Transformers", "Google Drive API"]
+    },
+    {
+      "name": "OmniDetect Framework",
+      "period": "2024-2026",
+      "description": "Multi-layered AI detection pipeline combining statistical analysis, zero-shot contrastive measurement, and deep-learning semantic classification",
+      "achievements": [
+        "Strided Sliding-Window Tokenization for continuous-context perplexity calculation",
+        "Binoculars-inspired cross-perplexity ratio engine for zero-shot detection",
+        "Heuristic Thresholding Engine: 98% sentence-level certainty + 20% global minimum to reduce ELL false positives",
+        "Adversarial robustness testing via HMGC and RAID frameworks",
+        "Proved commercial detectors can be compromised in <10 seconds"
+      ],
+      "technologies": ["NLP", "Transformers", "Statistical Analysis", "Adversarial ML"]
+    },
+    {
+      "name": "Aldhakheerah Digital Repository",
+      "period": "2020-Present",
+      "description": "Institutional digital repository for Imam Malik College scholarly outputs",
+      "metrics": {
+        "total_papers": 116,
+        "total_downloads": 49000,
+        "annual_downloads": 12600,
+        "countries_reached": 40
+      }
+    },
+    {
+      "name": "Grant-Guard",
+      "description": "NLP compliance tool using Azure AI Document Intelligence for autonomous grant contract analysis and cost rule extraction"
+    },
+    {
+      "name": "Scholars' Ledger",
+      "description": "Continuous Assurance platform built on Microsoft Power Automate with RPA agents (Eligibility Scout, Disbursement Watchdog, Reconciliation Auditor) for financial compliance"
+    },
+    {
+      "name": "Moodle AI Integration",
+      "description": "Provider-agnostic AI subsystem for Moodle LMS using native Azure AI provider, enabling text and image generation within the learning platform"
+    },
+    {
+      "name": "HEIDA-API Integration",
+      "description": "Implementation of UAE Ministry of Higher Education GSB v3 data submission schemas for institutional reporting and graduate outcomes tracking"
+    },
+    {
+      "name": "IMC Student Digital Journey",
+      "description": "10-slide strategic onboarding system for Imam Malik College students integrating Outlook, Teams, Moodle LMS, and EduGate portal"
+    }
+  ],
+  "hackathons": [
+    {
+      "name": "DEWA CleanTech Hackathon — SolCharge",
+      "year": 2022,
+      "result": "Winner — Integration Category",
+      "location": "Mohammed bin Rashid Al Maktoum Solar Park",
+      "description": "Engineered algorithms to incorporate solar generation directly into EV charging applications"
+    },
+    {
+      "name": "CleanTech Hackathon Programmer's Guide",
+      "year": 2026,
+      "role": "Author/Strategic Architect",
+      "description": "Technical dossier for AI & Digitalisation and Decarbonisation tracks covering CNNs/RNNs, deep RL, Hyperledger Fabric, and open data integration"
+    },
+    {
+      "name": "NYU Abu Dhabi Hackathon",
+      "year": "2016-2017",
+      "location": "NYU Abu Dhabi",
+      "projects": ["Arabic Captcha (OCR)", "ClimateViz (data visualization)", "Protector Emergency Response (map-based)", "VR Refugees", "Smart Fork"]
+    },
+    {
+      "name": "AngelHack Abu Dhabi GovTech Challenge",
+      "year": 2017,
+      "location": "ADNEC, Abu Dhabi",
+      "focus": "Governmental applications for cultural tolerance"
+    }
+  ],
   "experience": [
     {
       "title": "Information Technology Officer",
@@ -37,11 +160,15 @@
       "dates": "December 2020 - Present",
       "years": "5+",
       "bullets": [
+        "Architected and deployed the Aldhakheerah digital repository — 116 academic papers, 49,000+ global downloads across 40+ countries with 12,600 annual download velocity",
+        "Designed unified XDR/SIEM cybersecurity architecture using Azure Sentinel and Microsoft Defender for enterprise-wide threat detection",
+        "Integrated AI capabilities into Moodle LMS via Azure AI provider, enabling text and image generation for 500+ students",
+        "Implemented HEIDA-API (GSB v3) for UAE Ministry of Higher Education institutional data reporting and compliance",
+        "Built Grant-Guard NLP compliance tool using Azure AI Document Intelligence for automated grant contract analysis",
+        "Deployed Scholars' Ledger RPA framework on Power Automate with automated compliance agents (Eligibility Scout, Disbursement Watchdog, Reconciliation Auditor)",
+        "Managed lifecycle deployment of enterprise hardware fleets (HP EliteBook, ZBook, ProBook; Dell Latitude, Precision series)",
         "Leading training and workshops for staff tech skills development using Microsoft Office 365",
-        "Implementing solutions using Microsoft .NET Core and Azure",
-        "Working with academic staff virtually and in-person, providing technical training",
-        "Forward-thinking and shaping the business future by analyzing current and predicted business trends",
-        "Engaging customers virtually and in-person, providing technical support"
+        "Created IMC Student Digital Journey — strategic onboarding integrating Outlook, Teams, Moodle LMS, and EduGate"
       ]
     },
     {
@@ -54,8 +181,8 @@
       "bullets": [
         "Teaching students concepts and terminology of information technology",
         "Teaching students to create intelligent, no-code solutions using Microsoft PowerApps, Microsoft Flow, Microsoft Forms, Microsoft chatbots, and Microsoft AI Builder",
-        "Delivering classroom sessions virtually and in-person",
-        "Courses planning, delivery, and evaluation"
+        "Delivering classroom sessions virtually and in-person to diverse student populations",
+        "Courses planning, delivery, and evaluation aligned with institutional learning objectives"
       ]
     },
     {
@@ -65,9 +192,9 @@
       "dates": "2016 - 2019",
       "years": "3",
       "bullets": [
-        "Mission: Connect startup/tech communities in UAE to share ideas",
-        "Enabling startup/tech enthusiasts and professionals to stay updated on local startups, tech events, hackathons",
-        "Connect with like-minded peers, or start their own startup"
+        "Built and led a tech community connecting startup enthusiasts and professionals across UAE",
+        "Organized and curated 40+ local tech events, hackathons, and networking sessions",
+        "Enabled cross-pollination between startup founders, developers, and investors"
       ]
     },
     {
@@ -77,11 +204,10 @@
       "dates": "2015 - 2019",
       "years": "4",
       "bullets": [
-        "Delivering workshops on Office 365 for SMBs",
-        "Helping businesses succeed online as freelance web-developer and consultant (Azure-focused)",
-        "Launched LAW OFFICE Management Software on Azure using Azure technology",
-        "Custom C# applications (migrated from PHP and WordPress)",
-        "Expanded and gained technical knowledge in programming languages, front-end development, and system management"
+        "Launched LAW OFFICE Management Software as Azure-hosted SaaS product",
+        "Delivered Office 365 workshops for SMBs across Dubai",
+        "Built custom C# applications (migrated from PHP and WordPress to Azure stack)",
+        "Provided freelance web development and Azure consulting services"
       ]
     },
     {
@@ -101,11 +227,11 @@
       "dates": "2012 - 2015",
       "years": "3",
       "bullets": [
-        "Installing and maintaining internal network, creating company website",
-        "Internal ERP Development",
-        "E-services integration with office applications",
-        "Designed and Implemented IT Infrastructure (voice-data-Access control-biometric)",
-        "ICDL Course Training In-House"
+        "Designed and implemented complete IT infrastructure (voice, data, access control, biometric systems)",
+        "Developed internal ERP system for legal case management",
+        "Integrated e-services with office applications for streamlined workflows",
+        "Created company website and managed online presence",
+        "Delivered in-house ICDL training program"
       ]
     },
     {
@@ -115,17 +241,13 @@
       "dates": "2010 - 2012",
       "years": "1.5",
       "bullets": [
-        "Promoted from Junior to Senior Programmer based on dedication and expertise",
-        "Prototyping and researching new Microsoft technologies",
-        "Delivering internal workshops about new Microsoft technologies",
-        "Responsible for development process and architecture for 5+ clients as part of DevOps Team",
-        "Translating business requirements into software solutions",
-        "Investigated and resolved issues relating to application functionality",
-        "Developing internal platforms for large hospitals",
-        "Maintained SQL databases and servers",
-        "Worked with Team Leader to design, develop and maintain core system modules"
+        "Promoted from Junior to Senior Programmer based on dedication and expertise within first year",
+        "Led development architecture for 5+ enterprise clients as part of DevOps team",
+        "Developed internal platforms for large hospitals (Procurement, Health Info, Inventory, Medical Equipment Maintenance, Accounting systems)",
+        "Maintained SQL databases and servers for production environments",
+        "Translated complex business requirements into scalable software solutions"
       ],
-      "recommendation": "His talents in the software development area are sterling. Mohamed worked well with our staff and got along well with everyone. He was first appointed as junior programmer, but considering his dedication and expertise at work, he was promoted to the post of senior programmer. He has thorough knowledge about advanced .NET and experience in enterprise application development. He is an excellent team member and works in coordination with rest of the team. He encourages other team members to achieve their targets. Mohamed has excellent communication skills and has the expertise to manage client calls. — Mohammed A. Elhussein, CEO (MSc Software Eng, UK)"
+      "recommendation": "His talents in the software development area are sterling. Mohamed worked well with our staff and got along well with everyone. He was first appointed as junior programmer, but considering his dedication and expertise at work, he was promoted to the post of senior programmer. — Mohammed A. Elhussein, CEO (MSc Software Eng, UK)"
     },
     {
       "title": "Information Technology",
@@ -136,7 +258,7 @@
       "bullets": [
         "Teaching students application development using Windows Forms and VB.NET",
         "Developed Orphans and Poor Families Information Management System (Omdurman municipality) using VB.NET",
-        "Rehabilitating the computer lab of Ammar Secondary School for Girls in the village of Musho",
+        "Rehabilitating the computer lab of Ammar Secondary School for Girls",
         "Leading information technology student's media group newspaper"
       ]
     }
@@ -145,7 +267,7 @@
     {"name": "Security Onion", "issuer": "LinkedIn Learning", "year": 2025, "category": "cybersecurity"},
     {"name": "Generative AI for Business Leaders", "issuer": "LinkedIn Learning", "year": 2025, "category": "ai"},
     {"name": "IT Service Management: ISO20000", "issuer": "LinkedIn Learning", "year": 2024, "category": "itsm"},
-    {"name": "Microsoft Certified Trainer (MCT)", "issuer": "Microsoft", "year": "2021-2027", "credential_id": "E5O8CD-751D0E", "category": "training"},
+    {"name": "Microsoft Certified Trainer (MCT)", "issuer": "Microsoft", "year": "2021-2027", "credential_id": "E5O8CD-751D0E", "category": "training", "note": "Renewed annually 2021-2024+, active through 2027"},
     {"name": "Azure AI Fundamentals", "issuer": "Microsoft", "year": 2023, "category": "ai"},
     {"name": "Xamarin Certified Mobile Developer", "issuer": "Xamarin", "year": 2017, "category": "mobile"},
     {"name": "MS Specialist: Developing Azure Solutions", "issuer": "Microsoft", "year": 2014, "credential_id": "F140-3948", "category": "cloud"},
@@ -153,24 +275,52 @@
     {"name": "MCSA: Office 365", "issuer": "Microsoft", "year": 2014, "credential_id": "F118-8170", "category": "productivity"},
     {"name": "MCPS: Microsoft Certified Professional", "issuer": "Microsoft", "year": 2013, "credential_id": "E313-9965", "category": "general"}
   ],
-  "training": [
+  "training_and_courses": [
+    {"name": "MITx: Probability — The Science of Uncertainty and Data", "platform": "edX / MIT", "year": 2024, "focus": "Statistical Modeling, Data Science"},
+    {"name": "AI Professional Program Certification Exam", "year": 2024, "focus": "Artificial Intelligence Implementation"},
+    {"name": "Introduction to Data Mining", "year": 2023, "focus": "Data Analysis, Information Extraction"},
     {"name": "Deep Learning", "year": 2019},
     {"name": "Intro to Machine Learning", "year": 2018},
     {"name": "Intro to Data Science", "year": 2018},
     {"name": "Introduction to ASP.NET Core", "year": 2016},
     {"name": "Hacking Countermeasures — Charles Sturt University", "year": 2014}
   ],
+  "presentations": [
+    {"title": "Inference Techniques for Predicate Logic", "context": "University-level CS instruction (Dr. Khaled Shaalan)", "topics": ["Inference rules", "Unification algorithms", "Forward/backward chaining"]},
+    {"title": "Let's Learn Angular!", "context": "Companion-codelab guide", "topics": ["Angular bootstrapping", "Component templates", "Dependency injection"]},
+    {"title": "Large-scale Applications with Angular", "context": "Google engineering insights", "topics": ["Scaling patterns", "Enterprise Angular architecture"]},
+    {"title": "React Native Navigation (Lecture 6)", "context": "Cross-platform mobile development", "topics": ["Navigation patterns", "Cross-platform UI"]},
+    {"title": "Docker Revolution", "context": "Container architecture for broad audiences", "topics": ["Microservices", "Container orchestration"]},
+    {"title": "TensorFlow and Deep Reinforcement Learning", "context": "Democratizing AI knowledge", "topics": ["Neural networks", "Reinforcement learning"]},
+    {"title": "IMC Student Digital Journey", "context": "Imam Malik College orientation", "topics": ["Outlook", "Teams", "Moodle LMS", "EduGate", "Turnitin"]}
+  ],
+  "ambassadorships": [
+    {
+      "title": "UAE Coding Ambassador",
+      "organization": "CodersHQ",
+      "year": 2022,
+      "description": "Representing UAE coding community, empowering aspiring developers, sharing technical knowledge across the region"
+    },
+    {
+      "title": "UAE AI Office (HQ) Ambassador",
+      "organization": "Artificial Intelligence, Digital Economy and Remote Work Applications Office (UAE)",
+      "year": "September 2022 - Present",
+      "description": "National-level AI advocacy and digital economy initiatives"
+    }
+  ],
   "skills": {
-    "programming": ["C#", "VB.NET", "Python", "JavaScript", "Dart", "HTML", "CSS", "SQL"],
-    "frameworks": ["ASP.NET MVC", "ASP.NET Core", "Flutter/Dart", "Xamarin", "jQuery", "Kendo UI", "LINQ"],
-    "cloud": ["Microsoft Azure", "Azure AI Services", "Office 365 Administration", "Docker"],
-    "data": ["SQL Server 2008/2012", "Oracle", "TensorFlow"],
-    "ai_ml": ["Machine Learning", "Deep Learning", "Data Science", "Generative AI", "Azure AI"],
+    "programming": ["C#", "VB.NET", "Python", "JavaScript", "Dart", "HTML", "CSS", "SQL", "PL/SQL"],
+    "frameworks": ["ASP.NET MVC", "ASP.NET Core", "ASP.NET Web API", ".NET Core", "Flutter/Dart", "Xamarin", "Angular", "React Native", "jQuery", "Kendo UI", "Bootstrap", "LINQ", "Entity Framework", "WCF"],
+    "cloud": ["Microsoft Azure", "Azure AI Services", "Azure Sentinel", "Azure AI Document Intelligence", "Office 365 Administration", "Docker", "SQL Azure"],
+    "data": ["SQL Server", "MySQL", "Oracle", "Database Modeling", "Data Visualization", "Data Mining", "Crystal Reports"],
+    "ai_ml": ["Deep Reinforcement Learning", "Large Language Models (LLMs)", "GRPO", "Transformers", "TensorFlow", "Machine Learning", "Deep Learning", "NLP", "Computer Vision", "Generative AI", "Azure AI", "Prompt Engineering"],
+    "research": ["PRISMA 2020", "PRISMA-DFLLM", "Systematic Literature Reviews", "Academic Publishing", "Statistical Modeling"],
     "no_code": ["Microsoft PowerApps", "Microsoft Power Automate", "Microsoft Forms", "Microsoft AI Builder", "Microsoft Chatbots"],
-    "infrastructure": ["Networking", "Biometrics", "Access Control", "PABX Telephony", "Windows Server 2012"],
-    "devops": ["Git/GitHub", "CI/CD", "IdentityServer4", "OAuth2"],
-    "other": ["Website Development", "CMS", "Linux", "Cybersecurity", "ITSM/ISO20000"],
-    "soft": ["Leadership", "Training & Education Delivery", "Communication", "Client Relationship Management", "Project Planning", "Mentoring", "Community Building", "Public Speaking"]
+    "infrastructure": ["Networking", "Biometrics", "Access Control", "PABX Telephony", "Windows Server", "XDR/SIEM", "Cybersecurity", "Endpoint Management"],
+    "devops": ["Git/GitHub", "CI/CD", "IdentityServer4", "OAuth2", "REST APIs", "WSDL/Web Services"],
+    "education_tech": ["Moodle LMS", "Learning Management Systems", "Instructional Design", "Instructor-led Training", "ICDL"],
+    "other": ["ERP Software", "IT Governance", "IT Service Management", "ISO20000", "Linux", "Systems Analysis", "Software Architecture", "OOP"],
+    "soft": ["Leadership", "Training & Education Delivery", "Communication", "Client Relationship Management", "Project Planning", "Mentoring", "Community Building", "Public Speaking", "Knowledge Dissemination", "Strategic Initiatives"]
   },
   "github": {
     "username": "Elrashid",
@@ -179,7 +329,14 @@
     "org_repos": 49,
     "total_repos": 110,
     "achievements": ["Arctic Code Vault Contributor", "Pull Shark (x2)", "Quickdraw"],
-    "stackoverflow_rep": "6.3k",
+    "stackoverflow": {
+      "reputation": 7741,
+      "people_reached": "~783k",
+      "answers": 92,
+      "questions": 18,
+      "votes_cast": 180,
+      "ranking": "Top 5% this year"
+    },
     "key_projects": [
       {"name": "Xamarin.Tensorflow.Inception.Android", "lang": "C#", "stars": 2, "desc": "TensorFlow on Xamarin Android"},
       {"name": "identityserver4-Sample-One-App-For-API-And-Web", "lang": "C#", "stars": 2, "desc": "IdentityServer4 sample"},
@@ -188,6 +345,19 @@
     ],
     "org_topics": ["CRUD apps", "Animations", "State management", "PayPal integration", "OAuth2 secure APIs", "Sliver widgets", "Reorderable lists", "Dart collections"]
   },
+  "google_local_guides": {
+    "level": 6,
+    "views": "~3.2 million",
+    "contributions": 368
+  },
+  "linkedin_articles": {
+    "views": 16265,
+    "articles": [
+      "Group List Object JSON Array",
+      "Latest Microsoft Generative AI Technologies Azure OpenAI",
+      "What Customer Journey Mapping"
+    ]
+  },
   "startups": [
     {"name": "KONSTARTUP", "years": "2016-2019", "desc": "Connect startup/tech communities in UAE to share ideas"},
     {"name": "MOECS", "years": "2015-2019", "desc": "Azure consulting, law office SaaS, freelance web development"}
@@ -195,20 +365,45 @@
   "volunteer": {
     "description": "Supporting UAE local tech/startup events (digital media)",
     "events_count": "40+",
-    "period": "2015-2020"
+    "period": "2015-2020",
+    "stackoverflow": {
+      "role": "Individual Contributor",
+      "cause": "Education",
+      "since": 2017
+    },
+    "google_local_guides": {
+      "role": "Individual Contributor",
+      "cause": "Education",
+      "since": 2018
+    }
   },
+  "meetups_2026": [
+    {"name": "SVVR Meetup #98", "date": "Jan 22, 2026", "location": "ByteDance HQ, San Jose", "domain": "Immersive Tech / VR"},
+    {"name": "Apache Kafka/Flink x AI", "date": "Feb 10, 2026", "location": "AWS Office, Dubai", "domain": "Streaming Data Architecture"},
+    {"name": "Safety, Reliability & Best Practices in LangChain4j", "date": "Mar 12, 2026", "location": "Online", "domain": "LLM Frameworks"},
+    {"name": "Dubai AI Meetup", "date": "Mar 14, 2026", "location": "Dubai", "domain": "AI"},
+    {"name": "AI Builders Night San Jose", "date": "Mar 16, 2026", "location": "San Jose", "domain": "AI Engineering & Startups"},
+    {"name": "San Diego JavaScript Monthly", "date": "Apr 8, 2026", "location": "San Diego", "domain": "Frontend Web Architecture"},
+    {"name": "HCD UAE Meetup (DDX Lightning)", "date": "Apr 9, 2026", "location": "Dtec, Dubai", "domain": "Human-Centered Design"},
+    {"name": "AI WEEK Dubai", "date": "Apr 21-25, 2025", "location": "Dubai", "domain": "AI"},
+    {"name": "Pieces AI Productivity Summit", "date": "May 1, 2025", "location": "Online", "domain": "AI Productivity"}
+  ],
+  "causes": ["Education", "Science and Technology"],
   "key_differentiators": [
-    "16+ years continuous IT experience (no gaps)",
-    "UAE-based since secondary school — deep local market knowledge",
-    "Government sector experience (Imam Malik College — Government of Dubai)",
-    "Education + Technology dual track — can train AND build",
-    "2 startups founded — entrepreneurial mindset",
-    "110+ GitHub repos — proven hands-on coder",
-    "Arctic Code Vault Contributor — open source commitment",
+    "16+ years continuous IT experience (no gaps) across education, enterprise, government, and research",
+    "MSc Informatics (BUiD) + MBA IT (UCAM Spain) + BSc Information Systems — triple-qualified",
+    "Published researcher: peer-reviewed paper in Int. Journal of Information Management (2018)",
+    "SAPO Framework: achieved 94% LLM performance improvement via decentralized reinforcement learning swarms",
+    "DEWA CleanTech Hackathon Winner (Integration category) — SolCharge for EV solar charging",
+    "UAE Coding Ambassador (CodersHQ) + UAE AI Office Ambassador — dual national-level recognition",
+    "Aldhakheerah repository: 116 papers, 49K+ downloads, 40+ countries — institutional digital transformation",
+    "110+ GitHub repos, Arctic Code Vault Contributor, StackOverflow top 5% (7.7K rep, 783K reached)",
+    "Government sector experience (Imam Malik College — Government of Dubai, 10+ years)",
+    "Azure certified stack with hands-on AI integration (Moodle AI, Grant-Guard NLP, Scholars' Ledger RPA)",
+    "Microsoft Certified Trainer (2021-2027) — 16,265+ LinkedIn article views",
     "Bilingual Arabic/English — essential for MENA roles",
-    "Azure certified stack — cloud-ready",
-    "AI/ML progression from training (2018) to Azure AI (2023) to GenAI (2025) to GPT Architecture Research (2026)",
-    "Microsoft Certified Trainer — can formally train others on Microsoft tech",
-    "Community builder — 40+ events, 2 startup communities"
+    "2 startups founded, 40+ tech events organized — entrepreneurial + community builder",
+    "Active 2026 meetup circuit: Kafka, LangChain4j, Dubai AI, VR, HCD across Dubai, San Jose, San Diego",
+    "OmniDetect AI detection pipeline + PRISMA-DFLLM methodology — cutting-edge research output"
   ]
 }

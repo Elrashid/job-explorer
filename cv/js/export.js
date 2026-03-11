@@ -254,7 +254,7 @@ ${certs.map(c => `<div class="cert">${this.escapeHtml(c)}</div>`).join('')}
     try {
       if (!window.docx) {
         const script = document.createElement('script');
-        script.src = 'https://cdn.jsdelivr.net/npm/docx@8.5.0/build/index.min.js';
+        script.src = 'https://cdn.jsdelivr.net/npm/docx@9.6.1/dist/index.iife.min.js';
         document.head.appendChild(script);
         await new Promise((resolve, reject) => {
           script.onload = resolve;
@@ -324,7 +324,7 @@ ${certs.map(c => `<div class="cert">${this.escapeHtml(c)}</div>`).join('')}
     try {
       if (!window.PptxGenJS) {
         const script = document.createElement('script');
-        script.src = 'https://cdn.jsdelivr.net/npm/pptxgenjs@3.12.0/dist/pptxgenjs.bundle.js';
+        script.src = 'https://cdn.jsdelivr.net/npm/pptxgenjs@4.0.1/dist/pptxgen.bundle.js';
         document.head.appendChild(script);
         await new Promise((resolve, reject) => {
           script.onload = resolve;

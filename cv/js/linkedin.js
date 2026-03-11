@@ -91,13 +91,14 @@ export class TabLinkedin extends HTMLElement {
     const summaryAdditions = new Set();
     const featuredContent = new Set();
 
+    const toArray = v => Array.isArray(v) ? v : (v ? [v] : []);
     for (const { cv } of items) {
       const tips = cv.linkedin_tips;
       if (tips.headline) headlines.add(tips.headline);
-      if (tips.skills_to_add) tips.skills_to_add.forEach(s => skillsToAdd.add(s));
-      if (tips.skills_to_remove) tips.skills_to_remove.forEach(s => skillsToRemove.add(s));
-      if (tips.summary_additions) tips.summary_additions.forEach(s => summaryAdditions.add(s));
-      if (tips.featured_content) tips.featured_content.forEach(s => featuredContent.add(s));
+      toArray(tips.skills_to_add).forEach(s => skillsToAdd.add(s));
+      toArray(tips.skills_to_remove).forEach(s => skillsToRemove.add(s));
+      toArray(tips.summary_additions).forEach(s => summaryAdditions.add(s));
+      toArray(tips.featured_content).forEach(s => featuredContent.add(s));
     }
 
     // Recommended Headlines
