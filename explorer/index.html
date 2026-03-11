@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'">
 <title>Jobs Explorer</title>
 <link rel="stylesheet" href="css/cyber.css">
 </head>
@@ -98,7 +100,7 @@
     <div class="shortcut-row"><span>This help</span><span class="shortcut-key">?</span></div>
     <div class="shortcut-row"><span>Close overlay</span><span class="shortcut-key">Esc</span></div>
     <div class="btn-row">
-      <button class="btn-primary" onclick="document.getElementById('help-overlay').classList.add('hidden')">Got it</button>
+      <button class="btn-primary" id="btn-help-close">Got it</button>
     </div>
   </div>
 </div>

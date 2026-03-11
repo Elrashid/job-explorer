@@ -5,7 +5,9 @@ export function exportCSV(jobs) {
   const fields = Object.keys(jobs[0]).filter(k => !skip.has(k));
 
   const escape = v => {
-    const s = String(v ?? '');
+    let s = String(v ?? '');
+    // Prevent CSV formula injection
+    if (/^[=+\-@\t\r]/.test(s)) s = "'" + s;
     return s.includes(',') || s.includes('"') || s.includes('\n')
       ? '"' + s.replace(/"/g, '""') + '"' : s;
   };

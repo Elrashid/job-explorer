@@ -86,6 +86,7 @@ function setupEvents() {
 
   // Help
   el('btn-help').addEventListener('click', () => toggleHelp());
+  el('btn-help-close').addEventListener('click', () => el('help-overlay').classList.add('hidden'));
 }
 
 function setupKeyboard() {

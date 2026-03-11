@@ -16,7 +16,8 @@ export class TabBoard extends HTMLElement {
   _loadState() {
     try {
       const saved = localStorage.getItem(BOARD_KEY);
-      this.boardState = saved ? JSON.parse(saved) : {};
+      const parsed = saved ? JSON.parse(saved) : {};
+      this.boardState = (typeof parsed === 'object' && parsed !== null && !Array.isArray(parsed)) ? parsed : {};
     } catch { this.boardState = {}; }
     // Put any new jobs in Saved
     this.jobs.forEach(j => {
@@ -71,7 +72,7 @@ export class TabBoard extends HTMLElement {
         e.preventDefault();
         zone.style.background = '';
         const jobId = e.dataTransfer.getData('text/plain');
-        if (jobId) {
+        if (jobId && this.jobs.some(j => j.job_id === jobId)) {
           this.boardState[jobId] = col;
           this._saveState();
           this.render();

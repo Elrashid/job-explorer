@@ -15,7 +15,10 @@ const DEFAULTS = {
 export function loadPrefs() {
   try {
     const saved = localStorage.getItem(STORAGE_KEY);
-    return saved ? { ...DEFAULTS, ...JSON.parse(saved) } : { ...DEFAULTS };
+    if (!saved) return { ...DEFAULTS };
+    const parsed = JSON.parse(saved);
+    if (typeof parsed !== 'object' || parsed === null || Array.isArray(parsed)) return { ...DEFAULTS };
+    return { ...DEFAULTS, ...parsed };
   } catch { return { ...DEFAULTS }; }
 }
 
